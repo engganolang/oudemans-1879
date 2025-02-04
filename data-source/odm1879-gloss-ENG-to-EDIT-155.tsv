@@ -1,0 +1,299 @@
+NUMBER	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
+#<<<				
+1	head	1256	HEAD	2
+1	head	2992	TIP (OF OBJECT)	2
+#>>>				
+2	ear	1247	EAR	2
+3	nose	1221	NOSE	2
+4	mouth	674	MOUTH	2
+5	eye	1248	EYE	2
+6	chin	1510	CHIN	2
+7	head hair	2648	HAIR (HEAD)	2
+8	beard	678	BEARD	2
+9	neck	1333	NECK	2
+#<<<				
+10	breast	1402	BREAST	2
+10	breast	1592	CHEST	2
+#>>>				
+11	belly	1251	BELLY	2
+12	arm	1673	ARM	2
+13	hand	1277	HAND	2
+14	right hand	2183	RIGHT HAND	2
+15	left hand	2182	LEFT HAND	2
+16	finger	1303	FINGER	2
+#<<<				
+17	nail	1258	FINGERNAIL	2
+17	nail	1896	FINGERNAIL OR TOENAIL	2
+17	nail	502	NAIL (TOOL)	2
+#>>>				
+18	thumb	1781	THUMB	2
+19	index finger	577	FOREFINGER	2
+20	middle finger	3387	MIDDLE FINGER	2
+21	ring finger		???	
+22	little finger	2774	LITTLE FINGER	2
+23	thigh	471	UPPER LEG (THIGH)	2
+24	knee	1371	KNEE	2
+25	woman’s breast	1402	BREAST	2
+26	body	1480	BODY	2
+27	person	683	PERSON	2
+#<<<				
+28	man	683	PERSON	2
+28	man	1554	MAN	2
+28	man	2106	MALE PERSON	2
+#>>>				
+29	woman	962	WOMAN	2
+#<<<				
+30	child	1801	CHILD (DESCENDANT)	2
+30	child	2099	CHILD	2
+30	child	1304	CHILD (YOUNG HUMAN)	2
+#>>>				
+31	virgin	2298	VIRGIN	2
+32	old person (m.)	725	OLD PERSON	4
+33	old person (f.)	725	OLD PERSON	4
+34	young person	1207	YOUNG	4
+35	father	1217	FATHER	2
+36	mother	1216	MOTHER	2
+37	son	1620	SON	2
+38	daughter	1357	DAUGHTER	2
+39	uncle	1327	UNCLE	2
+#<<<				
+40	cousin (female)	3823	FEMALE COUSIN	4
+40	cousin (female)	2384	COUSIN OR SISTER-IN-LAW	4
+40	cousin (female)	1643	COUSIN	4
+40	cousin (female)	3822	MALE COUSIN	4
+#>>>				
+#<<<				
+41	cousin (male)	3823	FEMALE COUSIN	4
+41	cousin (male)	2384	COUSIN OR SISTER-IN-LAW	4
+41	cousin (male)	1643	COUSIN	4
+41	cousin (male)	3822	MALE COUSIN	4
+#>>>				
+42	grandfather	1383	GRANDFATHER	2
+43	grandmother	1496	GRANDMOTHER	2
+44	grandson	1618	GRANDSON	2
+45	granddaughter	1619	GRANDDAUGHTER	2
+46	loincloth	1965	LOINCLOTH	2
+47	dog	2009	DOG	2
+#<<<				
+48	pig	1337	PIG	2
+48	pig	2564	PIGLET	2
+#>>>				
+#<<<				
+49	deer	1936	DEER	2
+49	deer	3826	ROE DEER	2
+#>>>				
+#<<<				
+50	cat	3825	MALE CAT	2
+50	cat	1208	CAT	2
+#>>>				
+51	rooster	1511	ROOSTER	2
+#<<<				
+52	hen	1514	HEN	2
+52	hen	1318	CHICKEN	2
+#>>>				
+53	bird	937	BIRD	2
+54	horse	615	HORSE	2
+#<<<				
+55	cow	1007	COW	2
+55	cow	3044	BOVINE	2
+#>>>				
+#<<<				
+56	fish	227	FISH	2
+56	fish	2638	FISHING	2
+#>>>				
+57	coconut	970	COCONUT	2
+#<<<				
+58	banana	868	BANANA	2
+58	banana	399	PLANTAIN	2
+#>>>				
+59	sago	2270	SAGO	2
+#<<<				
+60	water	3078	IRRIGATE	2
+60	water	2516	WATER BUFFALO	2
+60	water	948	WATER	2
+#>>>				
+61	house	1252	HOUSE	2
+62	tree	906	TREE	2
+#<<<				
+63	bark	1204	BARK	2
+63	bark	3865	BARK OR SHELL	2
+63	bark	1206	BARKING	2
+#>>>				
+#<<<				
+64	river	666	RIVER	2
+64	river	3311	FLOWING BODY OF WATER	2
+#>>>				
+65	sea	1474	SEA	2
+66	ship	740	SHIP	2
+67	sampan (k.o. boat)		???	
+#<<<				
+68	paddle	3668	PADDLE (MOVEMENT)	2
+68	paddle	234	PADDLE	2
+68	paddle	3137	OAR	2
+#>>>				
+69	fire	221	FIRE	2
+70	roof	769	ROOF	2
+71	door	1567	DOOR	2
+72	sun	1343	SUN	2
+#<<<				
+73	day	1260	DAY (24 HOURS)	2
+73	day	1225	DAY (NOT NIGHT)	2
+#>>>				
+74	moon	1313	MOON	2
+75	star	1430	STAR	2
+76	midday	12	MIDDAY	2
+77	wind	960	WIND	2
+78	current	2935	CURRENT (STREAM)	2
+79	hill	614	HILL	2
+80	mountain	639	MOUNTAIN	2
+81	flood	613	HIGH TIDE	2
+82	shield	1064	SHIELD	2
+83	knife k.o.		???	
+84	bow	994	BOW	2
+85	arrow	977	ARROW	2
+86	cutlass k.o.		???	
+87	javelin		???	
+88	big	1202	BIG	2
+89	small	1246	SMALL	2
+#<<<				
+90	old	2112	OLD (AGED)	2
+90	old	2113	OLD (USED)	2
+90	old	1229	OLD	2
+90	old	406	OLD MAN	2
+#>>>				
+#<<<				
+91	young	1207	YOUNG	2
+91	young	2512	CHICK	2
+91	young	564	YOUNG (OF MAN)	2
+#>>>				
+#<<<				
+92	male	1553	MALE	2
+92	male	2106	MALE PERSON	2
+92	male	2261	MALE (OF PERSON)	2
+#>>>				
+#<<<				
+93	female	1551	FEMALE	2
+93	female	2105	FEMALE PERSON	2
+93	female	962	WOMAN	2
+93	female	2260	FEMALE (OF PERSON)	2
+#>>>				
+#<<<				
+94	long	1203	LONG	2
+94	long	3473	LONG (FOR SOMETHING)	2
+94	long	418	FOR A LONG TIME	2
+#>>>				
+95	short	1645	SHORT	2
+#<<<				
+96	wide	2531	BROAD	2
+96	wide	1243	WIDE	2
+96	wide	1244	THICK	2
+#>>>				
+97	narrow	1267	NARROW	2
+98	beautiful	1427	BEAUTIFUL	2
+99	ugly	1548	UGLY	2
+#<<<				
+100	high	2790	HIGH OR TALL	2
+100	high	3347	HIGH OR UP	2
+100	high	1265	HIGH	2
+#>>>				
+#<<<				
+101	low	721	LOW	2
+101	low	3348	LOW (POSITION OR HEIGHT)	2
+101	low	2191	LOW (HEIGHT)	2
+#>>>				
+102	north	1598	NORTH	2
+103	west	1817	WEST	2
+104	south	1595	SOUTH	2
+105	east	1877	EAST	2
+106	hungry	1533	BE HUNGRY	2
+107	full	1429	FULL	2
+108	I	1209	I	2
+#<<<				
+109	you	2312	YOU (OBLIQUE CASE OF YOU)	2
+109	you	1213	YOU	2
+109	you	1215	THOU	2
+#>>>				
+#<<<				
+110	he	1211	HE	2
+110	he	2642	HE OR SHE	2
+#>>>				
+#<<<				
+111	we	1131	WE (INCLUSIVE)	2
+111	we	1130	WE (EXCLUSIVE)	2
+111	we	1212	WE	2
+#>>>				
+112	they	817	THEY	2
+113	one	1493	ONE	2
+#<<<				
+114	two	1498	TWO	2
+114	two	1384	SECOND	2
+#>>>				
+115	three	492	THREE	2
+116	four	1500	FOUR	2
+117	five	493	FIVE	2
+118	six	1703	SIX	2
+119	seven	1704	SEVEN	2
+120	eight	1705	EIGHT	2
+121	nine	1483	NINE	2
+122	ten	1515	TEN	2
+123	eleven	1706	ELEVEN	2
+124	twelve	1707	TWELVE	2
+125	thirteen	1708	THIRTEEN	2
+126	twenty	1710	TWENTY	2
+127	thirty	1715	THIRTY	2
+128	forty	1716	FORTY	2
+129	fifty	1717	FIFTY	2
+130	sixty	1718	SIXTY	2
+131	seventy	1721	SEVENTY	2
+132	eighty	1722	EIGHTY	2
+133	ninety	1724	NINETY	2
+134	one hundred	1634	HUNDRED	2
+135	two hundred	2676	TWO HUNDRED	2
+136	three hundred	3513	THREE HUNDRED	2
+137	four hundred	3515	FOUR HUNDRED	2
+138	one thousand	1843	THOUSAND	2
+139	eat	1336	EAT	2
+#<<<				
+140	drink	731	BEVERAGE	2
+140	drink	1401	DRINK	2
+#>>>				
+#<<<				
+141	sleep	1585	SLEEP	2
+141	sleep	2972	SLEEP (STATE)	2
+#>>>				
+#<<<				
+142	sit	1416	SIT	2
+142	sit	1649	SIT DOWN	2
+#>>>				
+#<<<				
+143	walk	1443	WALK	2
+143	walk	2979	WALK (MANNER)	2
+#>>>				
+#<<<				
+144	stand	1442	STAND	2
+144	stand	570	STAND UP	2
+#>>>				
+#<<<				
+145	wash	1453	WASH	2
+145	wash	3371	WASH (ONESELF)	2
+#>>>				
+146	swim	1439	SWIM	2
+#<<<				
+147	cook	1100	COOK (SOMETHING)	2
+147	cook	2315	COOK (PERSON)	2
+#>>>				
+148	climb	1102	CLIMB	2
+149	descend	2014	GO DOWN (DESCEND)	2
+150	yes	1268	YES	2
+151	no	1269	NO	2
+152	inside	1606	INSIDE	2
+153	outside	762	OUTSIDE	2
+#<<<				
+154	above	1265	HIGH	2
+154	above	1741	ABOVE	2
+#>>>				
+#<<<				
+155	beneath	690	BOTTOM	2
+155	beneath	1485	BELOW OR UNDER	2
+#>>>				
+#	150/155	97%	
