@@ -1,0 +1,118 @@
+Microsoft Windows [Version 10.0.19045.5371]
+(c) Microsoft Corporation. All rights reserved.
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench
+usage: cldfbench [-h] [--log-level LOG_LEVEL] [-z FIELD_SIZE_LIMIT] [--random-seed RANDOM_SEED] COMMAND ...
+
+options:
+  -h, --help            show this help message and exit
+  --log-level LOG_LEVEL
+                        log level [ERROR|WARN|INFO|DEBUG] (default: 20)
+  -z FIELD_SIZE_LIMIT, --maxfieldsize FIELD_SIZE_LIMIT
+                        Maximum length of a single field in any input CSV file. (default: 131072)
+  --random-seed RANDOM_SEED
+
+available commands:
+  Run "COMAMND -h" to get help for a specific command.
+
+  COMMAND
+    catconfig           Write a config file containing the local paths of clones of Catalogs.
+    catinfo             Display information about catalogs in the system
+    catupdate           Update local clones of catalog repositories.
+    check               Run generic CLDF checks
+    ci                  Setup CLDF validation as CI service via GitHub actions.
+    cldfreadme          Write markdown versions of the CLDF datasets to cldf/README.md
+    diff                Compute "essential" changes of the data in the cldf directory of a dataset's git repository.
+    download            Run download command of a dataset
+    geojson             Write a geoJSON file, mapping the languages in the dataset, to the Dataset's directory.
+    info                Display basic info about a dataset
+    ls                  List installed datasets.
+    makecldf            Run makecldf command of a dataset
+    media               Download {and pack} (filtered) media files {and prepare release on Zenodo}
+    new                 Create a skeleton for a new dataset
+    readme              Write dataset metadata to a README.md in the dataset's directory.
+    run                 Run a custom dataset command
+    stub                Stub command for experimentation
+    zenodo              Write metadata for Zenodo to .zenodo.json
+    zenodo.download     Download a CLDF dataset from Zenodo
+    dictionaria.release
+                        Create CLDF release version of a submission in its own repository
+    dictionaria.upload_media
+                        Updload media files of a submission to CDSTAR.
+    lexibank.check      Run all checks
+    lexibank.check_languages
+                        Check language specifications of lexibank datasets
+    lexibank.check_lexibank
+                        Check lexibank plumbing for lexibank datasets
+    lexibank.check_phonotactics
+                        Check forms against a dataset's orthography profile.
+    lexibank.check_profile
+                        Check forms against a dataset's orthography profile.
+    lexibank.db         Connect to the database with sqlite3.
+    lexibank.format_profile
+                        Format (and lint) the orthography profiles of a dataset.
+    lexibank.init_profile
+                        Create an initial orthography profile, seeded from the forms created by a first run
+    lexibank.language_profiles
+                        Create a profile for individual languages from an already prepared general profile.
+    lexibank.load       Load dataset(s) into the lexibank SQLite database.
+    lexibank.ls         List lexibank datasets - installed or loaded into the db.
+    lexibank.makecldf   Run makecldf command of a dataset
+    lexibank.readme     Write dataset metadata to a README.md in the dataset's directory.
+    lexibank.unload     Load dataset(s) into the lexibank SQLite database.
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>pwd                
+'pwd' is not recognized as an internal or external command,
+operable program or batch file.
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879> cldfbench new --out "../Research"
+id: oudemans1879
+title: CLDF dataset derived from Oudemans' "Woordenlijst van de Talen van Enggano, Mentawei en Nias" from 1879
+license: CC-BY-NC-SA
+url:
+citation:
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Scripts\cldfbench.exe\__main__.py", line 7, in <module>
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\__main__.py", line 89, in main
+    return args.main(args) or 0
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\commands\new.py", line 36, in run
+    tmpl.render(args.out, md)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\scaffold.py", line 75, in render
+    outdir.mkdir()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2288.0_x64__qbz5n2kfra8p0\Lib\pathlib.py", line 1311, in mkdir   
+    os.mkdir(self, mode)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '..\\Research\\oudemans1879'
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879> cldfbench new --out "C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\"
+id: oudemans1879
+title: CLDF dataset derived from Oudemans' "Woordenlijst van de Talen van Enggano, Mentawei en Nias" from 1879
+license: CC-BY-NC-SA
+url:
+citation:
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Scripts\cldfbench.exe\__main__.py", line 7, in <module>
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\__main__.py", line 89, in main
+    return args.main(args) or 0
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\commands\new.py", line 36, in run
+    tmpl.render(args.out, md)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\scaffold.py", line 75, in render
+    outdir.mkdir()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2288.0_x64__qbz5n2kfra8p0\Lib\pathlib.py", line 1311, in mkdir   
+    os.mkdir(self, mode)
+OSError: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\GRajeg\\OneDrive - Nexus365\\Documents\\Research"\\oudemans1879'
+
+==== THE FOLLOWING CODE WORKS TO SETUP THE CLDF SKELETON ====
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879> cldfbench new --out "C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research"  
+id: oudemans1879
+title: CLDF dataset derived from Oudemans' "Woordenlijst van de Talen van Enggano, Mentawei en Nias" from 1879
+license: CC-BY-NC-SA
+url:
+citation:
