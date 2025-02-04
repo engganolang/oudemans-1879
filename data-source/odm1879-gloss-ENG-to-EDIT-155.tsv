@@ -1,8 +1,5 @@
 NUMBER	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
-#<<<				
 1	head	1256	HEAD	2
-1	head	2992	TIP (OF OBJECT)	2
-#>>>				
 2	ear	1247	EAR	2
 3	nose	1221	NOSE	2
 4	mouth	674	MOUTH	2
@@ -11,42 +8,27 @@ NUMBER	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 7	head hair	2648	HAIR (HEAD)	2
 8	beard	678	BEARD	2
 9	neck	1333	NECK	2
-#<<<				
 10	breast	1402	BREAST	2
-10	breast	1592	CHEST	2
-#>>>				
 11	belly	1251	BELLY	2
 12	arm	1673	ARM	2
 13	hand	1277	HAND	2
 14	right hand	2183	RIGHT HAND	2
 15	left hand	2182	LEFT HAND	2
 16	finger	1303	FINGER	2
-#<<<				
-17	nail	1258	FINGERNAIL	2
 17	nail	1896	FINGERNAIL OR TOENAIL	2
-17	nail	502	NAIL (TOOL)	2
-#>>>				
 18	thumb	1781	THUMB	2
 19	index finger	577	FOREFINGER	2
 20	middle finger	3387	MIDDLE FINGER	2
-21	ring finger		???	
+21	ring finger	1303	FINGER	
 22	little finger	2774	LITTLE FINGER	2
 23	thigh	471	UPPER LEG (THIGH)	2
 24	knee	1371	KNEE	2
 25	woman’s breast	1402	BREAST	2
 26	body	1480	BODY	2
 27	person	683	PERSON	2
-#<<<				
-28	man	683	PERSON	2
 28	man	1554	MAN	2
-28	man	2106	MALE PERSON	2
-#>>>				
 29	woman	962	WOMAN	2
-#<<<				
-30	child	1801	CHILD (DESCENDANT)	2
 30	child	2099	CHILD	2
-30	child	1304	CHILD (YOUNG HUMAN)	2
-#>>>				
 31	virgin	2298	VIRGIN	2
 32	old person (m.)	725	OLD PERSON	4
 33	old person (f.)	725	OLD PERSON	4
@@ -56,89 +38,40 @@ NUMBER	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 37	son	1620	SON	2
 38	daughter	1357	DAUGHTER	2
 39	uncle	1327	UNCLE	2
-#<<<				
 40	cousin (female)	3823	FEMALE COUSIN	4
-40	cousin (female)	2384	COUSIN OR SISTER-IN-LAW	4
-40	cousin (female)	1643	COUSIN	4
-40	cousin (female)	3822	MALE COUSIN	4
-#>>>				
-#<<<				
-41	cousin (male)	3823	FEMALE COUSIN	4
-41	cousin (male)	2384	COUSIN OR SISTER-IN-LAW	4
-41	cousin (male)	1643	COUSIN	4
 41	cousin (male)	3822	MALE COUSIN	4
-#>>>				
 42	grandfather	1383	GRANDFATHER	2
 43	grandmother	1496	GRANDMOTHER	2
 44	grandson	1618	GRANDSON	2
 45	granddaughter	1619	GRANDDAUGHTER	2
 46	loincloth	1965	LOINCLOTH	2
 47	dog	2009	DOG	2
-#<<<				
 48	pig	1337	PIG	2
-48	pig	2564	PIGLET	2
-#>>>				
-#<<<				
 49	deer	1936	DEER	2
-49	deer	3826	ROE DEER	2
-#>>>				
-#<<<				
-50	cat	3825	MALE CAT	2
 50	cat	1208	CAT	2
-#>>>				
 51	rooster	1511	ROOSTER	2
-#<<<				
 52	hen	1514	HEN	2
-52	hen	1318	CHICKEN	2
-#>>>				
 53	bird	937	BIRD	2
 54	horse	615	HORSE	2
-#<<<				
 55	cow	1007	COW	2
-55	cow	3044	BOVINE	2
-#>>>				
-#<<<				
 56	fish	227	FISH	2
-56	fish	2638	FISHING	2
-#>>>				
 57	coconut	970	COCONUT	2
-#<<<				
 58	banana	868	BANANA	2
-58	banana	399	PLANTAIN	2
-#>>>				
 59	sago	2270	SAGO	2
-#<<<				
-60	water	3078	IRRIGATE	2
-60	water	2516	WATER BUFFALO	2
 60	water	948	WATER	2
-#>>>				
 61	house	1252	HOUSE	2
 62	tree	906	TREE	2
-#<<<				
-63	bark	1204	BARK	2
-63	bark	3865	BARK OR SHELL	2
-63	bark	1206	BARKING	2
-#>>>				
-#<<<				
+63	wood	1803	WOOD	2
 64	river	666	RIVER	2
-64	river	3311	FLOWING BODY OF WATER	2
-#>>>				
 65	sea	1474	SEA	2
 66	ship	740	SHIP	2
-67	sampan (k.o. boat)		???	
-#<<<				
-68	paddle	3668	PADDLE (MOVEMENT)	2
-68	paddle	234	PADDLE	2
-68	paddle	3137	OAR	2
-#>>>				
+67	sampan (k.o. boat)	1844	BOAT	
+68	paddle	3318	OAR OR PADDLE	2
 69	fire	221	FIRE	2
 70	roof	769	ROOF	2
 71	door	1567	DOOR	2
 72	sun	1343	SUN	2
-#<<<				
-73	day	1260	DAY (24 HOURS)	2
 73	day	1225	DAY (NOT NIGHT)	2
-#>>>				
 74	moon	1313	MOON	2
 75	star	1430	STAR	2
 76	midday	12	MIDDAY	2
@@ -148,19 +81,14 @@ NUMBER	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 80	mountain	639	MOUNTAIN	2
 81	flood	613	HIGH TIDE	2
 82	shield	1064	SHIELD	2
-83	knife k.o.		???	
+83	knife k.o.	1352	KNIFE	
 84	bow	994	BOW	2
 85	arrow	977	ARROW	2
 86	cutlass k.o.		???	
 87	javelin		???	
 88	big	1202	BIG	2
 89	small	1246	SMALL	2
-#<<<				
-90	old	2112	OLD (AGED)	2
-90	old	2113	OLD (USED)	2
 90	old	1229	OLD	2
-90	old	406	OLD MAN	2
-#>>>				
 #<<<				
 91	young	1207	YOUNG	2
 91	young	2512	CHICK	2
@@ -296,4 +224,4 @@ NUMBER	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 155	beneath	690	BOTTOM	2
 155	beneath	1485	BELOW OR UNDER	2
 #>>>				
-#	150/155	97%	
+#	150/155	97%		
