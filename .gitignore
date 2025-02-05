@@ -103,3 +103,4 @@ ENV/
 .Rproj.user/*
 .Rhistory
 
+.Rproj.user
