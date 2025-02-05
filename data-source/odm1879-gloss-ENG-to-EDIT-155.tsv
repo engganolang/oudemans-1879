@@ -84,8 +84,8 @@ NUMBER	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 83	knife k.o.	1352	KNIFE	
 84	bow	994	BOW	2
 85	arrow	977	ARROW	2
-86	cutlass k.o.		???	
-87	javelin		???	
+86	cutlass k.o.	1535	SWORD	
+87	javelin	945	SPEAR	
 88	big	1202	BIG	2
 89	small	1246	SMALL	2
 90	old	1229	OLD	2
@@ -140,39 +140,17 @@ NUMBER	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 139	eat	1336	EAT	2
 140	drink	1401	DRINK	2
 141	sleep	1585	SLEEP	2
-#<<<				
 142	sit	1416	SIT	2
-142	sit	1649	SIT DOWN	2
-#>>>				
-#<<<				
 143	walk	1443	WALK	2
-143	walk	2979	WALK (MANNER)	2
-#>>>				
-#<<<				
 144	stand	1442	STAND	2
-144	stand	570	STAND UP	2
-#>>>				
-#<<<				
 145	wash	1453	WASH	2
-145	wash	3371	WASH (ONESELF)	2
-#>>>				
 146	swim	1439	SWIM	2
-#<<<				
 147	cook	1100	COOK (SOMETHING)	2
-147	cook	2315	COOK (PERSON)	2
-#>>>				
 148	climb	1102	CLIMB	2
 149	descend	2014	GO DOWN (DESCEND)	2
 150	yes	1268	YES	2
 151	no	1269	NO	2
 152	inside	1606	INSIDE	2
 153	outside	762	OUTSIDE	2
-#<<<				
-154	above	1265	HIGH	2
 154	above	1741	ABOVE	2
-#>>>				
-#<<<				
-155	beneath	690	BOTTOM	2
 155	beneath	1485	BELOW OR UNDER	2
-#>>>				
-#	150/155	97%		

@@ -1,9 +1,15 @@
-Left	Grapheme	Right	Class	Replacement	Phoneme	Frequency	Remarks
+Left	Grapheme	Right	Class	Replacement	Phoneme	Frequency	Remark
 	aoe			a ' u	a ʔ u	2	
+	uoe			u ' u	u ʔ u		
+	mb			mb	ʙ		Brown (2001: 22)
 	ei			e:i	ɛi	5	
+	eu			e:u	ɛu		
+	eû			e:u	ɛu		
+	eî			e:i	ɛi		
 	oi			o:i	ɔi	1	
 	oe			u	u	72	
 	oé			u	u	0	
+	oĕ			u	u	0	
 	iie			i	i	1	
 	ie			i	i	45	
 	ië			i ' e	i ʔ e	1	
@@ -13,6 +19,8 @@ Left	Grapheme	Right	Class	Replacement	Phoneme	Frequency	Remarks
 	tj			c	t͡ʃ	2	
 	dj			j	d͡ʒ	2	
 	th			c	t͡ʃ	1	
+	ng			ng	ŋ		
+	ñg			ñg	ŋ		
 	oh			o	o	7	
 	oö			o ' o	o ʔ o	1	
 	aä			a ' a	a ʔ a	1	
@@ -22,16 +30,19 @@ Left	Grapheme	Right	Class	Replacement	Phoneme	Frequency	Remarks
 	\-			'	ʔ	12	
 	 			 	 	66	
 	\(			(	(	1	
+	\?			?	?		
 	\)			)	)	1	
 	\/			/	/	1	
 	\;			;	;	5	
 	\[			[	[	5	
 	\]			]	]	5	
-	\!			!	!		
 	a			a	a	191	
 	à			a	a	2	
+	ò			O	ɔ		
 	ä			ä		0	
 	ā			a a	aː	6	
+	â			a	a		
+	ă			a	a		
 	b			b	b	23	
 	c			k	k	1	
 	d			d	d	21	
@@ -39,10 +50,15 @@ Left	Grapheme	Right	Class	Replacement	Phoneme	Frequency	Remarks
 	é			e	e	52	
 	è			E	ɛ	6	
 	ë			ë		0	
+	ĕ			e	e	0	
 	ē			e e	eː	1	
+	ê			e	e		
 	f			f	f	50	
+	g			g	g		
 	h			h	h	37	
 	i			i	i	5	
+	î			i	i		
+[aiueoé]	ï			 ' i	 ʔ i		
 	j			y	j	20	
 	k			k	k	115	
 	l			l	l	28	
@@ -51,8 +67,11 @@ Left	Grapheme	Right	Class	Replacement	Phoneme	Frequency	Remarks
 	o			O	ɔ	71	
 	ô			o	o	1	
 	ö			ö		0	
+	ó			o	o		
 	p			p	p	5	
 	r			r	r	12	
-	s			x	ç	1	
+	s			s	s	1	
 	t			t	t	15	
+	u			u	u		
+	û			u	u		
 	w			w	w	16	
