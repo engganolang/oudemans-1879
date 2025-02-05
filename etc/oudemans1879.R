@@ -162,9 +162,44 @@ orth_nias$strings <- orth_nias$strings |>
               select(ipa)) |> 
   mutate(ID = nias_id)
 
+## Mentawai =====
+mtw_str <- pull(filter(odm1879_long, Doculect == "Mentawai"), Forms)
+mtw_id <- pull(filter(odm1879_long, Doculect == "Mentawai"), ID)
+
+orth_mtw <- qlcData::tokenize(strings = mtw_str,
+                               profile = "ortho/_07-oudemans1879_ipa_profile_mtw.tsv",
+                               transliterate = "Replacement",
+                               method = "global",
+                               ordering = NULL,
+                               regex = TRUE,
+                               sep.replace = "#",
+                               normalize = "NFC")
+
+orth_mtw$errors
+orth_mtw$missing
+
+orth_mtw_ipa <- qlcData::tokenize(strings = mtw_str,
+                                   profile = "ortho/_07-oudemans1879_ipa_profile_mtw.tsv",
+                                   transliterate = "Phoneme",
+                                   method = "global",
+                                   ordering = NULL,
+                                   regex = TRUE,
+                                   sep.replace = "#",
+                                   normalize = "NFC")
+orth_mtw_ipa$strings <- orth_mtw_ipa$strings |> 
+  rename(ipa = transliterated)
+
+orth_mtw$strings <- orth_mtw$strings |> 
+  bind_cols(orth_mtw_ipa$strings |> 
+              select(ipa)) |> 
+  mutate(ID = mtw_id)
 
 # joining to the main table ====
 
 odm1879_long1 <- odm1879_long |> 
   left_join(orth_nias$strings |> 
-              bind_rows(orth_eno$strings))
+              bind_rows(orth_eno$strings) |> 
+              bind_rows(orth_mtw$strings)) |> 
+  select(-originals)
+
+# dir.create("etc/orthography")
