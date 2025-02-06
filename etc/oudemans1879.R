@@ -14,7 +14,8 @@ library(readxl)
 
 # read the raw word list data ====
 odm1879 <- read_xlsx(path = "data-source/Oudemans_1879_wordlist.xlsx", na = "") |> 
-  mutate(across(where(is.character), ~replace_na(., "")))
+  mutate(across(where(is.character), ~replace_na(., ""))) |> 
+  mutate(Sources = "oudemans1879")
 
 # check if there are multiple forms in a cell ====
 odm1879 |> filter(if_any(where(is.character), ~str_detect(., ";")))
@@ -73,8 +74,9 @@ odm1879_long |>
   select(Glottocode, Glottolog_name) |> 
   distinct() |> 
   mutate(ID = paste(row_number(), "-", Glottocode, sep = ""),
-         Name = Glottolog_name) |> 
-  select(ID, Name, Glottocode, Glottolog_name) |> 
+         Name = Glottolog_name,
+         Sources = "oudemans1879") |> 
+  select(ID, Name, Glottocode, Glottolog_Name = Glottolog_name) |> 
   write_tsv("etc/languages.tsv")
 
 # save English translation for concepticon mapping ====
@@ -203,3 +205,13 @@ odm1879_long1 <- odm1879_long |>
   select(-originals)
 
 # dir.create("etc/orthography")
+
+# Concepticon added to the main table ======
+source("etc/oudemans1879-concepticon-processing.R")
+odm1879_long2 <- odm1879_long1 |> 
+  left_join(select(cnc, -ID))
+
+# Save the main table into `raw` directory ======
+odm1879_long2 |> 
+  mutate(across(where(is.character), ~replace_na(., ""))) |> 
+  write_tsv("raw/oudemans1879.tsv")
