@@ -76,7 +76,7 @@ odm1879_long |>
   mutate(ID = paste(row_number(), "-", Glottocode, sep = ""),
          Name = Glottolog_name,
          Sources = "oudemans1879") |> 
-  select(ID, Name, Glottocode, Glottolog_Name = Glottolog_name) |> 
+  select(ID, Name, Glottocode, Glottolog_Name = Glottolog_name, Sources) |> 
   write_tsv("etc/languages.tsv")
 
 # save English translation for concepticon mapping ====
