@@ -130,8 +130,11 @@ orth_eno_ipa$strings <- orth_eno_ipa$strings |>
 orth_eno$strings <- orth_eno$strings |> 
   bind_cols(orth_eno_ipa$strings |> 
               select(ipa)) |> 
-  mutate(ID = eno_id)
+  mutate(ID = eno_id) |> 
+  as_tibble()
 
+orth_eno$strings |> 
+  write_tsv("ortho/_07-oudemans1879_strings_eno.tsv")
 
 ## Nias ====
 nias_str <- pull(filter(odm1879_long, Doculect == "Nias"), Forms)
@@ -162,7 +165,11 @@ orth_nias_ipa$strings <- orth_nias_ipa$strings |>
 orth_nias$strings <- orth_nias$strings |> 
   bind_cols(orth_nias_ipa$strings |> 
               select(ipa)) |> 
-  mutate(ID = nias_id)
+  mutate(ID = nias_id) |> 
+  as_tibble()
+
+orth_nias$strings |> 
+  write_tsv("ortho/_07-oudemans1879_strings_nias.tsv")
 
 ## Mentawai =====
 mtw_str <- pull(filter(odm1879_long, Doculect == "Mentawai"), Forms)
@@ -194,7 +201,11 @@ orth_mtw_ipa$strings <- orth_mtw_ipa$strings |>
 orth_mtw$strings <- orth_mtw$strings |> 
   bind_cols(orth_mtw_ipa$strings |> 
               select(ipa)) |> 
-  mutate(ID = mtw_id)
+  mutate(ID = mtw_id) |> 
+  as_tibble()
+
+orth_mtw$strings |> 
+  write_tsv("ortho/_07-oudemans1879_strings_mtw.tsv")
 
 # joining to the main table ====
 
