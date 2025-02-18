@@ -1,0 +1,278 @@
+{
+    "@context": "http://www.w3.org/ns/csvw",
+    "aboutUrl": null,
+    "dc:bibliographicCitation": "Oudemans, Jean Abraham Chr\u00e9tien. 1879. Woordenlijst van de Talen van Enggano, Mentawei en Nias. Tijdschrift voor Indische Taal-, Land- en Volkenkunde XXV(5\u20136). 484\u2013488.",
+    "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": "This is an old comparative word list from the second half of the 19th century (Oudemans 1879) for Enggano, Mentawai, and Nias, the three Barrier Islands off the western coast of Sumatra, Indonesia. The Enggano list is integrated into [EnoLEX](https://enggano.shinyapps.io/enolex/) (Krau\u00dfe et al. [2024a](https://doi.org/10.25446/oxford.28282169); Rajeg et al. [2024](https://doi.org/10.25446/oxford.27013864.v1); see also Krau\u00dfe et al. [2024b](https://doi.org/10.25446/oxford.28295648.v1); Rajeg et al. [2025](https://doi.org/10.25446/oxford.28282946.v1)). EnoLEX is a diachronic lexical database for the Enggano language.",
+    "dc:isVersionOf": null,
+    "dc:license": "CC-BY-NC-SA 4.0",
+    "dc:related": null,
+    "dc:source": "sources.bib",
+    "dc:title": "CLDF dataset derived from Oudemans' \"Woordenlijst van de Talen van Enggano, Mentawei en Nias\" from 1879",
+    "dcat:accessURL": "git@github.com:engganolang/oudemans-1879",
+    "prov:wasDerivedFrom": [
+        {
+            "rdf:about": "git@github.com:engganolang/oudemans-1879",
+            "rdf:type": "prov:Entity",
+            "dc:created": "278bead",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "glottolog-glottolog-2e1fce1",
+            "rdf:type": "prov:Entity",
+            "dc:created": "glottolog-glottolog-2e1fce1",
+            "dc:title": "Glottolog"
+        },
+        {
+            "rdf:about": "git@github.com:concepticon/concepticon-data",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v3.1.0-146-gf3544781",
+            "dc:title": "Concepticon"
+        },
+        {
+            "rdf:about": "git@github.com:cldf-clts/clts",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v2.2.0-16-g4468d3b",
+            "dc:title": "CLTS"
+        }
+    ],
+    "prov:wasGeneratedBy": [
+        {
+            "dc:title": "lingpy-rcParams",
+            "dc:relation": "lingpy-rcParams.json"
+        },
+        {
+            "dc:title": "python",
+            "dc:description": "3.12.9"
+        },
+        {
+            "dc:title": "python-packages",
+            "dc:relation": "requirements.txt"
+        }
+    ],
+    "rdf:ID": "oudemans1879",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
+    "tables": [
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
+            "dc:extent": 426,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://purl.org/dc/terms/identifier",
+                        "name": "Local_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "name": "Language_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
+                        "name": "Parameter_ID",
+                        "titles": "Concept_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
+                        "required": true,
+                        "name": "Value"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#form",
+                        "required": true,
+                        "name": "Form"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#segments",
+                        "separator": " ",
+                        "name": "Segments"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "name": "Comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Cognacy"
+                    },
+                    {
+                        "datatype": "boolean",
+                        "name": "Loan"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Graphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Profile"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "IPA"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Dutch"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Parameter_ID"
+                        ],
+                        "reference": {
+                            "resource": "parameters.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "forms.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:extent": 3,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
+                        "name": "Glottocode"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Glottolog_Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
+                        "name": "ISO639P3code"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
+                        "name": "Macroarea"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "-90",
+                            "maximum": "90"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "-180",
+                            "maximum": "180"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Sources"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Doculect_Dutch"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "languages.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:extent": 155,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#concepticonReference",
+                        "valueUrl": "http://concepticon.clld.org/parameters/{Concepticon_ID}",
+                        "name": "Concepticon_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Concepticon_Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Number"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "parameters.csv"
+        }
+    ]
+}

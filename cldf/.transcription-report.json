@@ -1,0 +1,1275 @@
+{
+    "by_language": {
+        "Enggano": {
+            "bipa_errors": [
+                " ",
+                "\u02d0",
+                "\u0361"
+            ],
+            "general_errors": 887,
+            "replacements": {
+                "!": [
+                    "\u01c3"
+                ],
+                "_": [
+                    "_"
+                ],
+                "a": [
+                    "a"
+                ],
+                "b": [
+                    "b"
+                ],
+                "c\u0327": [
+                    "c\u0327"
+                ],
+                "d": [
+                    "d"
+                ],
+                "e": [
+                    "e"
+                ],
+                "f": [
+                    "f"
+                ],
+                "g": [
+                    "g"
+                ],
+                "h": [
+                    "h"
+                ],
+                "i": [
+                    "i"
+                ],
+                "j": [
+                    "j"
+                ],
+                "k": [
+                    "k"
+                ],
+                "l": [
+                    "l"
+                ],
+                "m": [
+                    "m"
+                ],
+                "n": [
+                    "n"
+                ],
+                "o": [
+                    "o"
+                ],
+                "p": [
+                    "p"
+                ],
+                "r": [
+                    "r"
+                ],
+                "s": [
+                    "s"
+                ],
+                "t": [
+                    "t"
+                ],
+                "u": [
+                    "u"
+                ],
+                "w": [
+                    "w"
+                ],
+                "\u014b": [
+                    "\u014b"
+                ],
+                "\u0254": [
+                    "\u0254"
+                ],
+                "\u025b": [
+                    "\u025b"
+                ],
+                "\u0283": [
+                    "\u0283"
+                ],
+                "\u0292": [
+                    "\u0292"
+                ],
+                "\u0294": [
+                    "\u0294"
+                ],
+                "\u0299": [
+                    "\u0299"
+                ]
+            },
+            "sclass_errors": [
+                "\u02d0",
+                "\u0361"
+            ],
+            "segments": {
+                " ": 875,
+                "!": 1,
+                "#": 56,
+                "a": 206,
+                "b": 23,
+                "d": 22,
+                "e": 113,
+                "f": 56,
+                "h": 35,
+                "i": 71,
+                "j": 21,
+                "k": 115,
+                "l": 27,
+                "m": 17,
+                "n": 28,
+                "o": 13,
+                "p": 4,
+                "r": 10,
+                "t": 20,
+                "u": 76,
+                "w": 15,
+                "\u00e7": 3,
+                "\u0254": 76,
+                "\u025b": 10,
+                "\u0283": 3,
+                "\u0292": 2,
+                "\u0294": 17,
+                "\u02d0": 7,
+                "\u0361": 5
+            }
+        },
+        "Mentawai": {
+            "bipa_errors": [
+                "?",
+                " ",
+                "\u02d0",
+                "\u0361",
+                ")",
+                "("
+            ],
+            "general_errors": 797,
+            "replacements": {
+                "!": [
+                    "\u01c3"
+                ],
+                "_": [
+                    "_"
+                ],
+                "a": [
+                    "a"
+                ],
+                "b": [
+                    "b"
+                ],
+                "c\u0327": [
+                    "c\u0327"
+                ],
+                "d": [
+                    "d"
+                ],
+                "e": [
+                    "e"
+                ],
+                "f": [
+                    "f"
+                ],
+                "g": [
+                    "g"
+                ],
+                "h": [
+                    "h"
+                ],
+                "i": [
+                    "i"
+                ],
+                "j": [
+                    "j"
+                ],
+                "k": [
+                    "k"
+                ],
+                "l": [
+                    "l"
+                ],
+                "m": [
+                    "m"
+                ],
+                "n": [
+                    "n"
+                ],
+                "o": [
+                    "o"
+                ],
+                "p": [
+                    "p"
+                ],
+                "r": [
+                    "r"
+                ],
+                "s": [
+                    "s"
+                ],
+                "t": [
+                    "t"
+                ],
+                "u": [
+                    "u"
+                ],
+                "w": [
+                    "w"
+                ],
+                "\u014b": [
+                    "\u014b"
+                ],
+                "\u0254": [
+                    "\u0254"
+                ],
+                "\u025b": [
+                    "\u025b"
+                ],
+                "\u0283": [
+                    "\u0283"
+                ],
+                "\u0292": [
+                    "\u0292"
+                ],
+                "\u0294": [
+                    "\u0294"
+                ],
+                "\u0299": [
+                    "\u0299"
+                ]
+            },
+            "sclass_errors": [
+                "?",
+                "\u02d0",
+                "\u0361",
+                ")",
+                "("
+            ],
+            "segments": {
+                " ": 776,
+                "#": 38,
+                "(": 2,
+                ")": 2,
+                "?": 2,
+                "a": 160,
+                "b": 32,
+                "d": 18,
+                "e": 68,
+                "g": 14,
+                "h": 6,
+                "i": 44,
+                "j": 7,
+                "k": 51,
+                "l": 57,
+                "m": 32,
+                "n": 20,
+                "o": 35,
+                "p": 35,
+                "r": 20,
+                "s": 31,
+                "t": 71,
+                "u": 90,
+                "w": 8,
+                "\u014b": 29,
+                "\u0254": 30,
+                "\u025b": 23,
+                "\u0283": 4,
+                "\u0292": 10,
+                "\u0294": 3,
+                "\u02d0": 1,
+                "\u0361": 14
+            }
+        },
+        "Nias": {
+            "bipa_errors": [
+                " ",
+                "\u0361",
+                "\u02d0"
+            ],
+            "general_errors": 764,
+            "replacements": {
+                "!": [
+                    "\u01c3"
+                ],
+                "_": [
+                    "_"
+                ],
+                "a": [
+                    "a"
+                ],
+                "b": [
+                    "b"
+                ],
+                "c\u0327": [
+                    "c\u0327"
+                ],
+                "d": [
+                    "d"
+                ],
+                "e": [
+                    "e"
+                ],
+                "f": [
+                    "f"
+                ],
+                "g": [
+                    "g"
+                ],
+                "h": [
+                    "h"
+                ],
+                "i": [
+                    "i"
+                ],
+                "j": [
+                    "j"
+                ],
+                "k": [
+                    "k"
+                ],
+                "l": [
+                    "l"
+                ],
+                "m": [
+                    "m"
+                ],
+                "n": [
+                    "n"
+                ],
+                "o": [
+                    "o"
+                ],
+                "p": [
+                    "p"
+                ],
+                "r": [
+                    "r"
+                ],
+                "s": [
+                    "s"
+                ],
+                "t": [
+                    "t"
+                ],
+                "u": [
+                    "u"
+                ],
+                "w": [
+                    "w"
+                ],
+                "\u014b": [
+                    "\u014b"
+                ],
+                "\u0254": [
+                    "\u0254"
+                ],
+                "\u025b": [
+                    "\u025b"
+                ],
+                "\u0283": [
+                    "\u0283"
+                ],
+                "\u0292": [
+                    "\u0292"
+                ],
+                "\u0294": [
+                    "\u0294"
+                ],
+                "\u0299": [
+                    "\u0299"
+                ]
+            },
+            "sclass_errors": [
+                "\u0361",
+                "\u02d0"
+            ],
+            "segments": {
+                " ": 753,
+                "#": 32,
+                "a": 154,
+                "b": 27,
+                "d": 39,
+                "e": 22,
+                "f": 12,
+                "g": 22,
+                "h": 14,
+                "i": 84,
+                "j": 10,
+                "k": 7,
+                "l": 54,
+                "m": 24,
+                "n": 33,
+                "o": 33,
+                "p": 13,
+                "r": 16,
+                "s": 35,
+                "t": 37,
+                "u": 124,
+                "w": 24,
+                "\u00e7": 6,
+                "\u014b": 9,
+                "\u0254": 33,
+                "\u025b": 37,
+                "\u0283": 1,
+                "\u0292": 7,
+                "\u0294": 15,
+                "\u0299": 7,
+                "\u02d0": 3,
+                "\u0361": 8
+            }
+        }
+    },
+    "stats": {
+        "bad_words": [
+            [
+                "Enggano-10_breast-1",
+                "Enggano",
+                "10_breast",
+                "e m a a h a",
+                "e <s>   </s> m <s>   </s> a <s> \u02d0 </s> <s>   </s> h <s>   </s> a"
+            ],
+            [
+                "Enggano-11_belly-1",
+                "Enggano",
+                "11_belly",
+                "k i d a a i",
+                "k <s>   </s> i <s>   </s> d <s>   </s> a <s> \u02d0 </s> <s>   </s> i"
+            ],
+            [
+                "Enggano-12_arm-1",
+                "Enggano",
+                "12_arm",
+                "e # a f O",
+                "e <s>   </s> # <s>   </s> a <s>   </s> f <s>   </s> \u0254"
+            ],
+            [
+                "Enggano-13_hand-1",
+                "Enggano",
+                "13_hand",
+                "m i n O # a f O",
+                "m <s>   </s> i <s>   </s> n <s>   </s> \u0254 <s>   </s> # <s>   </s> a <s>   </s> f <s>   </s> \u0254"
+            ],
+            [
+                "Enggano-14_righthand-1",
+                "Enggano",
+                "14_righthand",
+                "m i n O # a f O",
+                "m <s>   </s> i <s>   </s> n <s>   </s> \u0254 <s>   </s> # <s>   </s> a <s>   </s> f <s>   </s> \u0254"
+            ],
+            [
+                "Enggano-15_lefthand-1",
+                "Enggano",
+                "15_lefthand",
+                "m i n O # a f O",
+                "m <s>   </s> i <s>   </s> n <s>   </s> \u0254 <s>   </s> # <s>   </s> a <s>   </s> f <s>   </s> \u0254"
+            ],
+            [
+                "Enggano-16_finger-1",
+                "Enggano",
+                "16_finger",
+                "m i n O",
+                "m <s>   </s> i <s>   </s> n <s>   </s> \u0254"
+            ],
+            [
+                "Enggano-17_nail-1",
+                "Enggano",
+                "17_nail",
+                "e k a x O ' a f O",
+                "e <s>   </s> k <s>   </s> a <s>   </s> \u00e7 <s>   </s> \u0254 <s>   </s> \u0294 <s>   </s> a <s>   </s> f <s>   </s> \u0254"
+            ],
+            [
+                "Enggano-18_thumb-1",
+                "Enggano",
+                "18_thumb",
+                "n a:i ' a f O",
+                "n <s>   </s> a i <s>   </s> \u0294 <s>   </s> a <s>   </s> f <s>   </s> \u0254"
+            ],
+            [
+                "Enggano-19_indexfinger-1",
+                "Enggano",
+                "19_indexfinger",
+                "e y a r a ' a f O",
+                "e <s>   </s> j <s>   </s> a <s>   </s> r <s>   </s> a <s>   </s> \u0294 <s>   </s> a <s>   </s> f <s>   </s> \u0254"
+            ],
+            [
+                "Enggano-1_head-1",
+                "Enggano",
+                "1_head",
+                "e # u l u",
+                "e <s>   </s> # <s>   </s> u <s>   </s> l <s>   </s> u"
+            ],
+            [
+                "Enggano-20_middlefinger-1",
+                "Enggano",
+                "20_middlefinger",
+                "e u ' a f O",
+                "e <s>   </s> u <s>   </s> \u0294 <s>   </s> a <s>   </s> f <s>   </s> \u0254"
+            ],
+            [
+                "Enggano-21_ringfinger-1",
+                "Enggano",
+                "21_ringfinger",
+                "k i f a # e y u # e y u",
+                "k <s>   </s> i <s>   </s> f <s>   </s> a <s>   </s> # <s>   </s> e <s>   </s> j <s>   </s> u <s>   </s> # <s>   </s> e <s>   </s> j <s>   </s> u"
+            ],
+            [
+                "Enggano-22_littlefinger-1",
+                "Enggano",
+                "22_littlefinger",
+                "m i O ' a f O # n u k i",
+                "m <s>   </s> i <s>   </s> \u0254 <s>   </s> \u0294 <s>   </s> a <s>   </s> f <s>   </s> \u0254 <s>   </s> # <s>   </s> n <s>   </s> u <s>   </s> k <s>   </s> i"
+            ],
+            [
+                "Enggano-23_thigh-1",
+                "Enggano",
+                "23_thigh",
+                "e p a r a",
+                "e <s>   </s> p <s>   </s> a <s>   </s> r <s>   </s> a"
+            ],
+            [
+                "Enggano-24_knee-1",
+                "Enggano",
+                "24_knee",
+                "e f u",
+                "e <s>   </s> f <s>   </s> u"
+            ],
+            [
+                "Enggano-25_womansbreast-1",
+                "Enggano",
+                "25_womansbreast",
+                "e # k O k O",
+                "e <s>   </s> # <s>   </s> k <s>   </s> \u0254 <s>   </s> k <s>   </s> \u0254"
+            ],
+            [
+                "Enggano-26_body-1",
+                "Enggano",
+                "26_body",
+                "k a r a h a",
+                "k <s>   </s> a <s>   </s> r <s>   </s> a <s>   </s> h <s>   </s> a"
+            ],
+            [
+                "Enggano-27_person-1",
+                "Enggano",
+                "27_person",
+                "e t a k k a",
+                "e <s>   </s> t <s>   </s> a <s>   </s> k <s>   </s> k <s>   </s> a"
+            ],
+            [
+                "Enggano-28_man-1",
+                "Enggano",
+                "28_man",
+                "e m a n e",
+                "e <s>   </s> m <s>   </s> a <s>   </s> n <s>   </s> e"
+            ],
+            [
+                "Enggano-29_woman-1",
+                "Enggano",
+                "29_woman",
+                "e h O d a",
+                "e <s>   </s> h <s>   </s> \u0254 <s>   </s> d <s>   </s> a"
+            ],
+            [
+                "Enggano-2_ear-1",
+                "Enggano",
+                "2_ear",
+                "k a l i x a",
+                "k <s>   </s> a <s>   </s> l <s>   </s> i <s>   </s> \u00e7 <s>   </s> a"
+            ],
+            [
+                "Enggano-30_child-1",
+                "Enggano",
+                "30_child",
+                "f a m O a",
+                "f <s>   </s> a <s>   </s> m <s>   </s> \u0254 <s>   </s> a"
+            ],
+            [
+                "Enggano-31_virgin-1",
+                "Enggano",
+                "31_virgin",
+                "e f a:i n a m a",
+                "e <s>   </s> f <s>   </s> a i <s>   </s> n <s>   </s> a <s>   </s> m <s>   </s> a"
+            ],
+            [
+                "Enggano-32_oldpersonm-1",
+                "Enggano",
+                "32_oldpersonm",
+                "e k a f u",
+                "e <s>   </s> k <s>   </s> a <s>   </s> f <s>   </s> u"
+            ],
+            [
+                "Enggano-33_oldpersonf-1",
+                "Enggano",
+                "33_oldpersonf",
+                "k a n i y a h e",
+                "k <s>   </s> a <s>   </s> n <s>   </s> i <s>   </s> j <s>   </s> a <s>   </s> h <s>   </s> e"
+            ],
+            [
+                "Enggano-34_youngperson-1",
+                "Enggano",
+                "34_youngperson",
+                "f a n a n a m i",
+                "f <s>   </s> a <s>   </s> n <s>   </s> a <s>   </s> n <s>   </s> a <s>   </s> m <s>   </s> i"
+            ],
+            [
+                "Enggano-35_father-1",
+                "Enggano",
+                "35_father",
+                "a m a m a",
+                "a <s>   </s> m <s>   </s> a <s>   </s> m <s>   </s> a"
+            ],
+            [
+                "Enggano-3_nose-1",
+                "Enggano",
+                "3_nose",
+                "e f a n O",
+                "e <s>   </s> f <s>   </s> a <s>   </s> n <s>   </s> \u0254"
+            ],
+            [
+                "Enggano-4_mouth-1",
+                "Enggano",
+                "4_mouth",
+                "e k a a",
+                "e <s>   </s> k <s>   </s> a <s> \u02d0 </s>"
+            ],
+            [
+                "Enggano-5_eye-1",
+                "Enggano",
+                "5_eye",
+                "e b a a k a",
+                "e <s>   </s> b <s>   </s> a <s> \u02d0 </s> <s>   </s> k <s>   </s> a"
+            ],
+            [
+                "Enggano-6_chin-1",
+                "Enggano",
+                "6_chin",
+                "e k i",
+                "e <s>   </s> k <s>   </s> i"
+            ],
+            [
+                "Enggano-7_headhair-1",
+                "Enggano",
+                "7_headhair",
+                "f u d u d u ' u l u",
+                "f <s>   </s> u <s>   </s> d <s>   </s> u <s>   </s> d <s>   </s> u <s>   </s> \u0294 <s>   </s> u <s>   </s> l <s>   </s> u"
+            ],
+            [
+                "Enggano-8_beard-1",
+                "Enggano",
+                "8_beard",
+                "f O r O r o:i f e",
+                "f <s>   </s> \u0254 <s>   </s> r <s>   </s> \u0254 <s>   </s> r <s>   </s> \u0254 i <s>   </s> f <s>   </s> e"
+            ],
+            [
+                "Enggano-9_neck-1",
+                "Enggano",
+                "9_neck",
+                "h u n u",
+                "h <s>   </s> u <s>   </s> n <s>   </s> u"
+            ],
+            [
+                "Mentawai-10_breast-1",
+                "Mentawai",
+                "10_breast",
+                "k a r u k a t",
+                "k <s>   </s> a <s>   </s> r <s>   </s> u <s>   </s> k <s>   </s> a <s>   </s> t"
+            ],
+            [
+                "Mentawai-11_belly-1",
+                "Mentawai",
+                "11_belly",
+                "b a a k h a",
+                "b <s>   </s> a <s> \u02d0 </s> <s>   </s> k <s>   </s> h <s>   </s> a"
+            ],
+            [
+                "Mentawai-12_arm-1",
+                "Mentawai",
+                "12_arm",
+                "p a r a",
+                "p <s>   </s> a <s>   </s> r <s>   </s> a"
+            ],
+            [
+                "Mentawai-14_righthand-1",
+                "Mentawai",
+                "14_righthand",
+                "t a k i p # k e c O",
+                "t <s>   </s> a <s>   </s> k <s>   </s> i <s>   </s> p <s>   </s> # <s>   </s> k <s>   </s> e <s>   </s> t <s> \u0361 </s> \u0283 <s>   </s> \u0254"
+            ],
+            [
+                "Mentawai-15_lefthand-1",
+                "Mentawai",
+                "15_lefthand",
+                "t a k i p # t O \u00eb k",
+                "t <s>   </s> a <s>   </s> k <s>   </s> i <s>   </s> p <s>   </s> # <s>   </s> t <s>   </s> \u0254 <s>   </s> k"
+            ],
+            [
+                "Mentawai-16_finger-1",
+                "Mentawai",
+                "16_finger",
+                "s i \u00f1g O \u00f1g a:i",
+                "s <s>   </s> i <s>   </s> \u014b <s>   </s> \u0254 <s>   </s> \u014b <s>   </s> a i"
+            ],
+            [
+                "Mentawai-17_nail-1",
+                "Mentawai",
+                "17_nail",
+                "s u l e t",
+                "s <s>   </s> u <s>   </s> l <s>   </s> e <s>   </s> t"
+            ],
+            [
+                "Mentawai-18_thumb-1",
+                "Mentawai",
+                "18_thumb",
+                "s i k e b u",
+                "s <s>   </s> i <s>   </s> k <s>   </s> e <s>   </s> b <s>   </s> u"
+            ],
+            [
+                "Mentawai-19_indexfinger-1",
+                "Mentawai",
+                "19_indexfinger",
+                "b e n a ng # s e u",
+                "b <s>   </s> e <s>   </s> n <s>   </s> a <s>   </s> \u014b <s>   </s> # <s>   </s> s <s>   </s> e <s>   </s> u"
+            ],
+            [
+                "Mentawai-1_head-1",
+                "Mentawai",
+                "1_head",
+                "O t e",
+                "\u0254 <s>   </s> t <s>   </s> e"
+            ],
+            [
+                "Mentawai-20_middlefinger-1",
+                "Mentawai",
+                "20_middlefinger",
+                "k a t e ng a",
+                "k <s>   </s> a <s>   </s> t <s>   </s> e <s>   </s> \u014b <s>   </s> a"
+            ],
+            [
+                "Mentawai-21_ringfinger-1",
+                "Mentawai",
+                "21_ringfinger",
+                "b a g i t # k a t e ng a",
+                "b <s>   </s> a <s>   </s> g <s>   </s> i <s>   </s> t <s>   </s> # <s>   </s> k <s>   </s> a <s>   </s> t <s>   </s> e <s>   </s> \u014b <s>   </s> a"
+            ],
+            [
+                "Mentawai-22_littlefinger-1",
+                "Mentawai",
+                "22_littlefinger",
+                "t o c i ng O ng a:i",
+                "t <s>   </s> o <s>   </s> t <s> \u0361 </s> \u0283 <s>   </s> i <s>   </s> \u014b <s>   </s> \u0254 <s>   </s> \u014b <s>   </s> a i"
+            ],
+            [
+                "Mentawai-23_thigh-1",
+                "Mentawai",
+                "23_thigh",
+                "p e k a p a t",
+                "p <s>   </s> e <s>   </s> k <s>   </s> a <s>   </s> p <s>   </s> a <s>   </s> t"
+            ],
+            [
+                "Mentawai-24_knee-1",
+                "Mentawai",
+                "24_knee",
+                "b o k e l o",
+                "b <s>   </s> o <s>   </s> k <s>   </s> e <s>   </s> l <s>   </s> o"
+            ],
+            [
+                "Mentawai-25_womansbreast-1",
+                "Mentawai",
+                "25_womansbreast",
+                "t o t o t",
+                "t <s>   </s> o <s>   </s> t <s>   </s> o <s>   </s> t"
+            ],
+            [
+                "Mentawai-26_body-1",
+                "Mentawai",
+                "26_body",
+                "t u b u",
+                "t <s>   </s> u <s>   </s> b <s>   </s> u"
+            ],
+            [
+                "Mentawai-27_person-1",
+                "Mentawai",
+                "27_person",
+                "s e k a l e l E g a t",
+                "s <s>   </s> e <s>   </s> k <s>   </s> a <s>   </s> l <s>   </s> e <s>   </s> l <s>   </s> \u025b <s>   </s> g <s>   </s> a <s>   </s> t"
+            ],
+            [
+                "Mentawai-29_woman-1",
+                "Mentawai",
+                "29_woman",
+                "n e n a l e p",
+                "n <s>   </s> e <s>   </s> n <s>   </s> a <s>   </s> l <s>   </s> e <s>   </s> p"
+            ],
+            [
+                "Mentawai-2_ear-1",
+                "Mentawai",
+                "2_ear",
+                "t a l i ng a",
+                "t <s>   </s> a <s>   </s> l <s>   </s> i <s>   </s> \u014b <s>   </s> a"
+            ],
+            [
+                "Mentawai-30_child-1",
+                "Mentawai",
+                "30_child",
+                "t o g a",
+                "t <s>   </s> o <s>   </s> g <s>   </s> a"
+            ],
+            [
+                "Mentawai-31_virgin-1",
+                "Mentawai",
+                "31_virgin",
+                "s y o k o",
+                "s <s>   </s> j <s>   </s> o <s>   </s> k <s>   </s> o"
+            ],
+            [
+                "Mentawai-32_oldpersonm-1",
+                "Mentawai",
+                "32_oldpersonm",
+                "b a j a",
+                "b <s>   </s> a <s>   </s> d <s> \u0361 </s> \u0292 <s>   </s> a"
+            ],
+            [
+                "Mentawai-33_oldpersonf-1",
+                "Mentawai",
+                "33_oldpersonf",
+                "b a j a",
+                "b <s>   </s> a <s>   </s> d <s> \u0361 </s> \u0292 <s>   </s> a"
+            ],
+            [
+                "Mentawai-34_youngperson-1",
+                "Mentawai",
+                "34_youngperson",
+                "s u l E",
+                "s <s>   </s> u <s>   </s> l <s>   </s> \u025b"
+            ],
+            [
+                "Mentawai-35_father-1",
+                "Mentawai",
+                "35_father",
+                "u k O e:i",
+                "u <s>   </s> k <s>   </s> \u0254 <s>   </s> \u025b i"
+            ],
+            [
+                "Mentawai-3_nose-1",
+                "Mentawai",
+                "3_nose",
+                "a s a k",
+                "a <s>   </s> s <s>   </s> a <s>   </s> k"
+            ],
+            [
+                "Mentawai-4_mouth-1",
+                "Mentawai",
+                "4_mouth",
+                "b i b O",
+                "b <s>   </s> i <s>   </s> b <s>   </s> \u0254"
+            ],
+            [
+                "Mentawai-5_eye-1",
+                "Mentawai",
+                "5_eye",
+                "m a t a",
+                "m <s>   </s> a <s>   </s> t <s>   </s> a"
+            ],
+            [
+                "Mentawai-6_chin-1",
+                "Mentawai",
+                "6_chin",
+                "b a k e l a",
+                "b <s>   </s> a <s>   </s> k <s>   </s> e <s>   </s> l <s>   </s> a"
+            ],
+            [
+                "Mentawai-7_headhair-1",
+                "Mentawai",
+                "7_headhair",
+                "a l a:i",
+                "a <s>   </s> l <s>   </s> a i"
+            ],
+            [
+                "Mentawai-8_beard-1",
+                "Mentawai",
+                "8_beard",
+                "b u l u",
+                "b <s>   </s> u <s>   </s> l <s>   </s> u"
+            ],
+            [
+                "Mentawai-9_neck-1",
+                "Mentawai",
+                "9_neck",
+                "l O l O k a t",
+                "l <s>   </s> \u0254 <s>   </s> l <s>   </s> \u0254 <s>   </s> k <s>   </s> a <s>   </s> t"
+            ],
+            [
+                "Nias-10_breast-1",
+                "Nias",
+                "10_breast",
+                "b a l u j u s O",
+                "b <s>   </s> a <s>   </s> l <s>   </s> u <s>   </s> d <s> \u0361 </s> \u0292 <s>   </s> u <s>   </s> s <s>   </s> \u0254"
+            ],
+            [
+                "Nias-11_belly-1",
+                "Nias",
+                "11_belly",
+                "d a l u",
+                "d <s>   </s> a <s>   </s> l <s>   </s> u"
+            ],
+            [
+                "Nias-12_arm-1",
+                "Nias",
+                "12_arm",
+                "p a ' i O",
+                "p <s>   </s> a <s>   </s> \u0294 <s>   </s> i <s>   </s> \u0254"
+            ],
+            [
+                "Nias-14_righthand-1",
+                "Nias",
+                "14_righthand",
+                "t a ng a n # g a mb O l O",
+                "t <s>   </s> a <s>   </s> \u014b <s>   </s> a <s>   </s> n <s>   </s> # <s>   </s> g <s>   </s> a <s>   </s> \u0299 <s>   </s> \u0254 <s>   </s> l <s>   </s> \u0254"
+            ],
+            [
+                "Nias-15_lefthand-1",
+                "Nias",
+                "15_lefthand",
+                "t a ng a n # g a mb e r a",
+                "t <s>   </s> a <s>   </s> \u014b <s>   </s> a <s>   </s> n <s>   </s> # <s>   </s> g <s>   </s> a <s>   </s> \u0299 <s>   </s> e <s>   </s> r <s>   </s> a"
+            ],
+            [
+                "Nias-16_finger-1",
+                "Nias",
+                "16_finger",
+                "t u r u",
+                "t <s>   </s> u <s>   </s> r <s>   </s> u"
+            ],
+            [
+                "Nias-17_nail-1",
+                "Nias",
+                "17_nail",
+                "t E s a a",
+                "t <s>   </s> \u025b <s>   </s> s <s>   </s> a <s>   </s> a"
+            ],
+            [
+                "Nias-18_thumb-1",
+                "Nias",
+                "18_thumb",
+                "t u r u # s i a",
+                "t <s>   </s> u <s>   </s> r <s>   </s> u <s>   </s> # <s>   </s> s <s>   </s> i <s>   </s> a"
+            ],
+            [
+                "Nias-1_head-1",
+                "Nias",
+                "1_head",
+                "h e:u g e n",
+                "h <s>   </s> \u025b u <s>   </s> g <s>   </s> e <s>   </s> n"
+            ],
+            [
+                "Nias-20_middlefinger-1",
+                "Nias",
+                "20_middlefinger",
+                "t u r u # w a d a l u",
+                "t <s>   </s> u <s>   </s> r <s>   </s> u <s>   </s> # <s>   </s> w <s>   </s> a <s>   </s> d <s>   </s> a <s>   </s> l <s>   </s> u"
+            ],
+            [
+                "Nias-21_ringfinger-1",
+                "Nias",
+                "21_ringfinger",
+                "t u r u # t a l u",
+                "t <s>   </s> u <s>   </s> r <s>   </s> u <s>   </s> # <s>   </s> t <s>   </s> a <s>   </s> l <s>   </s> u"
+            ],
+            [
+                "Nias-22_littlefinger-1",
+                "Nias",
+                "22_littlefinger",
+                "t u r u # s i d e ' i d e:i",
+                "t <s>   </s> u <s>   </s> r <s>   </s> u <s>   </s> # <s>   </s> s <s>   </s> i <s>   </s> d <s>   </s> e <s>   </s> \u0294 <s>   </s> i <s>   </s> d <s>   </s> \u025b i"
+            ],
+            [
+                "Nias-23_thigh-1",
+                "Nias",
+                "23_thigh",
+                "g a:i",
+                "g <s>   </s> a i"
+            ],
+            [
+                "Nias-24_knee-1",
+                "Nias",
+                "24_knee",
+                "b a l u d u h O",
+                "b <s>   </s> a <s>   </s> l <s>   </s> u <s>   </s> d <s>   </s> u <s>   </s> h <s>   </s> \u0254"
+            ],
+            [
+                "Nias-25_womansbreast-1",
+                "Nias",
+                "25_womansbreast",
+                "d u s u",
+                "d <s>   </s> u <s>   </s> s <s>   </s> u"
+            ],
+            [
+                "Nias-26_body-1",
+                "Nias",
+                "26_body",
+                "b o t o",
+                "b <s>   </s> o <s>   </s> t <s>   </s> o"
+            ],
+            [
+                "Nias-27_person-1",
+                "Nias",
+                "27_person",
+                "n i h a",
+                "n <s>   </s> i <s>   </s> h <s>   </s> a"
+            ],
+            [
+                "Nias-28_man-1",
+                "Nias",
+                "28_man",
+                "n i h a # s i m a t u a",
+                "n <s>   </s> i <s>   </s> h <s>   </s> a <s>   </s> # <s>   </s> s <s>   </s> i <s>   </s> m <s>   </s> a <s>   </s> t <s>   </s> u <s>   </s> a"
+            ],
+            [
+                "Nias-29_woman-1",
+                "Nias",
+                "29_woman",
+                "n i h a # s i x a l a a w e",
+                "n <s>   </s> i <s>   </s> h <s>   </s> a <s>   </s> # <s>   </s> s <s>   </s> i <s>   </s> \u00e7 <s>   </s> a <s>   </s> l <s>   </s> a <s> \u02d0 </s> <s>   </s> w <s>   </s> e"
+            ],
+            [
+                "Nias-2_ear-1",
+                "Nias",
+                "2_ear",
+                "t a l i ng a",
+                "t <s>   </s> a <s>   </s> l <s>   </s> i <s>   </s> \u014b <s>   </s> a"
+            ],
+            [
+                "Nias-30_child-1",
+                "Nias",
+                "30_child",
+                "i r a o n o",
+                "i <s>   </s> r <s>   </s> a <s>   </s> o <s>   </s> n <s>   </s> o"
+            ],
+            [
+                "Nias-31_virgin-1",
+                "Nias",
+                "31_virgin",
+                "i r a # l a b E",
+                "i <s>   </s> r <s>   </s> a <s>   </s> # <s>   </s> l <s>   </s> a <s>   </s> b <s>   </s> \u025b"
+            ],
+            [
+                "Nias-32_oldpersonm-1",
+                "Nias",
+                "32_oldpersonm",
+                "n i x a # s a t u w a",
+                "n <s>   </s> i <s>   </s> \u00e7 <s>   </s> a <s>   </s> # <s>   </s> s <s>   </s> a <s>   </s> t <s>   </s> u <s>   </s> w <s>   </s> a"
+            ],
+            [
+                "Nias-33_oldpersonf-1",
+                "Nias",
+                "33_oldpersonf",
+                "n i x a # s a t u w a",
+                "n <s>   </s> i <s>   </s> \u00e7 <s>   </s> a <s>   </s> # <s>   </s> s <s>   </s> a <s>   </s> t <s>   </s> u <s>   </s> w <s>   </s> a"
+            ],
+            [
+                "Nias-34_youngperson-1",
+                "Nias",
+                "34_youngperson",
+                "n i x a # s a k a b u y u",
+                "n <s>   </s> i <s>   </s> \u00e7 <s>   </s> a <s>   </s> # <s>   </s> s <s>   </s> a <s>   </s> k <s>   </s> a <s>   </s> b <s>   </s> u <s>   </s> j <s>   </s> u"
+            ],
+            [
+                "Nias-3_nose-1",
+                "Nias",
+                "3_nose",
+                "i d O ng",
+                "i <s>   </s> d <s>   </s> \u0254 <s>   </s> \u014b"
+            ],
+            [
+                "Nias-4_mouth-1",
+                "Nias",
+                "4_mouth",
+                "b a b a",
+                "b <s>   </s> a <s>   </s> b <s>   </s> a"
+            ],
+            [
+                "Nias-5_eye-1",
+                "Nias",
+                "5_eye",
+                "m a t a",
+                "m <s>   </s> a <s>   </s> t <s>   </s> a"
+            ],
+            [
+                "Nias-6_chin-1",
+                "Nias",
+                "6_chin",
+                "b E mb E",
+                "b <s>   </s> \u025b <s>   </s> \u0299 <s>   </s> \u025b"
+            ],
+            [
+                "Nias-7_headhair-1",
+                "Nias",
+                "7_headhair",
+                "b u ' u",
+                "b <s>   </s> u <s>   </s> \u0294 <s>   </s> u"
+            ],
+            [
+                "Nias-8_beard-1",
+                "Nias",
+                "8_beard",
+                "g a mb i",
+                "g <s>   </s> a <s>   </s> \u0299 <s>   </s> i"
+            ],
+            [
+                "Nias-9_neck-1",
+                "Nias",
+                "9_neck",
+                "b a g i",
+                "b <s>   </s> a <s>   </s> g <s>   </s> i"
+            ]
+        ],
+        "bad_words_count": 424,
+        "bipa_errors": [
+            "?",
+            " ",
+            "\u02d0",
+            "\u0361",
+            ")",
+            "("
+        ],
+        "general_errors": 2448,
+        "invalid_words": [],
+        "invalid_words_count": 0,
+        "inventory_size": 31.0,
+        "replacements": {
+            "!": [
+                "\u01c3"
+            ],
+            "_": [
+                "_"
+            ],
+            "a": [
+                "a"
+            ],
+            "b": [
+                "b"
+            ],
+            "c\u0327": [
+                "c\u0327"
+            ],
+            "d": [
+                "d"
+            ],
+            "e": [
+                "e"
+            ],
+            "f": [
+                "f"
+            ],
+            "g": [
+                "g"
+            ],
+            "h": [
+                "h"
+            ],
+            "i": [
+                "i"
+            ],
+            "j": [
+                "j"
+            ],
+            "k": [
+                "k"
+            ],
+            "l": [
+                "l"
+            ],
+            "m": [
+                "m"
+            ],
+            "n": [
+                "n"
+            ],
+            "o": [
+                "o"
+            ],
+            "p": [
+                "p"
+            ],
+            "r": [
+                "r"
+            ],
+            "s": [
+                "s"
+            ],
+            "t": [
+                "t"
+            ],
+            "u": [
+                "u"
+            ],
+            "w": [
+                "w"
+            ],
+            "\u014b": [
+                "\u014b"
+            ],
+            "\u0254": [
+                "\u0254"
+            ],
+            "\u025b": [
+                "\u025b"
+            ],
+            "\u0283": [
+                "\u0283"
+            ],
+            "\u0292": [
+                "\u0292"
+            ],
+            "\u0294": [
+                "\u0294"
+            ],
+            "\u0299": [
+                "\u0299"
+            ]
+        },
+        "sclass_errors": [
+            "?",
+            "\u02d0",
+            "\u0361",
+            "(",
+            ")"
+        ],
+        "segments": {
+            " ": 2404,
+            "!": 1,
+            "#": 126,
+            "(": 2,
+            ")": 2,
+            "?": 2,
+            "a": 520,
+            "b": 82,
+            "d": 79,
+            "e": 203,
+            "f": 68,
+            "g": 36,
+            "h": 55,
+            "i": 199,
+            "j": 38,
+            "k": 173,
+            "l": 138,
+            "m": 73,
+            "n": 81,
+            "o": 81,
+            "p": 52,
+            "r": 46,
+            "s": 66,
+            "t": 128,
+            "u": 290,
+            "w": 47,
+            "\u00e7": 9,
+            "\u014b": 38,
+            "\u0254": 139,
+            "\u025b": 70,
+            "\u0283": 8,
+            "\u0292": 19,
+            "\u0294": 35,
+            "\u0299": 7,
+            "\u02d0": 11,
+            "\u0361": 27
+        }
+    }
+}

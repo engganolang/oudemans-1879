@@ -1,0 +1,427 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,IPA,Dutch
+Enggano-1_head-1,1,Enggano,1_head,é oeloe,e # u l u,e   #   u   l   u,,oudemans1879,,,é # oe l oe,,,hoofd
+Mentawai-1_head-1,2,Mentawai,1_head,oté,O t e,ɔ   t   e,,oudemans1879,,,o t é,,,hoofd
+Nias-1_head-1,3,Nias,1_head,heugen,h e:u g e n,h   ɛ u   g   e   n,,oudemans1879,,,h eu g e n,,,hoofd
+Enggano-2_ear-1,4,Enggano,2_ear,kaliha,k a l i x a,k   a   l   i   ç   a,,oudemans1879,,,k a l i h a,,,oor
+Mentawai-2_ear-1,5,Mentawai,2_ear,talinga,t a l i ng a,t   a   l   i   ŋ   a,,oudemans1879,,,t a l i ng a,,,oor
+Nias-2_ear-1,6,Nias,2_ear,talinga,t a l i ng a,t   a   l   i   ŋ   a,,oudemans1879,,,t a l i ng a,,,oor
+Enggano-3_nose-1,7,Enggano,3_nose,éfano,e f a n O,e   f   a   n   ɔ,,oudemans1879,,,é f a n o,,,neus
+Mentawai-3_nose-1,8,Mentawai,3_nose,asak,a s a k,a   s   a   k,,oudemans1879,,,a s a k,,,neus
+Nias-3_nose-1,9,Nias,3_nose,idong,i d O ng,i   d   ɔ   ŋ,,oudemans1879,,,i d o ng,,,neus
+Enggano-4_mouth-1,10,Enggano,4_mouth,ékā,e k a a,e   k   a ː,,oudemans1879,,,é k ā,,,mond
+Mentawai-4_mouth-1,11,Mentawai,4_mouth,bibo,b i b O,b   i   b   ɔ,,oudemans1879,,,b i b o,,,mond
+Nias-4_mouth-1,12,Nias,4_mouth,baba,b a b a,b   a   b   a,,oudemans1879,,,b a b a,,,mond
+Enggano-5_eye-1,13,Enggano,5_eye,ébāka,e b a a k a,e   b   a ː   k   a,,oudemans1879,,,é b ā k a,,,oog
+Mentawai-5_eye-1,14,Mentawai,5_eye,mata,m a t a,m   a   t   a,,oudemans1879,,,m a t a,,,oog
+Nias-5_eye-1,15,Nias,5_eye,mata,m a t a,m   a   t   a,,oudemans1879,,,m a t a,,,oog
+Enggano-6_chin-1,16,Enggano,6_chin,ékie,e k i,e   k   i,,oudemans1879,,,é k ie,,,kin
+Mentawai-6_chin-1,17,Mentawai,6_chin,bakĕla,b a k e l a,b   a   k   e   l   a,,oudemans1879,,,b a k ĕ l a,,,kin
+Nias-6_chin-1,18,Nias,6_chin,bèmbè,b E mb E,b   ɛ   ʙ   ɛ,,oudemans1879,,,b è mb è,,,kin
+Enggano-7_headhair-1,19,Enggano,7_headhair,foedoedoe-oeloe,f u d u d u ' u l u,f   u   d   u   d   u   ʔ   u   l   u,,oudemans1879,,,f oe d oe d oe - oe l oe,,,hoofdhaar
+Mentawai-7_headhair-1,20,Mentawai,7_headhair,alai,a l a:i,a   l   a i,,oudemans1879,,,a l ai,,,hoofdhaar
+Nias-7_headhair-1,21,Nias,7_headhair,boe-oe,b u ' u,b   u   ʔ   u,,oudemans1879,,,b oe - oe,,,hoofdhaar
+Enggano-8_beard-1,22,Enggano,8_beard,fororoife,f O r O r o:i f e,f   ɔ   r   ɔ   r   ɔ i   f   e,,oudemans1879,,,f o r o r oi f e,,,baard
+Mentawai-8_beard-1,23,Mentawai,8_beard,boeloe,b u l u,b   u   l   u,,oudemans1879,,,b oe l oe,,,baard
+Nias-8_beard-1,24,Nias,8_beard,gambi,g a mb i,g   a   ʙ   i,,oudemans1879,,,g a mb i,,,baard
+Enggano-9_neck-1,25,Enggano,9_neck,hoenoe,h u n u,h   u   n   u,,oudemans1879,,,h oe n oe,,,hals
+Mentawai-9_neck-1,26,Mentawai,9_neck,lolokat,l O l O k a t,l   ɔ   l   ɔ   k   a   t,,oudemans1879,,,l o l o k a t,,,hals
+Nias-9_neck-1,27,Nias,9_neck,bâgi,b a g i,b   a   g   i,,oudemans1879,,,b â g i,,,hals
+Enggano-10_breast-1,28,Enggano,10_breast,émāha,e m a a h a,e   m   a ː   h   a,,oudemans1879,,,é m ā h a,,,borst
+Mentawai-10_breast-1,29,Mentawai,10_breast,karoekat,k a r u k a t,k   a   r   u   k   a   t,,oudemans1879,,,k a r oe k a t,,,borst
+Nias-10_breast-1,30,Nias,10_breast,baloedjoeso,b a l u j u s O,b   a   l   u   d ͡ ʒ   u   s   ɔ,,oudemans1879,,,b a l oe dj oe s o,,,borst
+Enggano-11_belly-1,31,Enggano,11_belly,kiedāi,k i d a a i,k   i   d   a ː   i,,oudemans1879,,,k ie d ā i,,,buik
+Mentawai-11_belly-1,32,Mentawai,11_belly,bācha,b a a k h a,b   a ː   k   h   a,,oudemans1879,,,b ā c h a,,,buik
+Nias-11_belly-1,33,Nias,11_belly,daloe,d a l u,d   a   l   u,,oudemans1879,,,d a l oe,,,buik
+Enggano-12_arm-1,34,Enggano,12_arm,é afo,e # a f O,e   #   a   f   ɔ,,oudemans1879,,,é # a f o,,,arm
+Mentawai-12_arm-1,35,Mentawai,12_arm,para,p a r a,p   a   r   a,,oudemans1879,,,p a r a,,,arm
+Nias-12_arm-1,36,Nias,12_arm,païo,p a ' i O,p   a   ʔ   i   ɔ,,oudemans1879,,,p a ï o,,,arm
+Enggano-13_hand-1,37,Enggano,13_hand,mieno afo,m i n O # a f O,m   i   n   ɔ   #   a   f   ɔ,,oudemans1879,,,m ie n o # a f o,,,hand
+Enggano-14_righthand-1,38,Enggano,14_righthand,mieno afo,m i n O # a f O,m   i   n   ɔ   #   a   f   ɔ,,oudemans1879,,,m ie n o # a f o,,,hand rechter
+Mentawai-14_righthand-1,39,Mentawai,14_righthand,takip kétjo,t a k i p # k e c O,t   a   k   i   p   #   k   e   t ͡ ʃ   ɔ,,oudemans1879,,,t a k i p # k é tj o,,,hand rechter
+Nias-14_righthand-1,40,Nias,14_righthand,tangan gambolo,t a ng a n # g a mb O l O,t   a   ŋ   a   n   #   g   a   ʙ   ɔ   l   ɔ,,oudemans1879,,,t a ng a n # g a mb o l o,,,hand rechter
+Enggano-15_lefthand-1,41,Enggano,15_lefthand,mieno afo,m i n O # a f O,m   i   n   ɔ   #   a   f   ɔ,,oudemans1879,,,m ie n o # a f o,,,hand linker
+Mentawai-15_lefthand-1,42,Mentawai,15_lefthand,takip toëk,t a k i p # t O ë k,t   a   k   i   p   #   t   ɔ   k,,oudemans1879,,,t a k i p # t o ë k,,,hand linker
+Nias-15_lefthand-1,43,Nias,15_lefthand,tangan gambéra,t a ng a n # g a mb e r a,t   a   ŋ   a   n   #   g   a   ʙ   e   r   a,,oudemans1879,,,t a ng a n # g a mb é r a,,,hand linker
+Enggano-16_finger-1,44,Enggano,16_finger,mieno,m i n O,m   i   n   ɔ,,oudemans1879,,,m ie n o,,,vinger
+Mentawai-16_finger-1,45,Mentawai,16_finger,siñgoñgai,s i ñg O ñg a:i,s   i   ŋ   ɔ   ŋ   a i,,oudemans1879,,,s i ñg o ñg ai,,,vinger
+Nias-16_finger-1,46,Nias,16_finger,toeroe,t u r u,t   u   r   u,,oudemans1879,,,t oe r oe,,,vinger
+Enggano-17_nail-1,47,Enggano,17_nail,ekaso-afo,e k a x O ' a f O,e   k   a   ç   ɔ   ʔ   a   f   ɔ,,oudemans1879,,,e k a s o - a f o,,,nagel
+Mentawai-17_nail-1,48,Mentawai,17_nail,soelet,s u l e t,s   u   l   e   t,,oudemans1879,,,s oe l e t,,,nagel
+Nias-17_nail-1,49,Nias,17_nail,tèsâa,t E s a a,t   ɛ   s   a   a,,oudemans1879,,,t è s â a,,,nagel
+Enggano-18_thumb-1,50,Enggano,18_thumb,nai-afo,n a:i ' a f O,n   a i   ʔ   a   f   ɔ,,oudemans1879,,,n ai - a f o,,,duim
+Mentawai-18_thumb-1,51,Mentawai,18_thumb,sikeboe,s i k e b u,s   i   k   e   b   u,,oudemans1879,,,s i k e b oe,,,duim
+Nias-18_thumb-1,52,Nias,18_thumb,toeroe siâ,t u r u # s i a,t   u   r   u   #   s   i   a,,oudemans1879,,,t oe r oe # s i â,,,duim
+Enggano-19_indexfinger-1,53,Enggano,19_indexfinger,ejara-afo,e y a r a ' a f O,e   j   a   r   a   ʔ   a   f   ɔ,,oudemans1879,,,e j a r a - a f o,,,wijsvinger
+Mentawai-19_indexfinger-1,54,Mentawai,19_indexfinger,benang seoe,b e n a ng # s e u,b   e   n   a   ŋ   #   s   e   u,,oudemans1879,,,b e n a ng # s e oe,,,wijsvinger
+Enggano-20_middlefinger-1,55,Enggano,20_middlefinger,éoe-afo,e u ' a f O,e   u   ʔ   a   f   ɔ,,oudemans1879,,,é oe - a f o,,,midd. vinger
+Mentawai-20_middlefinger-1,56,Mentawai,20_middlefinger,katenga,k a t e ng a,k   a   t   e   ŋ   a,,oudemans1879,,,k a t e ng a,,,midd. vinger
+Nias-20_middlefinger-1,57,Nias,20_middlefinger,toeroe wadâloe,t u r u # w a d a l u,t   u   r   u   #   w   a   d   a   l   u,,oudemans1879,,,t oe r oe # w a d â l oe,,,midd. vinger
+Enggano-21_ringfinger-1,58,Enggano,21_ringfinger,kiefa éjoe éjoe,k i f a # e y u # e y u,k   i   f   a   #   e   j   u   #   e   j   u,,oudemans1879,,,k ie f a # é j oe # é j oe,,,ring vinger
+Mentawai-21_ringfinger-1,59,Mentawai,21_ringfinger,bagit katenga,b a g i t # k a t e ng a,b   a   g   i   t   #   k   a   t   e   ŋ   a,,oudemans1879,,,b a g i t # k a t e ng a,,,ring vinger
+Nias-21_ringfinger-1,60,Nias,21_ringfinger,toeroe taloe,t u r u # t a l u,t   u   r   u   #   t   a   l   u,,oudemans1879,,,t oe r oe # t a l oe,,,ring vinger
+Enggano-22_littlefinger-1,61,Enggano,22_littlefinger,miieo-afo noekie,m i O ' a f O # n u k i,m   i   ɔ   ʔ   a   f   ɔ   #   n   u   k   i,,oudemans1879,,,m iie o - a f o # n oe k ie,,,pink
+Mentawai-22_littlefinger-1,62,Mentawai,22_littlefinger,tôtjingongai,t o c i ng O ng a:i,t   o   t ͡ ʃ   i   ŋ   ɔ   ŋ   a i,,oudemans1879,,,t ô tj i ng o ng ai,,,pink
+Nias-22_littlefinger-1,63,Nias,22_littlefinger,toeroe sideïdei,t u r u # s i d e ' i d e:i,t   u   r   u   #   s   i   d   e   ʔ   i   d   ɛ i,,oudemans1879,,,t oe r oe # s i d e ï d ei,,,pink
+Enggano-23_thigh-1,64,Enggano,23_thigh,épara,e p a r a,e   p   a   r   a,,oudemans1879,,,é p a r a,,,dij
+Mentawai-23_thigh-1,65,Mentawai,23_thigh,pekâpat,p e k a p a t,p   e   k   a   p   a   t,,oudemans1879,,,p e k â p a t,,,dij
+Nias-23_thigh-1,66,Nias,23_thigh,gai,g a:i,g   a i,,oudemans1879,,,g ai,,,dij
+Enggano-24_knee-1,67,Enggano,24_knee,éfoe,e f u,e   f   u,,oudemans1879,,,é f oe,,,knie
+Mentawai-24_knee-1,68,Mentawai,24_knee,bôkelô,b o k e l o,b   o   k   e   l   o,,oudemans1879,,,b ô k e l ô,,,knie
+Nias-24_knee-1,69,Nias,24_knee,baloedoeho,b a l u d u h O,b   a   l   u   d   u   h   ɔ,,oudemans1879,,,b a l oe d oe h o,,,knie
+Enggano-25_womansbreast-1,70,Enggano,25_womansbreast,é koko,e # k O k O,e   #   k   ɔ   k   ɔ,,oudemans1879,,,é # k o k o,,,vrouwenborst
+Mentawai-25_womansbreast-1,71,Mentawai,25_womansbreast,tôtôt,t o t o t,t   o   t   o   t,,oudemans1879,,,t ô t ô t,,,vrouwenborst
+Nias-25_womansbreast-1,72,Nias,25_womansbreast,doesoe,d u s u,d   u   s   u,,oudemans1879,,,d oe s oe,,,vrouwenborst
+Enggano-26_body-1,73,Enggano,26_body,karaha,k a r a h a,k   a   r   a   h   a,,oudemans1879,,,k a r a h a,,,lichaam
+Mentawai-26_body-1,74,Mentawai,26_body,toeboe,t u b u,t   u   b   u,,oudemans1879,,,t oe b oe,,,lichaam
+Nias-26_body-1,75,Nias,26_body,bôtô,b o t o,b   o   t   o,,oudemans1879,,,b ô t ô,,,lichaam
+Enggano-27_person-1,76,Enggano,27_person,etakka,e t a k k a,e   t   a   k   k   a,,oudemans1879,,,e t a k k a,,,mensch
+Mentawai-27_person-1,77,Mentawai,27_person,sekalelègat,s e k a l e l E g a t,s   e   k   a   l   e   l   ɛ   g   a   t,,oudemans1879,,,s e k a l e l è g a t,,,mensch
+Nias-27_person-1,78,Nias,27_person,nîha,n i h a,n   i   h   a,,oudemans1879,,,n î h a,,,mensch
+Enggano-28_man-1,79,Enggano,28_man,émané,e m a n e,e   m   a   n   e,,oudemans1879,,,é m a n é,,,man
+Nias-28_man-1,80,Nias,28_man,nîha simatoea,n i h a # s i m a t u a,n   i   h   a   #   s   i   m   a   t   u   a,,oudemans1879,,,n î h a # s i m a t oe a,,,man
+Enggano-29_woman-1,81,Enggano,29_woman,éhoda,e h O d a,e   h   ɔ   d   a,,oudemans1879,,,é h o d a,,,vrouw
+Mentawai-29_woman-1,82,Mentawai,29_woman,nenalep,n e n a l e p,n   e   n   a   l   e   p,,oudemans1879,,,n e n a l e p,,,vrouw
+Nias-29_woman-1,83,Nias,29_woman,nîha sihalāwé,n i h a # s i x a l a a w e,n   i   h   a   #   s   i   ç   a   l   a ː   w   e,,oudemans1879,,,n î h a # s i h a l ā w é,,,vrouw
+Enggano-30_child-1,84,Enggano,30_child,famoa,f a m O a,f   a   m   ɔ   a,,oudemans1879,,,f a m o a,,,kind
+Mentawai-30_child-1,85,Mentawai,30_child,tôga,t o g a,t   o   g   a,,oudemans1879,,,t ô g a,,,kind
+Nias-30_child-1,86,Nias,30_child,iraônô,i r a o n o,i   r   a   o   n   o,,oudemans1879,,,i r a ô n ô,,,kind
+Enggano-31_virgin-1,87,Enggano,31_virgin,efainama,e f a:i n a m a,e   f   a i   n   a   m   a,,oudemans1879,,,e f ai n a m a,,,maagd
+Mentawai-31_virgin-1,88,Mentawai,31_virgin,sjôkô,s y o k o,s   j   o   k   o,,oudemans1879,,,s j ô k ô,,,maagd
+Nias-31_virgin-1,89,Nias,31_virgin,ira labè,i r a # l a b E,i   r   a   #   l   a   b   ɛ,,oudemans1879,,,i r a # l a b è,,,maagd
+Enggano-32_oldpersonm-1,90,Enggano,32_oldpersonm,ekafoe,e k a f u,e   k   a   f   u,,oudemans1879,,,e k a f oe,,,oud mensch
+Mentawai-32_oldpersonm-1,91,Mentawai,32_oldpersonm,bâdja,b a j a,b   a   d ͡ ʒ   a,,oudemans1879,,,b â dj a,,,oud mensch
+Nias-32_oldpersonm-1,92,Nias,32_oldpersonm,niha satoewa,n i x a # s a t u w a,n   i   ç   a   #   s   a   t   u   w   a,,oudemans1879,,,n i h a # s a t oe w a,,,oud mensch
+Enggano-33_oldpersonf-1,93,Enggano,33_oldpersonf,kaniejahé,k a n i y a h e,k   a   n   i   j   a   h   e,,oudemans1879,,,k a n ie j a h é,,,oud mensch
+Mentawai-33_oldpersonf-1,94,Mentawai,33_oldpersonf,bâdja,b a j a,b   a   d ͡ ʒ   a,,oudemans1879,,,b â dj a,,,oud mensch
+Nias-33_oldpersonf-1,95,Nias,33_oldpersonf,niha satoewa,n i x a # s a t u w a,n   i   ç   a   #   s   a   t   u   w   a,,oudemans1879,,,n i h a # s a t oe w a,,,oud mensch
+Enggano-34_youngperson-1,96,Enggano,34_youngperson,fananamie,f a n a n a m i,f   a   n   a   n   a   m   i,,oudemans1879,,,f a n a n a m ie,,,jong mensch
+Mentawai-34_youngperson-1,97,Mentawai,34_youngperson,soelè,s u l E,s   u   l   ɛ,,oudemans1879,,,s oe l è,,,jong mensch
+Nias-34_youngperson-1,98,Nias,34_youngperson,niha sakaboejoe,n i x a # s a k a b u y u,n   i   ç   a   #   s   a   k   a   b   u   j   u,,oudemans1879,,,n i h a # s a k a b oe j oe,,,jong mensch
+Enggano-35_father-1,99,Enggano,35_father,amama,a m a m a,a   m   a   m   a,,oudemans1879,,,a m a m a,,,vader
+Mentawai-35_father-1,100,Mentawai,35_father,oekoei,u k O e:i,u   k   ɔ   ɛ i,,oudemans1879,,,oe k o ei,,,vader
+Nias-35_father-1,101,Nias,35_father,ama,a m a,a   m   a,,oudemans1879,,,a m a,,,vader
+Enggano-36_mother-1,102,Enggano,36_mother,naina,n a:i n a,n   a i   n   a,,oudemans1879,,,n ai n a,,,moeder
+Mentawai-36_mother-1,103,Mentawai,36_mother,manda ina,m a n d a # i n a,m   a   n   d   a   #   i   n   a,,oudemans1879,,,m a n d a # i n a,,,moeder
+Nias-36_mother-1,104,Nias,36_mother,ina,i n a,i   n   a,,oudemans1879,,,i n a,,,moeder
+Enggano-37_son-1,105,Enggano,37_son,éjara émane,e y a r a # e m a n e,e   j   a   r   a   #   e   m   a   n   e,,oudemans1879,,,é j a r a # é m a n e,,,zoon
+Mentawai-37_son-1,106,Mentawai,37_son,tôga semanteoe,t o g a # s e m a n t e u,t   o   g   a   #   s   e   m   a   n   t   e   u,,oudemans1879,,,t ô g a # s e m a n t e oe,,,zoon
+Nias-37_son-1,107,Nias,37_son,iraeumeu simatoewa,i r a e:u m e:u # s i m a t u w a,i   r   a   ɛ u   m   ɛ u   #   s   i   m   a   t   u   w   a,,oudemans1879,,,i r a eu m eu # s i m a t oe w a,,,zoon
+Enggano-38_daughter-1,108,Enggano,38_daughter,éjara éhoda,e y a r a # e h O d a,e   j   a   r   a   #   e   h   ɔ   d   a,,oudemans1879,,,é j a r a # é h o d a,,,dochter
+Mentawai-38_daughter-1,109,Mentawai,38_daughter,sinanalep,s i n a n a l e p,s   i   n   a   n   a   l   e   p,,oudemans1879,,,s i n a n a l e p,,,dochter
+Nias-38_daughter-1,110,Nias,38_daughter,iraeumeu sihalāwè,i r a e:u m e:u # s i x a l a a w E,i   r   a   ɛ u   m   ɛ u   #   s   i   ç   a   l   a ː   w   ɛ,,oudemans1879,,,i r a eu m eu # s i h a l ā w è,,,dochter
+Enggano-39_uncle-1,111,Enggano,39_uncle,kahoe,k a h u,k   a   h   u,,oudemans1879,,,k a h oe,,,oom
+Mentawai-39_uncle-1,112,Mentawai,39_uncle,pamâman,p a m a m a n,p   a   m   a   m   a   n,,oudemans1879,,,p a m â m a n,,,oom
+Nias-39_uncle-1,113,Nias,39_uncle,anasiaki,a n a s i a k i,a   n   a   s   i   a   k   i,,oudemans1879,,,a n a s i a k i,,,oom
+Enggano-40_cousinfemale-1,114,Enggano,40_cousinfemale,à-à,a ' a,a   ʔ   a,,oudemans1879,,,à - à,,,neef (cousin)
+Mentawai-40_cousinfemale-1,115,Mentawai,40_cousinfemale,boea,b u a,b   u   a,,oudemans1879,,,b oe a,,,neef (cousin)
+Nias-40_cousinfemale-1,116,Nias,40_cousinfemale,talifoeso,t a l i f u s O,t   a   l   i   f   u   s   ɔ,,oudemans1879,,,t a l i f oe s o,,,neef (cousin)
+Nias-41_cousinmale-1,117,Nias,41_cousinmale,onowinîo,O n O w i n i O,ɔ   n   ɔ   w   i   n   i   ɔ,,oudemans1879,,,o n o w i n î o,,,neef (neven)
+Enggano-42_grandfather-1,118,Enggano,42_grandfather,oefoenai,u f u n a:i,u   f   u   n   a i,,oudemans1879,,,oe f oe n ai,,,grootvader
+Enggano-43_grandmother-1,119,Enggano,43_grandmother,oefoenai,u f u n a:i,u   f   u   n   a i,,oudemans1879,,,oe f oe n ai,,,grootmoeder
+Enggano-44_grandson-1,120,Enggano,44_grandson,koöfijoe,k o ' o f i y u,k   o   ʔ   o   f   i   j   u,,oudemans1879,,,k oö f i j oe,,,kleinzoon
+Enggano-45_granddaughter-1,121,Enggano,45_granddaughter,koöfijoe,k o ' o f i y u,k   o   ʔ   o   f   i   j   u,,oudemans1879,,,k oö f i j oe,,,kleindochter
+Enggano-46_loincloth-1,122,Enggano,46_loincloth,eafie,e a f i,e   a   f   i,,oudemans1879,,,e a f ie,,,band om het middel en tusschen de beenen door
+Enggano-47_dog-1,123,Enggano,47_dog,eafiē,e a f i e e,e   a   f   i   e ː,,oudemans1879,,,e a f i ē,,,hond
+Mentawai-47_dog-1,124,Mentawai,47_dog,djôhdjôh,j o h j o h,d ͡ ʒ   o   h   d ͡ ʒ   o   h,,oudemans1879,,,dj ô h dj ô h,,,hond
+Nias-47_dog-1,125,Nias,47_dog,asoe,a s u,a   s   u,,oudemans1879,,,a s oe,,,hond
+Enggano-48_pig-1,126,Enggano,48_pig,kojo,k O y O,k   ɔ   j   ɔ,,oudemans1879,,,k o j o,,,varken
+Mentawai-48_pig-1,127,Mentawai,48_pig,sikôko,s i k o k O,s   i   k   o   k   ɔ,,oudemans1879,,,s i k ô k o,,,varken
+Nias-48_pig-1,128,Nias,48_pig,babi,b a b i,b   a   b   i,,oudemans1879,,,b a b i,,,varken
+Mentawai-49_deer-1,129,Mentawai,49_deer,semasoera,s e m a s u r a,s   e   m   a   s   u   r   a,,oudemans1879,,,s e m a s oe r a,,,hert
+Nias-49_deer-1,130,Nias,49_deer,beuheu,b e:u h e:u,b   ɛ u   h   ɛ u,,oudemans1879,,,b eu h eu,,,hert
+Enggano-50_cat-1,131,Enggano,50_cat,ebéo,e b e O,e   b   e   ɔ,,oudemans1879,,,e b é o,,,kat
+Mentawai-50_cat-1,132,Mentawai,50_cat,maoe,m a ' u,m   a   ʔ   u,,oudemans1879,,,m aoe,,,kat
+Nias-50_cat-1,133,Nias,50_cat,maoe,m a ' u,m   a   ʔ   u,,oudemans1879,,,m aoe,,,kat
+Enggano-51_rooster-1,134,Enggano,51_rooster,eokeiko émané,e O k e:i k O # e m a n e,e   ɔ   k   ɛ i   k   ɔ   #   e   m   a   n   e,,oudemans1879,,,e o k ei k o # é m a n é,,,haan
+Mentawai-51_rooster-1,135,Mentawai,51_rooster,gôgô eilaloek,g o g o # e:i l a l u k,g   o   g   o   #   ɛ i   l   a   l   u   k,,oudemans1879,,,g ô g ô # ei l a l oe k,,,haan
+Nias-51_rooster-1,136,Nias,51_rooster,manoe tjilatao,m a n u # c i l a t a O,m   a   n   u   #   t ͡ ʃ   i   l   a   t   a   ɔ,,oudemans1879,,,m a n oe # tj i l a t a o,,,haan
+Enggano-52_hen-1,137,Enggano,52_hen,eokeiko ehoeda,e O k e:i k O # e h u d a,e   ɔ   k   ɛ i   k   ɔ   #   e   h   u   d   a,,oudemans1879,,,e o k ei k o # e h oe d a,,,kip
+Mentawai-52_hen-1,138,Mentawai,52_hen,gôgô semanosa,g o g o # s e m a n O s a,g   o   g   o   #   s   e   m   a   n   ɔ   s   a,,oudemans1879,,,g ô g ô # s e m a n o s a,,,kip
+Nias-52_hen-1,139,Nias,52_hen,manoe sipagèlo,m a n u # s i p a g E l O,m   a   n   u   #   s   i   p   a   g   ɛ   l   ɔ,,oudemans1879,,,m a n oe # s i p a g è l o,,,kip
+Enggano-53_bird-1,140,Enggano,53_bird,eke-èfe,e k e ' E f e,e   k   e   ʔ   ɛ   f   e,,oudemans1879,,,e k e - è f e,,,vogel
+Mentawai-53_bird-1,141,Mentawai,53_bird,oĕwă,u w a,u   w   a,,oudemans1879,,,oĕ w ă,,,vogel
+Nias-53_bird-1,142,Nias,53_bird,pòpò,p O p O,p   ɔ   p   ɔ,,oudemans1879,,,p ò p ò,,,vogel
+Mentawai-54_horse-1,143,Mentawai,54_horse,koerô,k u r o,k   u   r   o,,oudemans1879,,,k oe r ô,,,paard
+Nias-54_horse-1,144,Nias,54_horse,goerô,g u r o,g   u   r   o,,oudemans1879,,,g oe r ô,,,paard
+Mentawai-55_cow-1,145,Mentawai,55_cow,djawi,j a w i,d ͡ ʒ   a   w   i,,oudemans1879,,,dj a w i,,,koe
+Nias-55_cow-1,146,Nias,55_cow,djawi,j a w i,d ͡ ʒ   a   w   i,,oudemans1879,,,dj a w i,,,koe
+Enggano-56_fish-1,147,Enggano,56_fish,e ajo,e # a y O,e   #   a   j   ɔ,,oudemans1879,,,e # a j o,,,visch
+Mentawai-56_fish-1,148,Mentawai,56_fish,kâ,k a,k   a,,oudemans1879,,,k â,,,visch
+Nias-56_fish-1,149,Nias,56_fish,gîa,g i a,g   i   a,,oudemans1879,,,g î a,,,visch
+Enggano-57_coconut-1,150,Enggano,57_coconut,effô,e f f o,e   f   f   o,,oudemans1879,,,e f f ô,,,klappernoot
+Mentawai-57_coconut-1,151,Mentawai,57_coconut,toitet,t o:i t e t,t   ɔ i   t   e   t,,oudemans1879,,,t oi t e t,,,klappernoot
+Nias-57_coconut-1,152,Nias,57_coconut,banîo,b a n i O,b   a   n   i   ɔ,,oudemans1879,,,b a n î o,,,klappernoot
+Enggano-58_banana-1,153,Enggano,58_banana,iedjo,i j O,i   d ͡ ʒ   ɔ,,oudemans1879,,,ie dj o,,,pisang
+Mentawai-58_banana-1,154,Mentawai,58_banana,bagô,b a g o,b   a   g   o,,oudemans1879,,,b a g ô,,,pisang
+Nias-58_banana-1,155,Nias,58_banana,gâhé,g a h e,g   a   h   e,,oudemans1879,,,g â h é,,,pisang
+Mentawai-59_sago-1,156,Mentawai,59_sago,sagai,s a g a:i,s   a   g   a i,,oudemans1879,,,s a g ai,,,sago
+Nias-59_sago-1,157,Nias,59_sago,sagoe,s a g u,s   a   g   u,,oudemans1879,,,s a g oe,,,sago
+Enggano-60_water-1,158,Enggano,60_water,ebbo,e b b O,e   b   b   ɔ,,oudemans1879,,,e b b o,,,water
+Mentawai-60_water-1,159,Mentawai,60_water,jôja,y o y a,j   o   j   a,,oudemans1879,,,j ô j a,,,water
+Nias-60_water-1,160,Nias,60_water,idaneu,i d a n e:u,i   d   a   n   ɛ u,,oudemans1879,,,i d a n eu,,,water
+Enggano-61_house-1,161,Enggano,61_house,oeba,u b a,u   b   a,,oudemans1879,,,oe b a,,,huis
+Mentawai-61_house-1,162,Mentawai,61_house,oêmâ,O e m a,ɔ   e   m   a,,oudemans1879,,,o ê m â,,,huis
+Nias-61_house-1,163,Nias,61_house,nômô,n o m o,n   o   m   o,,oudemans1879,,,n ô m ô,,,huis
+Enggano-62_tree-1,164,Enggano,62_tree,kahara koewo,k a h a r a # k u w O,k   a   h   a   r   a   #   k   u   w   ɔ,,oudemans1879,,,k a h a r a # k oe w o,,,boom
+Mentawai-62_tree-1,165,Mentawai,62_tree,bâkat,b a k a t,b   a   k   a   t,,oudemans1879,,,b â k a t,,,boom
+Nias-62_tree-1,166,Nias,62_tree,embôrô,e mb o r o,e   ʙ   o   r   o,,oudemans1879,,,e mb ô r ô,,,boom
+Enggano-63_wood-1,167,Enggano,63_wood,ekoewo,e k u w O,e   k   u   w   ɔ,,oudemans1879,,,e k oe w o,,,hout
+Nias-63_wood-1,168,Nias,63_wood,geoe,g e u,g   e   u,,oudemans1879,,,g e oe,,,hout
+Enggano-64_river-1,169,Enggano,64_river,iebo,i b O,i   b   ɔ,,oudemans1879,,,ie b o,,,rivier
+Mentawai-64_river-1,170,Mentawai,64_river,toeboe djodja,t u b u # j O j a,t   u   b   u   #   d ͡ ʒ   ɔ   d ͡ ʒ   a,,oudemans1879,,,t oe b oe # dj o dj a,,,rivier
+Nias-64_river-1,171,Nias,64_river,loeâha,l u a h a,l   u   a   h   a,,oudemans1879,,,l oe â h a,,,rivier
+Enggano-65_sea-1,172,Enggano,65_sea,éoewé,e u w e,e   u   w   e,,oudemans1879,,,é oe w é,,,zee
+Mentawai-65_sea-1,173,Mentawai,65_sea,hôat,h o a t,h   o   a   t,,oudemans1879,,,h ô a t,,,zee
+Nias-65_sea-1,174,Nias,65_sea,nâsi,n a s i,n   a   s   i,,oudemans1879,,,n â s i,,,zee
+Enggano-66_ship-1,175,Enggano,66_ship,eoeba-kiemo,e u b a ' k i m O,e   u   b   a   ʔ   k   i   m   ɔ,,oudemans1879,,,e oe b a - k ie m o,,,schip
+Mentawai-66_ship-1,176,Mentawai,66_ship,kinâpat,k i n a p a t,k   i   n   a   p   a   t,,oudemans1879,,,k i n â p a t,,,schip
+Nias-66_ship-1,177,Nias,66_ship,nôwô,n o w o,n   o   w   o,,oudemans1879,,,n ô w ô,,,schip
+Enggano-67_sampankoboat-1,178,Enggano,67_sampankoboat,elohoa,e l o O a,e   l   o   ɔ   a,,oudemans1879,,,e l oh o a,,,sampan
+Mentawai-67_sampankoboat-1,179,Mentawai,67_sampankoboat,abak,a b a k,a   b   a   k,,oudemans1879,,,a b a k,,,sampan
+Nias-67_sampankoboat-1,180,Nias,67_sampankoboat,toendaha,t u n d a h a,t   u   n   d   a   h   a,,oudemans1879,,,t oe n d a h a,,,sampan
+Enggano-68_paddle-1,181,Enggano,68_paddle,eodjie,e O j i,e   ɔ   d ͡ ʒ   i,,oudemans1879,,,e o dj ie,,,pagaai
+Mentawai-68_paddle-1,182,Mentawai,68_paddle,loega,l u g a,l   u   g   a,,oudemans1879,,,l oe g a,,,pagaai
+Nias-68_paddle-1,183,Nias,68_paddle,galoega,g a l u g a,g   a   l   u   g   a,,oudemans1879,,,g a l oe g a,,,pagaai
+Enggano-69_fire-1,184,Enggano,69_fire,ejobie,e y O b i,e   j   ɔ   b   i,,oudemans1879,,,e j o b ie,,,vuur
+Mentawai-69_fire-1,185,Mentawai,69_fire,oebengan,u b e ng a n,u   b   e   ŋ   a   n,,oudemans1879,,,oe b e ng a n,,,vuur
+Nias-69_fire-1,186,Nias,69_fire,galîtah,g a l i t a h,g   a   l   i   t   a   h,,oudemans1879,,,g a l î t a h,,,vuur
+Enggano-70_roof-1,187,Enggano,70_roof,oekoe-oeba,u k u ' u b a,u   k   u   ʔ   u   b   a,,oudemans1879,,,oe k oe - oe b a,,,dak
+Mentawai-70_roof-1,188,Mentawai,70_roof,tôbat,t o b a t,t   o   b   a   t,,oudemans1879,,,t ô b a t,,,dak
+Nias-70_roof-1,189,Nias,70_roof,poeloedjakoe,p u l u j a k u,p   u   l   u   d ͡ ʒ   a   k   u,,oudemans1879,,,p oe l oe dj a k oe,,,dak
+Enggano-71_door-1,190,Enggano,71_door,karoebe,k a r u b e,k   a   r   u   b   e,,oudemans1879,,,k a r oe b e,,,deur
+Mentawai-71_door-1,191,Mentawai,71_door,pengiloh,p e ng i l o,p   e   ŋ   i   l   o,,oudemans1879,,,p e ng i l oh,,,deur
+Nias-71_door-1,192,Nias,71_door,babandoewo,b a b a n d u w O,b   a   b   a   n   d   u   w   ɔ,,oudemans1879,,,b a b a n d oe w o,,,deur
+Enggano-72_sun-1,193,Enggano,72_sun,kaha,k a h a,k   a   h   a,,oudemans1879,,,k a h a,,,zon
+Mentawai-72_sun-1,194,Mentawai,72_sun,soeloe,s u l u,s   u   l   u,,oudemans1879,,,s oe l oe,,,zon
+Nias-72_sun-1,195,Nias,72_sun,mataloeoh,m a t a l u o,m   a   t   a   l   u   o,,oudemans1879,,,m a t a l oe oh,,,zon
+Enggano-73_day-1,196,Enggano,73_day,lakieho,l a k i x O,l   a   k   i   ç   ɔ,,oudemans1879,,,l a k ie h o,,,dag
+Mentawai-73_day-1,197,Mentawai,73_day,mepatoh,m e p a t o,m   e   p   a   t   o,,oudemans1879,,,m e p a t oh,,,dag
+Nias-73_day-1,198,Nias,73_day,loeoh,l u o,l   u   o,,oudemans1879,,,l oe oh,,,dag
+Enggano-74_moon-1,199,Enggano,74_moon,ekanoa,e k a n O a,e   k   a   n   ɔ   a,,oudemans1879,,,e k a n o a,,,maan
+Mentawai-74_moon-1,200,Mentawai,74_moon,lakô,l a k o,l   a   k   o,,oudemans1879,,,l a k ô,,,maan
+Nias-74_moon-1,201,Nias,74_moon,bâwa,b a w a,b   a   w   a,,oudemans1879,,,b â w a,,,maan
+Enggano-75_star-1,202,Enggano,75_star,éfé odā,e f e # O d a a,e   f   e   #   ɔ   d   a ː,,oudemans1879,,,é f é # o d ā,,,ster
+Mentawai-75_star-1,203,Mentawai,75_star,penjanjat,p e n y a n y a t,p   e   n   j   a   n   j   a   t,,oudemans1879,,,p e n j a n j a t,,,ster
+Nias-75_star-1,204,Nias,75_star,dôfi,d o f i,d   o   f   i,,oudemans1879,,,d ô f i,,,ster
+Enggano-76_midday-1,205,Enggano,76_midday,paroheije,p a r o e:i y e,p   a   r   o   ɛ i   j   e,,oudemans1879,,,p a r oh ei j e,,,middag
+Mentawai-76_midday-1,206,Mentawai,76_midday,metoeget tjoeloe,m e t u g e t # c u l u,m   e   t   u   g   e   t   #   t ͡ ʃ   u   l   u,,oudemans1879,,,m e t oe g e t # tj oe l oe,,,middag
+Nias-76_midday-1,207,Nias,76_midday,tengaloeoh,t e ng a l u o,t   e   ŋ   a   l   u   o,,oudemans1879,,,t e ng a l oe oh,,,middag
+Enggano-77_wind-1,208,Enggano,77_wind,ekiejoe,e k i y u,e   k   i   j   u,,oudemans1879,,,e k ie j oe,,,wind
+Mentawai-77_wind-1,209,Mentawai,77_wind,roesa,r u s a,r   u   s   a,,oudemans1879,,,r oe s a,,,wind
+Nias-77_wind-1,210,Nias,77_wind,nangi,n a ng i,n   a   ŋ   i,,oudemans1879,,,n a ng i,,,wind
+Enggano-78_current-1,211,Enggano,78_current,kaha kakie,k a h a # k a k i,k   a   h   a   #   k   a   k   i,,oudemans1879,,,k a h a # k a k ie,,,stroom
+Mentawai-78_current-1,212,Mentawai,78_current,marekdek,m a r e k d e k,m   a   r   e   k   d   e   k,,oudemans1879,,,m a r e k d e k,,,stroom
+Nias-78_current-1,213,Nias,78_current,idaneu sabè-è,i d a n e:u # s a b E ' E,i   d   a   n   ɛ u   #   s   a   b   ɛ   ʔ   ɛ,,oudemans1879,,,i d a n eu # s a b è - è,,,stroom
+Enggano-79_hill-1,214,Enggano,79_hill,ekohé,e k o e,e   k   o   e,,oudemans1879,,,e k oh é,,,heuvel
+Mentawai-79_hill-1,215,Mentawai,79_hill,boekoe,b u k u,b   u   k   u,,oudemans1879,,,b oe k oe,,,heuvel
+Nias-79_hill-1,216,Nias,79_hill,ili sideidei,i l i # s i d e:i d e:i,i   l   i   #   s   i   d   ɛ i   d   ɛ i,,oudemans1879,,,i l i # s i d ei d ei,,,heuvel
+Enggano-80_mountain-1,217,Enggano,80_mountain,ekohé,e k o e,e   k   o   e,,oudemans1879,,,e k oh é,,,berg
+Mentawai-80_mountain-1,218,Mentawai,80_mountain,boelak,b u l a k,b   u   l   a   k,,oudemans1879,,,b oe l a k,,,berg
+Nias-80_mountain-1,219,Nias,80_mountain,ili siboea,i l i # s i b u a,i   l   i   #   s   i   b   u   a,,oudemans1879,,,i l i # s i b oe a,,,berg
+Enggano-81_flood-1,220,Enggano,81_flood,kaoedoe doewe,k a ' u d u # d u w e,k   a   ʔ   u   d   u   #   d   u   w   e,,oudemans1879,,,k aoe d oe # d oe w e,,,bandjir
+Mentawai-81_flood-1,221,Mentawai,81_flood,madjoedjoet,m a j u j u t,m   a   d ͡ ʒ   u   d ͡ ʒ   u   t,,oudemans1879,,,m a dj oe dj oe t,,,bandjir
+Nias-81_flood-1,222,Nias,81_flood,môloe siboea,m o l u # s i b u a,m   o   l   u   #   s   i   b   u   a,,oudemans1879,,,m ô l oe # s i b oe a,,,bandjir
+Enggano-82_shield-1,223,Enggano,82_shield,ékieahe,e k i a h e,e   k   i   a   h   e,,oudemans1879,,,é k ie a h e,,,schild
+Mentawai-82_shield-1,224,Mentawai,82_shield,koerâbi,k u r a b i,k   u   r   a   b   i,,oudemans1879,,,k oe r â b i,,,schild
+Nias-82_shield-1,225,Nias,82_shield,dangé,d a ng e,d   a   ŋ   e,,oudemans1879,,,d a ng é,,,schild
+Enggano-82_shield-2,226,Enggano,82_shield,ékieahe,e k i a h e,e   k   i   a   h   e,,oudemans1879,,,é k ie a h e,,,schild
+Mentawai-82_shield-2,227,Mentawai,82_shield,koerâbi,k u r a b i,k   u   r   a   b   i,,oudemans1879,,,k oe r â b i,,,schild
+Nias-82_shield-2,228,Nias,82_shield,toelo toeloe,t u l O # t u l u,t   u   l   ɔ   #   t   u   l   u,,oudemans1879,,,t oe l o # t oe l oe,,,schild
+Enggano-83_knifeko-1,229,Enggano,83_knifeko,efiekofieko,e f i k O f i k O,e   f   i   k   ɔ   f   i   k   ɔ,,oudemans1879,,,e f ie k o f ie k o,,,steekmes
+Mentawai-83_knifeko-1,230,Mentawai,83_knifeko,palitei,p a l i t e:i,p   a   l   i   t   ɛ i,,oudemans1879,,,p a l i t ei,,,steekmes
+Nias-83_knifeko-1,231,Nias,83_knifeko,boeloesèwa,b u l u s E w a,b   u   l   u   s   ɛ   w   a,,oudemans1879,,,b oe l oe s è w a,,,steekmes
+Enggano-84_bow-1,232,Enggano,84_bow,epiéko,e p i e k O,e   p   i   e   k   ɔ,,oudemans1879,,,e p i é k o,,,boog
+Enggano-85_arrow-1,233,Enggano,85_arrow,epiéko,e p i e k O,e   p   i   e   k   ɔ,,oudemans1879,,,e p i é k o,,,pijl
+Enggano-86_cutlassko-1,234,Enggano,86_cutlassko,feitjie,f e:i c i,f   ɛ i   t ͡ ʃ   i,,oudemans1879,,,f ei tj ie,,,klewang
+Nias-86_cutlassko-1,235,Nias,86_cutlassko,toho telègoe,t o O # t e l E g u,t   o   ɔ   #   t   e   l   ɛ   g   u,,oudemans1879,,,t oh o # t e l è g oe,,,klewang
+Enggano-87_javelin-1,236,Enggano,87_javelin,ekajo,e k a y O,e   k   a   j   ɔ,,oudemans1879,,,e k a j o,,,werpspies
+Enggano-88_big-1,237,Enggano,88_big,a-ieje,a ' i y e,a   ʔ   i   j   e,,oudemans1879,,,a - ie j e,,,groot
+Mentawai-88_big-1,238,Mentawai,88_big,abéoe,a b e u,a   b   e   u,,oudemans1879,,,a b é oe,,,groot
+Nias-88_big-1,239,Nias,88_big,siboea,s i b u a,s   i   b   u   a,,oudemans1879,,,s i b oe a,,,groot
+Enggano-89_small-1,240,Enggano,89_small,noekie,n u k i,n   u   k   i,,oudemans1879,,,n oe k ie,,,klein
+Mentawai-89_small-1,241,Mentawai,89_small,segôsô,s e g o s o,s   e   g   o   s   o,,oudemans1879,,,s e g ô s ô,,,klein
+Nias-89_small-1,242,Nias,89_small,déï deî,d e ' i # d e:i,d   e   ʔ   i   #   d   ɛ i,,oudemans1879,,,d é ï # d eî,,,klein
+Enggano-90_old-1,243,Enggano,90_old,éā,e a a,e   a ː,,oudemans1879,,,é ā,,,oud
+Mentawai-90_old-1,244,Mentawai,90_old,kêla,k e l a,k   e   l   a,,oudemans1879,,,k ê l a,,,oud
+Nias-90_old-1,245,Nias,90_old,satoewa,s a t u w a,s   a   t   u   w   a,,oudemans1879,,,s a t oe w a,,,oud
+Enggano-91_young-1,246,Enggano,91_young,eahanieje,e a h a n i y e,e   a   h   a   n   i   j   e,,oudemans1879,,,e a h a n ie j e,,,jong
+Mentawai-91_young-1,247,Mentawai,91_young,lô,l o,l   o,,oudemans1879,,,l ô,,,jong
+Nias-91_young-1,248,Nias,91_young,sikaboejoe,s i k a b u y u,s   i   k   a   b   u   j   u,,oudemans1879,,,s i k a b oe j oe,,,jong
+Enggano-92_male-1,249,Enggano,92_male,émané,e m a n e,e   m   a   n   e,,oudemans1879,,,é m a n é,,,mannelijk
+Nias-92_male-1,250,Nias,92_male,simatoewa,s i m a t u w a,s   i   m   a   t   u   w   a,,oudemans1879,,,s i m a t oe w a,,,mannelijk
+Enggano-93_female-1,251,Enggano,93_female,éhoeda,e h u d a,e   h   u   d   a,,oudemans1879,,,é h oe d a,,,vrouwelijk
+Nias-93_female-1,252,Nias,93_female,sihalāwé,s i x a l a a w e,s   i   ç   a   l   a ː   w   e,,oudemans1879,,,s i h a l ā w é,,,vrouwelijk
+Enggano-94_long-1,253,Enggano,94_long,aieje-noe,a i y e ' n u,a   i   j   e   ʔ   n   u,,oudemans1879,,,a ie j e - n oe,,,lang
+Mentawai-94_long-1,254,Mentawai,94_long,ata,a t a,a   t   a,,oudemans1879,,,a t a,,,lang
+Nias-94_long-1,255,Nias,94_long,enaoe,e n a ' u,e   n   a   ʔ   u,,oudemans1879,,,e n aoe,,,lang
+Enggano-95_short-1,256,Enggano,95_short,kakoewo,k a k u w O,k   a   k   u   w   ɔ,,oudemans1879,,,k a k oe w o,,,kort
+Mentawai-95_short-1,257,Mentawai,95_short,metètè,m e t E t E,m   e   t   ɛ   t   ɛ,,oudemans1879,,,m e t è t è,,,kort
+Nias-95_short-1,258,Nias,95_short,dogo dogo,d O g O # d O g O,d   ɔ   g   ɔ   #   d   ɔ   g   ɔ,,oudemans1879,,,d o g o # d o g o,,,kort
+Enggano-96_wide-1,259,Enggano,96_wide,aieja foho,a i y a # f o O,a   i   j   a   #   f   o   ɔ,,oudemans1879,,,a ie j a # f oh o,,,breed
+Mentawai-96_wide-1,260,Mentawai,96_wide,alîò,a l i O,a   l   i   ɔ,,oudemans1879,,,a l î ò,,,breed
+Nias-96_wide-1,261,Nias,96_wide,ebeûlo,e b e:u l O,e   b   ɛ u   l   ɔ,,oudemans1879,,,e b eû l o,,,breed
+Enggano-97_narrow-1,262,Enggano,97_narrow,noekie foho,n u k i # f o O,n   u   k   i   #   f   o   ɔ,,oudemans1879,,,n oe k ie # f oh o,,,smal
+Enggano-98_beautiful-1,263,Enggano,98_beautiful,kaoewe,k a ' u w e,k   a   ʔ   u   w   e,,oudemans1879,,,k aoe w e,,,mooi
+Mentawai-98_beautiful-1,264,Mentawai,98_beautiful,méroei,m e r O e:i,m   e   r   ɔ   ɛ i,,oudemans1879,,,m é r o ei,,,mooi
+Nias-98_beautiful-1,265,Nias,98_beautiful,seuchi,s e:u k h i,s   ɛ u   k   h   i,,oudemans1879,,,s eu c h i,,,mooi
+Enggano-99_ugly-1,266,Enggano,99_ugly,kieohé,k i o e,k   i   o   e,,oudemans1879,,,k ie oh é,,,leelijk
+Mentawai-99_ugly-1,267,Mentawai,99_ugly,makàtai,m a k a t a:i,m   a   k   a   t   a i,,oudemans1879,,,m a k à t ai,,,leelijk
+Nias-99_ugly-1,268,Nias,99_ugly,leu-eu seuchi,l e:u ' e:u # s e:u k h i,l   ɛ u   ʔ   ɛ u   #   s   ɛ u   k   h   i,,oudemans1879,,,l eu - eu # s eu c h i,,,leelijk
+Enggano-100_high-1,269,Enggano,100_high,ietjébé,i c e b e,i   t ͡ ʃ   e   b   e,,oudemans1879,,,ie tj é b é,,,hoog
+Mentawai-100_high-1,270,Mentawai,100_high,ata,a t a,a   t   a,,oudemans1879,,,a t a,,,hoog
+Nias-100_high-1,271,Nias,100_high,enaoe,e n a ' u,e   n   a   ʔ   u,,oudemans1879,,,e n aoe,,,hoog
+Enggano-101_low-1,272,Enggano,101_low,ietofo,i t O f O,i   t   ɔ   f   ɔ,,oudemans1879,,,ie t o f o,,,laag
+Mentawai-101_low-1,273,Mentawai,101_low,metètè,m e t E t E,m   e   t   ɛ   t   ɛ,,oudemans1879,,,m e t è t è,,,laag
+Nias-101_low-1,274,Nias,101_low,dogo dogo,d O g O # d O g O,d   ɔ   g   ɔ   #   d   ɔ   g   ɔ,,oudemans1879,,,d o g o # d o g o,,,laag
+Mentawai-102_north-1,275,Mentawai,102_north,sikalaoet,s i k a l a ' u t,s   i   k   a   l   a   ʔ   u   t,,oudemans1879,,,s i k a l aoe t,,,noord
+Mentawai-103_west-1,276,Mentawai,103_west,bertapat soenjie,b e r t a p a t # s u n y i,b   e   r   t   a   p   a   t   #   s   u   n   j   i,,oudemans1879,,,b e r t a p a t # s oe n j ie,,,west
+Mentawai-104_south-1,277,Mentawai,104_south,kajâman,k a y a m a n,k   a   j   a   m   a   n,,oudemans1879,,,k a j â m a n,,,zuid
+Mentawai-105_east-1,278,Mentawai,105_east,matatjoedoe,m a t a c u d u,m   a   t   a   t ͡ ʃ   u   d   u,,oudemans1879,,,m a t a tj oe d oe,,,oost
+Enggano-106_hungry-1,279,Enggano,106_hungry,éaba,e a b a,e   a   b   a,,oudemans1879,,,é a b a,,,hongerig
+Mentawai-106_hungry-1,280,Mentawai,106_hungry,meladjè,m e l a j E,m   e   l   a   d ͡ ʒ   ɛ,,oudemans1879,,,m e l a dj è,,,hongerig
+Nias-106_hungry-1,281,Nias,106_hungry,alófó daloe,a l o f o # d a l u,a   l   o   f   o   #   d   a   l   u,,oudemans1879,,,a l ó f ó # d a l oe,,,hongerig
+Enggano-107_full-1,282,Enggano,107_full,hobelélé,h O b e l e l e,h   ɔ   b   e   l   e   l   e,,oudemans1879,,,h o b e l é l é,,,verzadigd
+Mentawai-107_full-1,283,Mentawai,107_full,mètèng,m E t E ng,m   ɛ   t   ɛ   ŋ,,oudemans1879,,,m è t è ng,,,verzadigd
+Nias-107_full-1,284,Nias,107_full,aboesoe daloe,a b u s u # d a l u,a   b   u   s   u   #   d   a   l   u,,oudemans1879,,,a b oe s oe # d a l oe,,,verzadigd
+Enggano-108_i-1,285,Enggano,108_i,oewa,u w a,u   w   a,,oudemans1879,,,oe w a,,,ik
+Mentawai-108_i-1,286,Mentawai,108_i,akoe,a k u,a   k   u,,oudemans1879,,,a k oe,,,ik
+Nias-108_i-1,287,Nias,108_i,jaôdô,y a o d o,j   a   o   d   o,,oudemans1879,,,j a ô d ô,,,ik
+Mentawai-108_i-2,288,Mentawai,108_i,mangaû,m a ng a u,m   a   ŋ   a   u,,oudemans1879,,,m a ng a û,,,ik
+Enggano-109_you-1,289,Enggano,109_you,oh,o,o,,oudemans1879,,,oh,,,gij
+Mentawai-109_you-1,290,Mentawai,109_you,ekéo,e k e O,e   k   e   ɔ,,oudemans1879,,,e k é o,,,gij
+Nias-109_you-1,291,Nias,109_you,eû,e:u,ɛ u,,oudemans1879,,,eû,,,gij
+Nias-109_you-2,292,Nias,109_you,jaôgô,y a o g o,j   a   o   g   o,,oudemans1879,,,j a ô g ô,,,gij
+Enggano-110_he-1,293,Enggano,110_he,kieja,k i y a,k   i   j   a,,oudemans1879,,,k ie j a,,,hij
+Mentawai-110_he-1,294,Mentawai,110_he,ekéo léo,e k e O # l e O,e   k   e   ɔ   #   l   e   ɔ,,oudemans1879,,,e k é o # l é o,,,hij
+Nias-110_he-1,295,Nias,110_he,ja îja,y a # i y a,j   a   #   i   j   a,,oudemans1879,,,j a # î j a,,,hij
+Enggano-111_we-1,296,Enggano,111_we,ieka,i k a,i   k   a,,oudemans1879,,,ie k a,,,wij
+Mentawai-111_we-1,297,Mentawai,111_we,akoe sengabilinga,a k u # s e ng a b i l i ng a,a   k   u   #   s   e   ŋ   a   b   i   l   i   ŋ   a,,oudemans1879,,,a k oe # s e ng a b i l i ng a,,,wij
+Nias-111_we-1,298,Nias,111_we,ja-itanda,y a ' i t a n d a,j   a   ʔ   i   t   a   n   d   a,,oudemans1879,,,j a - i t a n d a,,,wij
+Mentawai-109_you-2,299,Mentawai,109_you,ekéo sengabilinga (?),e k e O # s e ng a b i l i ng a # ( ? ),e   k   e   ɔ   #   s   e   ŋ   a   b   i   l   i   ŋ   a   #   (   ?   ),,oudemans1879,,,e k é o # s e ng a b i l i ng a # ( ? ),,,gij
+Nias-109_you-3,300,Nias,109_you,iaôgô,i a o g o,i   a   o   g   o,,oudemans1879,,,i a ô g ô,,,gij
+Enggano-112_they-1,301,Enggano,112_they,kieja,k i y a,k   i   j   a,,oudemans1879,,,k ie j a,,,zij
+Mentawai-112_they-1,302,Mentawai,112_they,ekéo léo sengabilinga (?),e k e O # l e O # s e ng a b i l i ng a # ( ? ),e   k   e   ɔ   #   l   e   ɔ   #   s   e   ŋ   a   b   i   l   i   ŋ   a   #   (   ?   ),,oudemans1879,,,e k é o # l é o # s e ng a b i l i ng a # ( ? ),,,zij
+Nias-112_they-1,303,Nias,112_they,ia-ija,i a ' i y a,i   a   ʔ   i   j   a,,oudemans1879,,,i a - i j a,,,zij
+Enggano-113_one-1,304,Enggano,113_one,kahaie,k a h a i,k   a   h   a   i,,oudemans1879,,,k a h a ie,,,1
+Mentawai-113_one-1,305,Mentawai,113_one,sara,s a r a,s   a   r   a,,oudemans1879,,,s a r a,,,1
+Nias-113_one-1,306,Nias,113_one,sara,s a r a,s   a   r   a,,oudemans1879,,,s a r a,,,1
+Enggano-114_two-1,307,Enggano,114_two,adoewa,a d u w a,a   d   u   w   a,,oudemans1879,,,a d oe w a,,,2
+Mentawai-114_two-1,308,Mentawai,114_two,doewa,d u w a,d   u   w   a,,oudemans1879,,,d oe w a,,,2
+Nias-114_two-1,309,Nias,114_two,doewa,d u w a,d   u   w   a,,oudemans1879,,,d oe w a,,,2
+Enggano-115_three-1,310,Enggano,115_three,akoloe,a k O l u,a   k   ɔ   l   u,,oudemans1879,,,a k o l oe,,,3
+Mentawai-115_three-1,311,Mentawai,115_three,tèloe,t E l u,t   ɛ   l   u,,oudemans1879,,,t è l oe,,,3
+Nias-115_three-1,312,Nias,115_three,teuloe,t e:u l u,t   ɛ u   l   u,,oudemans1879,,,t eu l oe,,,3
+Enggano-116_four-1,313,Enggano,116_four,afa,a f a,a   f   a,,oudemans1879,,,a f a,,,4
+Mentawai-116_four-1,314,Mentawai,116_four,epat,e p a t,e   p   a   t,,oudemans1879,,,e p a t,,,4
+Nias-116_four-1,315,Nias,116_four,ôfa,o f a,o   f   a,,oudemans1879,,,ô f a,,,4
+Enggano-117_five-1,316,Enggano,117_five,alieba,a l i b a,a   l   i   b   a,,oudemans1879,,,a l ie b a,,,5
+Mentawai-117_five-1,317,Mentawai,117_five,lima,l i m a,l   i   m   a,,oudemans1879,,,l i m a,,,5
+Nias-117_five-1,318,Nias,117_five,lima,l i m a,l   i   m   a,,oudemans1879,,,l i m a,,,5
+Enggano-118_six-1,319,Enggano,118_six,kaikiene,k a:i k i n e,k   a i   k   i   n   e,,oudemans1879,,,k ai k ie n e,,,6
+Mentawai-118_six-1,320,Mentawai,118_six,ènèm,E n E m,ɛ   n   ɛ   m,,oudemans1879,,,è n è m,,,6
+Nias-118_six-1,321,Nias,118_six,eôneû,e o n e:u,e   o   n   ɛ u,,oudemans1879,,,e ô n eû,,,6
+Enggano-119_seven-1,322,Enggano,119_seven,aliebe é adoewa,a l i b e # e # a d u w a,a   l   i   b   e   #   e   #   a   d   u   w   a,,oudemans1879,,,a l ie b e # é # a d oe w a,,,7
+Mentawai-119_seven-1,323,Mentawai,119_seven,pitoe,p i t u,p   i   t   u,,oudemans1879,,,p i t oe,,,7
+Nias-119_seven-1,324,Nias,119_seven,fitoe,f i t u,f   i   t   u,,oudemans1879,,,f i t oe,,,7
+Enggano-120_eight-1,325,Enggano,120_eight,afa é afa,a f a # e # a f a,a   f   a   #   e   #   a   f   a,,oudemans1879,,,a f a # é # a f a,,,8
+Mentawai-120_eight-1,326,Mentawai,120_eight,waloe,w a l u,w   a   l   u,,oudemans1879,,,w a l oe,,,8
+Nias-120_eight-1,327,Nias,120_eight,waloe,w a l u,w   a   l   u,,oudemans1879,,,w a l oe,,,8
+Enggano-121_nine-1,328,Enggano,121_nine,aliebe é afa,a l i b e # e # a f a,a   l   i   b   e   #   e   #   a   f   a,,oudemans1879,,,a l ie b e # é # a f a,,,9
+Mentawai-121_nine-1,329,Mentawai,121_nine,siwa,s i w a,s   i   w   a,,oudemans1879,,,s i w a,,,9
+Nias-121_nine-1,330,Nias,121_nine,siwa,s i w a,s   i   w   a,,oudemans1879,,,s i w a,,,9
+Enggano-122_ten-1,331,Enggano,122_ten,kahafoeloe,k a h a f u l u,k   a   h   a   f   u   l   u,,oudemans1879,,,k a h a f oe l oe,,,10
+Mentawai-122_ten-1,332,Mentawai,122_ten,poeloe,p u l u,p   u   l   u,,oudemans1879,,,p oe l oe,,,10
+Nias-122_ten-1,333,Nias,122_ten,foeloe,f u l u,f   u   l   u,,oudemans1879,,,f oe l oe,,,10
+Enggano-123_eleven-1,334,Enggano,123_eleven,kahafoeloe é kehaie,k a h a f u l u # e # k e h a i,k   a   h   a   f   u   l   u   #   e   #   k   e   h   a   i,,oudemans1879,,,k a h a f oe l oe # é # k e h a ie,,,11
+Mentawai-123_eleven-1,335,Mentawai,123_eleven,poeloe sara tera,p u l u # s a r a # t e r a,p   u   l   u   #   s   a   r   a   #   t   e   r   a,,oudemans1879,,,p oe l oe # s a r a # t e r a,,,11
+Nias-123_eleven-1,336,Nias,123_eleven,filisara,f i l i s a r a,f   i   l   i   s   a   r   a,,oudemans1879,,,f i l i s a r a,,,11
+Enggano-124_twelve-1,337,Enggano,124_twelve,kahafoeloe é adoewa,k a h a f u l u # e # a d u w a,k   a   h   a   f   u   l   u   #   e   #   a   d   u   w   a,,oudemans1879,,,k a h a f oe l oe # é # a d oe w a,,,12
+Mentawai-124_twelve-1,338,Mentawai,124_twelve,poeloe doewa tera,p u l u # d u w a # t e r a,p   u   l   u   #   d   u   w   a   #   t   e   r   a,,oudemans1879,,,p oe l oe # d oe w a # t e r a,,,12
+Nias-124_twelve-1,339,Nias,124_twelve,filidoewa,f i l i d u w a,f   i   l   i   d   u   w   a,,oudemans1879,,,f i l i d oe w a,,,12
+Enggano-125_thirteen-1,340,Enggano,125_thirteen,kahafoeloe é akoloe,k a h a f u l u # e # a k O l u,k   a   h   a   f   u   l   u   #   e   #   a   k   ɔ   l   u,,oudemans1879,,,k a h a f oe l oe # é # a k o l oe,,,13
+Mentawai-125_thirteen-1,341,Mentawai,125_thirteen,poeloe teloe tera,p u l u # t e l u # t e r a,p   u   l   u   #   t   e   l   u   #   t   e   r   a,,oudemans1879,,,p oe l oe # t e l oe # t e r a,,,13
+Nias-125_thirteen-1,342,Nias,125_thirteen,fili deuloe,f i l i # d e:u l u,f   i   l   i   #   d   ɛ u   l   u,,oudemans1879,,,f i l i # d eu l oe,,,13
+Enggano-126_twenty-1,343,Enggano,126_twenty,kahaie takka,k a h a i # t a k k a,k   a   h   a   i   #   t   a   k   k   a,,oudemans1879,,,k a h a ie # t a k k a,,,20
+Mentawai-126_twenty-1,344,Mentawai,126_twenty,doeang a poeloe,d u a ng # a # p u l u,d   u   a   ŋ   #   a   #   p   u   l   u,,oudemans1879,,,d oe a ng # a # p oe l oe,,,20
+Nias-126_twenty-1,345,Nias,126_twenty,doewapoeloe,d u w a p u l u,d   u   w   a   p   u   l   u,,oudemans1879,,,d oe w a p oe l oe,,,20
+Enggano-127_thirty-1,346,Enggano,127_thirty,kahaie takka é kahafoeloe,k a h a i # t a k k a # e # k a h a f u l u,k   a   h   a   i   #   t   a   k   k   a   #   e   #   k   a   h   a   f   u   l   u,,oudemans1879,,,k a h a ie # t a k k a # é # k a h a f oe l oe,,,30
+Mentawai-127_thirty-1,347,Mentawai,127_thirty,telonga a poeloe,t e l O ng a # a # p u l u,t   e   l   ɔ   ŋ   a   #   a   #   p   u   l   u,,oudemans1879,,,t e l o ng a # a # p oe l oe,,,30
+Nias-127_thirty-1,348,Nias,127_thirty,teuloepoeloe,t e:u l u p u l u,t   ɛ u   l   u   p   u   l   u,,oudemans1879,,,t eu l oe p oe l oe,,,30
+Enggano-128_forty-1,349,Enggano,128_forty,adoewa takka,a d u w a # t a k k a,a   d   u   w   a   #   t   a   k   k   a,,oudemans1879,,,a d oe w a # t a k k a,,,40
+Mentawai-128_forty-1,350,Mentawai,128_forty,epatuga a poeloe,e p a t u g a # a # p u l u,e   p   a   t   u   g   a   #   a   #   p   u   l   u,,oudemans1879,,,e p a t u g a # a # p oe l oe,,,40
+Nias-128_forty-1,351,Nias,128_forty,ofapoeloe,O f a p u l u,ɔ   f   a   p   u   l   u,,oudemans1879,,,o f a p oe l oe,,,40
+Enggano-129_fifty-1,352,Enggano,129_fifty,adoewa takka é kahafoeloe,a d u w a # t a k k a # e # k a h a f u l u,a   d   u   w   a   #   t   a   k   k   a   #   e   #   k   a   h   a   f   u   l   u,,oudemans1879,,,a d oe w a # t a k k a # é # k a h a f oe l oe,,,50
+Mentawai-129_fifty-1,353,Mentawai,129_fifty,limanga a poeloe,l i m a ng a # a # p u l u,l   i   m   a   ŋ   a   #   a   #   p   u   l   u,,oudemans1879,,,l i m a ng a # a # p oe l oe,,,50
+Nias-129_fifty-1,354,Nias,129_fifty,limapoeloe,l i m a p u l u,l   i   m   a   p   u   l   u,,oudemans1879,,,l i m a p oe l oe,,,50
+Enggano-130_sixty-1,355,Enggano,130_sixty,akoloe takka,a k O l u # t a k k a,a   k   ɔ   l   u   #   t   a   k   k   a,,oudemans1879,,,a k o l oe # t a k k a,,,60
+Mentawai-130_sixty-1,356,Mentawai,130_sixty,ènèngapoeloe,E n E ng a p u l u,ɛ   n   ɛ   ŋ   a   p   u   l   u,,oudemans1879,,,è n è ng a p oe l oe,,,60
+Nias-130_sixty-1,357,Nias,130_sixty,eônêupoeloe,e o n e u p u l u,e   o   n   e   u   p   u   l   u,,oudemans1879,,,e ô n ê u p oe l oe,,,60
+Enggano-131_seventy-1,358,Enggano,131_seventy,akoloe takka é kahafoeloe,a k O l u # t a k k a # e # k a h a f u l u,a   k   ɔ   l   u   #   t   a   k   k   a   #   e   #   k   a   h   a   f   u   l   u,,oudemans1879,,,a k o l oe # t a k k a # é # k a h a f oe l oe,,,70
+Mentawai-131_seventy-1,359,Mentawai,131_seventy,pitoenga a poeloe,p i t u ng a # a # p u l u,p   i   t   u   ŋ   a   #   a   #   p   u   l   u,,oudemans1879,,,p i t oe ng a # a # p oe l oe,,,70
+Nias-131_seventy-1,360,Nias,131_seventy,fitoepoeloe,f i t u p u l u,f   i   t   u   p   u   l   u,,oudemans1879,,,f i t oe p oe l oe,,,70
+Enggano-132_eighty-1,361,Enggano,132_eighty,afa takka,a f a # t a k k a,a   f   a   #   t   a   k   k   a,,oudemans1879,,,a f a # t a k k a,,,80
+Mentawai-132_eighty-1,362,Mentawai,132_eighty,waloenga a poeloe,w a l u ng a # a # p u l u,w   a   l   u   ŋ   a   #   a   #   p   u   l   u,,oudemans1879,,,w a l oe ng a # a # p oe l oe,,,80
+Nias-132_eighty-1,363,Nias,132_eighty,waloepoeloe,w a l u p u l u,w   a   l   u   p   u   l   u,,oudemans1879,,,w a l oe p oe l oe,,,80
+Enggano-133_ninety-1,364,Enggano,133_ninety,afa takka é kahafoeloe,a f a # t a k k a # e # k a h a f u l u,a   f   a   #   t   a   k   k   a   #   e   #   k   a   h   a   f   u   l   u,,oudemans1879,,,a f a # t a k k a # é # k a h a f oe l oe,,,90
+Mentawai-133_ninety-1,365,Mentawai,133_ninety,siwanga a poeloe,s i w a ng a # a # p u l u,s   i   w   a   ŋ   a   #   a   #   p   u   l   u,,oudemans1879,,,s i w a ng a # a # p oe l oe,,,90
+Nias-133_ninety-1,366,Nias,133_ninety,siwapoeloe,s i w a p u l u,s   i   w   a   p   u   l   u,,oudemans1879,,,s i w a p oe l oe,,,90
+Enggano-134_onehundred-1,367,Enggano,134_onehundred,alieba takka,a l i b a # t a k k a,a   l   i   b   a   #   t   a   k   k   a,,oudemans1879,,,a l ie b a # t a k k a,,,100
+Mentawai-134_onehundred-1,368,Mentawai,134_onehundred,sengôtoe,s e ng o t u,s   e   ŋ   o   t   u,,oudemans1879,,,s e ng ô t oe,,,100
+Nias-134_onehundred-1,369,Nias,134_onehundred,ôtoe,o t u,o   t   u,,oudemans1879,,,ô t oe,,,100
+Enggano-135_twohundred-1,370,Enggano,135_twohundred,kahafoeloe takka,k a h a f u l u # t a k k a,k   a   h   a   f   u   l   u   #   t   a   k   k   a,,oudemans1879,,,k a h a f oe l oe # t a k k a,,,200
+Mentawai-135_twohundred-1,371,Mentawai,135_twohundred,doeangôtoe,d u a ng o t u,d   u   a   ŋ   o   t   u,,oudemans1879,,,d oe a ng ô t oe,,,200
+Enggano-136_threehundred-1,372,Enggano,136_threehundred,kahafoeloe é alieba  takka,k a h a f u l u # e # a l i b a # # t a k k a,k   a   h   a   f   u   l   u   #   e   #   a   l   i   b   a   #   #   t   a   k   k   a,,oudemans1879,,,k a h a f oe l oe # é # a l ie b a # # t a k k a,,,300
+Mentawai-136_threehundred-1,373,Mentawai,136_threehundred,teulongôtoe,t e:u l O ng o t u,t   ɛ u   l   ɔ   ŋ   o   t   u,,oudemans1879,,,t eu l o ng ô t oe,,,300
+Enggano-137_fourhundred-1,374,Enggano,137_fourhundred,kahaie kadodoka,k a h a i # k a d O d O k a,k   a   h   a   i   #   k   a   d   ɔ   d   ɔ   k   a,,oudemans1879,,,k a h a ie # k a d o d o k a,,,400
+Enggano-138_onethousand-1,375,Enggano,138_onethousand,adoewa kadodoka,a d u w a # k a d O d O k a,a   d   u   w   a   #   k   a   d   ɔ   d   ɔ   k   a,,oudemans1879,,,a d oe w a # k a d o d o k a,,,1000
+Mentawai-138_onethousand-1,376,Mentawai,138_onethousand,poelongôtoe,p u l O ng o t u,p   u   l   ɔ   ŋ   o   t   u,,oudemans1879,,,p oe l o ng ô t oe,,,1000
+Nias-138_onethousand-1,377,Nias,138_onethousand,nahônô,n a h o n o,n   a   h   o   n   o,,oudemans1879,,,n a h ô n ô,,,1000
+Enggano-139_eat-1,378,Enggano,139_eat,meno,m e n O,m   e   n   ɔ,,oudemans1879,,,m e n o,,,eten
+Mentawai-139_eat-1,379,Mentawai,139_eat,mesoeboe,m e s u b u,m   e   s   u   b   u,,oudemans1879,,,m e s oe b oe,,,eten
+Nias-139_eat-1,380,Nias,139_eat,manga,m a ng a,m   a   ŋ   a,,oudemans1879,,,m a ng a,,,eten
+Enggano-140_drink-1,381,Enggano,140_drink,ietho,i c O,i   t ͡ ʃ   ɔ,,oudemans1879,,,ie th o,,,drinken
+Mentawai-140_drink-1,382,Mentawai,140_drink,melôh,m e l o h,m   e   l   o   h,,oudemans1879,,,m e l ô h,,,drinken
+Nias-140_drink-1,383,Nias,140_drink,membâdoe,m e mb a d u,m   e   ʙ   a   d   u,,oudemans1879,,,m e mb â d oe,,,drinken
+Enggano-141_sleep-1,384,Enggano,141_sleep,abawoehe,a b a w u h e,a   b   a   w   u   h   e,,oudemans1879,,,a b a w oe h e,,,slapen
+Mentawai-141_sleep-1,385,Mentawai,141_sleep,mèrèp,m E r E p,m   ɛ   r   ɛ   p,,oudemans1879,,,m è r è p,,,slapen
+Nias-141_sleep-1,386,Nias,141_sleep,meureu,m e:u r e:u,m   ɛ u   r   ɛ u,,oudemans1879,,,m eu r eu,,,slapen
+Enggano-142_sit-1,387,Enggano,142_sit,hèkoe,h E k u,h   ɛ   k   u,,oudemans1879,,,h è k oe,,,zitten
+Mentawai-142_sit-1,388,Mentawai,142_sit,koedoe,k u d u,k   u   d   u,,oudemans1879,,,k oe d oe,,,zitten
+Nias-142_sit-1,389,Nias,142_sit,dedâo,d e d a O,d   e   d   a   ɔ,,oudemans1879,,,d e d â o,,,zitten
+Enggano-143_walk-1,390,Enggano,143_walk,kekokoje,k e k O k O y e,k   e   k   ɔ   k   ɔ   j   e,,oudemans1879,,,k e k o k o j e,,,loopen
+Mentawai-143_walk-1,391,Mentawai,143_walk,moeino,m O e:i n O,m   ɔ   ɛ i   n   ɔ,,oudemans1879,,,m o ei n o,,,loopen
+Nias-143_walk-1,392,Nias,143_walk,moefano,m u f a n O,m   u   f   a   n   ɔ,,oudemans1879,,,m oe f a n o,,,loopen
+Enggano-144_stand-1,393,Enggano,144_stand,kaèno,k a:e n O,k   a ɛ   n   ɔ,,oudemans1879,,,k aè n o,,,staan
+Mentawai-144_stand-1,394,Mentawai,144_stand,morîô,m O r i o,m   ɔ   r   i   o,,oudemans1879,,,m o r î ô,,,staan
+Nias-144_stand-1,395,Nias,144_stand,madjidjîo,m a j i j i O,m   a   d ͡ ʒ   i   d ͡ ʒ   i   ɔ,,oudemans1879,,,m a dj i dj î o,,,staan
+Enggano-145_wash-1,396,Enggano,145_wash,kabaike,k a b a:i k e,k   a   b   a i   k   e,,oudemans1879,,,k a b ai k e,,,baden
+Mentawai-145_wash-1,397,Mentawai,145_wash,berau,b e r a u,b   e   r   a   u,,oudemans1879,,,b e r a u,,,baden
+Enggano-146_swim-1,398,Enggano,146_swim,kaäke,k a ' a k e,k   a   ʔ   a   k   e,,oudemans1879,,,k aä k e,,,zwemmen
+Mentawai-146_swim-1,399,Mentawai,146_swim,moelâlak,m u l a l a k,m   u   l   a   l   a   k,,oudemans1879,,,m oe l â l a k,,,zwemmen
+Nias-146_swim-1,400,Nias,146_swim,melângi,m e l a ng i,m   e   l   a   ŋ   i,,oudemans1879,,,m e l â ng i,,,zwemmen
+Enggano-147_cook-1,401,Enggano,147_cook,faboehe,f a b u h e,f   a   b   u   h   e,,oudemans1879,,,f a b oe h e,,,koken
+Mentawai-147_cook-1,402,Mentawai,147_cook,menèo,m e n E O,m   e   n   ɛ   ɔ,,oudemans1879,,,m e n è o,,,koken
+Nias-147_cook-1,403,Nias,147_cook,membôi,m e mb o i,m   e   ʙ   o   i,,oudemans1879,,,m e mb ô i,,,koken
+Enggano-148_climb-1,404,Enggano,148_climb,bahèle,b a h E l e,b   a   h   ɛ   l   e,,oudemans1879,,,b a h è l e,,,klimmen
+Mentawai-148_climb-1,405,Mentawai,148_climb,kepâta,k e p a t a,k   e   p   a   t   a,,oudemans1879,,,k e p â t a,,,klimmen
+Nias-148_climb-1,406,Nias,148_climb,moi djàwa,m o:i # j a w a,m   ɔ i   #   d ͡ ʒ   a   w   a,,oudemans1879,,,m oi # dj à w a,,,klimmen
+Enggano-149_descend-1,407,Enggano,149_descend,katofo,k a t O f O,k   a   t   ɔ   f   ɔ,,oudemans1879,,,k a t o f o,,,dalen
+Mentawai-149_descend-1,408,Mentawai,149_descend,kebâra,k e b a r a,k   e   b   a   r   a,,oudemans1879,,,k e b â r a,,,dalen
+Nias-149_descend-1,409,Nias,149_descend,moi tauoe,m o:i # t a u ' u,m   ɔ i   #   t   a   u   ʔ   u,,oudemans1879,,,m oi # t a uoe,,,dalen
+Enggano-150_yes-1,410,Enggano,150_yes,o!,O !,ɔ   !,,oudemans1879,,,o !,,,ja
+Mentawai-150_yes-1,411,Mentawai,150_yes,hôô,h o o,h   o   o,,oudemans1879,,,h ô ô,,,ja
+Nias-150_yes-1,412,Nias,150_yes,ja-ija,y a ' i y a,j   a   ʔ   i   j   a,,oudemans1879,,,j a - i j a,,,ja
+Enggano-151_no-1,413,Enggano,151_no,kèwa,k E w a,k   ɛ   w   a,,oudemans1879,,,k è w a,,,neen
+Mentawai-151_no-1,414,Mentawai,151_no,tâ-oe,t a ' u,t   a   ʔ   u,,oudemans1879,,,t â - oe,,,neen
+Nias-151_no-1,415,Nias,151_no,leu-eu,l e:u ' e:u,l   ɛ u   ʔ   ɛ u,,oudemans1879,,,l eu - eu,,,neen
+Enggano-152_inside-1,416,Enggano,152_inside,kèfo,k E f O,k   ɛ   f   ɔ,,oudemans1879,,,k è f o,,,binnen
+Mentawai-152_inside-1,417,Mentawai,152_inside,kebâra,k e b a r a,k   e   b   a   r   a,,oudemans1879,,,k e b â r a,,,binnen
+Nias-152_inside-1,418,Nias,152_inside,bâcha,b a k h a,b   a   k   h   a,,oudemans1879,,,b â c h a,,,binnen
+Enggano-153_outside-1,419,Enggano,153_outside,ietofo,i t O f O,i   t   ɔ   f   ɔ,,oudemans1879,,,ie t o f o,,,buiten
+Nias-153_outside-1,420,Nias,153_outside,bairô,b a:i r o,b   a i   r   o,,oudemans1879,,,b ai r ô,,,buiten
+Enggano-154_above-1,421,Enggano,154_above,ietebe,i t e b e,i   t   e   b   e,,oudemans1879,,,ie t e b e,,,boven
+Mentawai-154_above-1,422,Mentawai,154_above,kepâta,k e p a t a,k   e   p   a   t   a,,oudemans1879,,,k e p â t a,,,boven
+Nias-154_above-1,423,Nias,154_above,djâwa,j a w a,d ͡ ʒ   a   w   a,,oudemans1879,,,dj â w a,,,boven
+Enggano-155_beneath-1,424,Enggano,155_beneath,ietofo,i t O f O,i   t   ɔ   f   ɔ,,oudemans1879,,,ie t o f o,,,beneden
+Mentawai-155_beneath-1,425,Mentawai,155_beneath,kepolak,k e p O l a k,k   e   p   ɔ   l   a   k,,oudemans1879,,,k e p o l a k,,,beneden
+Nias-155_beneath-1,426,Nias,155_beneath,tauoe,t a u ' u,t   a   u   ʔ   u,,oudemans1879,,,t a uoe,,,beneden

@@ -1,0 +1,1 @@
+cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"

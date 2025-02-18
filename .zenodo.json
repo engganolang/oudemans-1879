@@ -1,0 +1,38 @@
+{
+    "title": "CLDF dataset derived from Oudemans' \"Woordenlijst van de Talen van Enggano, Mentawei en Nias\" from 1879",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Gede Primahadi Wijaya Rajeg"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Gede Primahadi Wijaya Rajeg",
+            "type": "Editor"
+        },
+        {
+            "name": "Daniel Krau\u00c3\u0178e",
+            "type": "Other"
+        },
+        {
+            "name": "I Wayan Arka",
+            "type": "Other"
+        },
+        {
+            "name": "Mary Dalrymple",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Oudemans, Jean Abraham Chr\u00e9tien. 1879. Woordenlijst van de Talen van Enggano, Mentawei en Nias. Tijdschrift voor Indische Taal-, Land- en Volkenkunde XXV(5\u20136). 484\u2013488.</p>\n</blockquote>"
+}

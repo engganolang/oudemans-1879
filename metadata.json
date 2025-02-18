@@ -1,0 +1,8 @@
+{
+    "id": "oudemans1879",
+    "title": "CLDF dataset derived from Oudemans' \"Woordenlijst van de Talen van Enggano, Mentawei en Nias\" from 1879",
+    "description": "This is an old comparative word list from the second half of the 19th century (Oudemans 1879) for Enggano, Mentawai, and Nias, the three Barrier Islands off the western coast of Sumatra, Indonesia. The Enggano list is integrated into [EnoLEX](https://enggano.shinyapps.io/enolex/) (Krauße et al. [2024a](https://doi.org/10.25446/oxford.28282169); Rajeg et al. [2024](https://doi.org/10.25446/oxford.27013864.v1); see also Krauße et al. [2024b](https://doi.org/10.25446/oxford.28295648.v1); Rajeg et al. [2025](https://doi.org/10.25446/oxford.28282946.v1)). EnoLEX is a diachronic lexical database for the Enggano language.",
+    "license": "CC-BY-NC-SA 4.0 International",
+    "url": null,
+    "citation": "Oudemans, Jean Abraham Chrétien. 1879. Woordenlijst van de Talen van Enggano, Mentawei en Nias. Tijdschrift voor Indische Taal-, Land- en Volkenkunde XXV(5–6). 484–488."
+}

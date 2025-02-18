@@ -1,0 +1,156 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss,Number
+1_head,head,1256,HEAD,1
+2_ear,ear,1247,EAR,2
+3_nose,nose,1221,NOSE,3
+4_mouth,mouth,674,MOUTH,4
+5_eye,eye,1248,EYE,5
+6_chin,chin,1510,CHIN,6
+7_headhair,head hair,2648,HAIR (HEAD),7
+8_beard,beard,678,BEARD,8
+9_neck,neck,1333,NECK,9
+10_breast,breast,1402,BREAST,10
+11_belly,belly,1251,BELLY,11
+12_arm,arm,1673,ARM,12
+13_hand,hand,1277,HAND,13
+14_righthand,right hand,2183,RIGHT HAND,14
+15_lefthand,left hand,2182,LEFT HAND,15
+16_finger,finger,1303,FINGER,16
+17_nail,nail,1896,FINGERNAIL OR TOENAIL,17
+18_thumb,thumb,1781,THUMB,18
+19_indexfinger,index finger,577,FOREFINGER,19
+20_middlefinger,middle finger,3387,MIDDLE FINGER,20
+21_ringfinger,ring finger,1303,FINGER,21
+22_littlefinger,little finger,2774,LITTLE FINGER,22
+23_thigh,thigh,471,UPPER LEG (THIGH),23
+24_knee,knee,1371,KNEE,24
+25_womansbreast,woman’s breast,1402,BREAST,25
+26_body,body,1480,BODY,26
+27_person,person,683,PERSON,27
+28_man,man,1554,MAN,28
+29_woman,woman,962,WOMAN,29
+30_child,child,2099,CHILD,30
+31_virgin,virgin,2298,VIRGIN,31
+32_oldpersonm,old person (m.),725,OLD PERSON,32
+33_oldpersonf,old person (f.),725,OLD PERSON,33
+34_youngperson,young person,1207,YOUNG,34
+35_father,father,1217,FATHER,35
+36_mother,mother,1216,MOTHER,36
+37_son,son,1620,SON,37
+38_daughter,daughter,1357,DAUGHTER,38
+39_uncle,uncle,1327,UNCLE,39
+40_cousinfemale,cousin (female),3823,FEMALE COUSIN,40
+41_cousinmale,cousin (male),3822,MALE COUSIN,41
+42_grandfather,grandfather,1383,GRANDFATHER,42
+43_grandmother,grandmother,1496,GRANDMOTHER,43
+44_grandson,grandson,1618,GRANDSON,44
+45_granddaughter,granddaughter,1619,GRANDDAUGHTER,45
+46_loincloth,loincloth,1965,LOINCLOTH,46
+47_dog,dog,2009,DOG,47
+48_pig,pig,1337,PIG,48
+49_deer,deer,1936,DEER,49
+50_cat,cat,1208,CAT,50
+51_rooster,rooster,1511,ROOSTER,51
+52_hen,hen,1514,HEN,52
+53_bird,bird,937,BIRD,53
+54_horse,horse,615,HORSE,54
+55_cow,cow,1007,COW,55
+56_fish,fish,227,FISH,56
+57_coconut,coconut,970,COCONUT,57
+58_banana,banana,868,BANANA,58
+59_sago,sago,2270,SAGO,59
+60_water,water,948,WATER,60
+61_house,house,1252,HOUSE,61
+62_tree,tree,906,TREE,62
+63_wood,wood,1803,WOOD,63
+64_river,river,666,RIVER,64
+65_sea,sea,1474,SEA,65
+66_ship,ship,740,SHIP,66
+67_sampankoboat,sampan (k.o. boat),1844,BOAT,67
+68_paddle,paddle,3318,OAR OR PADDLE,68
+69_fire,fire,221,FIRE,69
+70_roof,roof,769,ROOF,70
+71_door,door,1567,DOOR,71
+72_sun,sun,1343,SUN,72
+73_day,day,1225,DAY (NOT NIGHT),73
+74_moon,moon,1313,MOON,74
+75_star,star,1430,STAR,75
+76_midday,midday,12,MIDDAY,76
+77_wind,wind,960,WIND,77
+78_current,current,2935,CURRENT (STREAM),78
+79_hill,hill,614,HILL,79
+80_mountain,mountain,639,MOUNTAIN,80
+81_flood,flood,613,HIGH TIDE,81
+82_shield,shield,1064,SHIELD,82
+83_knifeko,knife k.o.,1352,KNIFE,83
+84_bow,bow,994,BOW,84
+85_arrow,arrow,977,ARROW,85
+86_cutlassko,cutlass k.o.,1535,SWORD,86
+87_javelin,javelin,945,SPEAR,87
+88_big,big,1202,BIG,88
+89_small,small,1246,SMALL,89
+90_old,old,1229,OLD,90
+91_young,young,1207,YOUNG,91
+92_male,male,1553,MALE,92
+93_female,female,1551,FEMALE,93
+94_long,long,1203,LONG,94
+95_short,short,1645,SHORT,95
+96_wide,wide,1243,WIDE,96
+97_narrow,narrow,1267,NARROW,97
+98_beautiful,beautiful,1427,BEAUTIFUL,98
+99_ugly,ugly,1548,UGLY,99
+100_high,high,1265,HIGH,100
+101_low,low,721,LOW,101
+102_north,north,1598,NORTH,102
+103_west,west,1817,WEST,103
+104_south,south,1595,SOUTH,104
+105_east,east,1877,EAST,105
+106_hungry,hungry,1533,BE HUNGRY,106
+107_full,full,1429,FULL,107
+108_i,I,1209,I,108
+109_you,you,1213,YOU,109
+110_he,he,1211,HE,110
+111_we,we,1212,WE,111
+112_they,they,817,THEY,112
+113_one,one,1493,ONE,113
+114_two,two,1498,TWO,114
+115_three,three,492,THREE,115
+116_four,four,1500,FOUR,116
+117_five,five,493,FIVE,117
+118_six,six,1703,SIX,118
+119_seven,seven,1704,SEVEN,119
+120_eight,eight,1705,EIGHT,120
+121_nine,nine,1483,NINE,121
+122_ten,ten,1515,TEN,122
+123_eleven,eleven,1706,ELEVEN,123
+124_twelve,twelve,1707,TWELVE,124
+125_thirteen,thirteen,1708,THIRTEEN,125
+126_twenty,twenty,1710,TWENTY,126
+127_thirty,thirty,1715,THIRTY,127
+128_forty,forty,1716,FORTY,128
+129_fifty,fifty,1717,FIFTY,129
+130_sixty,sixty,1718,SIXTY,130
+131_seventy,seventy,1721,SEVENTY,131
+132_eighty,eighty,1722,EIGHTY,132
+133_ninety,ninety,1724,NINETY,133
+134_onehundred,one hundred,1634,HUNDRED,134
+135_twohundred,two hundred,2676,TWO HUNDRED,135
+136_threehundred,three hundred,3513,THREE HUNDRED,136
+137_fourhundred,four hundred,3515,FOUR HUNDRED,137
+138_onethousand,one thousand,1843,THOUSAND,138
+139_eat,eat,1336,EAT,139
+140_drink,drink,1401,DRINK,140
+141_sleep,sleep,1585,SLEEP,141
+142_sit,sit,1416,SIT,142
+143_walk,walk,1443,WALK,143
+144_stand,stand,1442,STAND,144
+145_wash,wash,1453,WASH,145
+146_swim,swim,1439,SWIM,146
+147_cook,cook,1100,COOK (SOMETHING),147
+148_climb,climb,1102,CLIMB,148
+149_descend,descend,2014,GO DOWN (DESCEND),149
+150_yes,yes,1268,YES,150
+151_no,no,1269,NO,151
+152_inside,inside,1606,INSIDE,152
+153_outside,outside,762,OUTSIDE,153
+154_above,above,1741,ABOVE,154
+155_beneath,beneath,1485,BELOW OR UNDER,155
