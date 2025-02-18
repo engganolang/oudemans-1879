@@ -20,8 +20,8 @@ This dataset is licensed under a CC-BY-NC-SA 4.0 International license
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 95%](https://img.shields.io/badge/BIPA-95%25-green.svg "BIPA: 95%")
-![CLTS SoundClass: 95%](https://img.shields.io/badge/CLTS%20SoundClass-95%25-green.svg "CLTS SoundClass: 95%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 3
 - **Concepts:** 155
@@ -29,18 +29,18 @@ This dataset is licensed under a CC-BY-NC-SA 4.0 International license
 - **Sources:** 1
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 2,817
-- **Segments:** 38 (2 BIPA errors, 2 CLTS sound class errors, 36 CLTS modified)
-- **Inventory size (avg):** 32.67
+- **Tokens:** 2,820
+- **Segments:** 36 (0 BIPA errors, 0 CLTS sound class errors, 36 CLTS modified)
+- **Inventory size (avg):** 31.67
 
 # Contributors
 
 Name               | GitHub user | Description                                  | Role           
 ---                |-------------|----------------------------------------------|----------------
 Gede Primahadi Wijaya Rajeg | @gederajeg  | digitisation, code, profile, CLDF conversion | Author, Editor 
-Daniel Krauße | | profile | Author, Editor |
-I Wayan Arka | | | Author, other  |
-Mary Dalrymple | | | Author, other  |
+Daniel Krauße | | profile | Other          |
+I Wayan Arka | | | Other          |
+Mary Dalrymple | | | Other          |
 
 
 

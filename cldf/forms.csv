@@ -19,7 +19,7 @@ Mentawai-6_chin-1,17,Mentawai,6_chin,bakĕla,bakĕla,b a k e l a,,oudemans1879
 Nias-6_chin-1,18,Nias,6_chin,bèmbè,bèmbè,b ɛ ʙ ɛ,,oudemans1879,,,^ b è mb è $,Nias,kin
 Enggano-7_headhair-1,19,Enggano,7_headhair,foedoedoe-oeloe,foedoedoe-oeloe,f u d u d u ʔ u l u,,oudemans1879,,,^ f oe d oe d oe - oe l oe $,Enggano,hoofdhaar
 Mentawai-7_headhair-1,20,Mentawai,7_headhair,alai,alai,a l ai,,oudemans1879,,,^ a l ai $,Mentawai,hoofdhaar
-Nias-7_headhair-1,21,Nias,7_headhair,boe-oe,boe-oe,b u <<->> u,,oudemans1879,,,^ b oe <-> oe $,Nias,hoofdhaar
+Nias-7_headhair-1,21,Nias,7_headhair,boe-oe,boe-oe,b u ʔ u,,oudemans1879,,,^ b oe - oe $,Nias,hoofdhaar
 Enggano-8_beard-1,22,Enggano,8_beard,fororoife,fororoife,f ɔ r ɔ r ɔi f e,,oudemans1879,,,^ f o r o r oi f e $,Enggano,baard
 Mentawai-8_beard-1,23,Mentawai,8_beard,boeloe,boeloe,b u l u,,oudemans1879,,,^ b oe l oe $,Mentawai,baard
 Nias-8_beard-1,24,Nias,8_beard,gambi,gambi,g a ʙ i,,oudemans1879,,,^ g a mb i $,Nias,baard
@@ -34,7 +34,7 @@ Mentawai-11_belly-1,32,Mentawai,11_belly,bācha,bācha,b aː k h a,,oudemans18
 Nias-11_belly-1,33,Nias,11_belly,daloe,daloe,d a l u,,oudemans1879,,,^ d a l oe $,Nias,buik
 Enggano-12_arm-1,34,Enggano,12_arm,é afo,é afo,e + a f ɔ,,oudemans1879,,,^ é + a f o $,Enggano,arm
 Mentawai-12_arm-1,35,Mentawai,12_arm,para,para,p a r a,,oudemans1879,,,^ p a r a $,Mentawai,arm
-Nias-12_arm-1,36,Nias,12_arm,païo,païo,p a <<ï>> ɔ,,oudemans1879,,,^ p a <ï> o $,Nias,arm
+Nias-12_arm-1,36,Nias,12_arm,païo,païo,p a ʔ i ɔ,,oudemans1879,,,^ p a ï o $,Nias,arm
 Enggano-13_hand-1,37,Enggano,13_hand,mieno afo,mieno afo,m i n ɔ + a f ɔ,,oudemans1879,,,^ m ie n o + a f o $,Enggano,hand
 Enggano-14_righthand-1,38,Enggano,14_righthand,mieno afo,mieno afo,m i n ɔ + a f ɔ,,oudemans1879,,,^ m ie n o + a f o $,Enggano,hand rechter
 Mentawai-14_righthand-1,39,Mentawai,14_righthand,takip kétjo,takip kétjo,t a k i p + k e t͡ʃ ɔ,,oudemans1879,,,^ t a k i p + k é tj o $,Mentawai,hand rechter
@@ -61,7 +61,7 @@ Mentawai-21_ringfinger-1,59,Mentawai,21_ringfinger,bagit katenga,bagit katenga,b
 Nias-21_ringfinger-1,60,Nias,21_ringfinger,toeroe taloe,toeroe taloe,t u r u + t a l u,,oudemans1879,,,^ t oe r oe + t a l oe $,Nias,ring vinger
 Enggano-22_littlefinger-1,61,Enggano,22_littlefinger,miieo-afo noekie,miieo-afo noekie,m i ɔ ʔ a f ɔ + n u k i,,oudemans1879,,,^ m iie o - a f o + n oe k ie $,Enggano,pink
 Mentawai-22_littlefinger-1,62,Mentawai,22_littlefinger,tôtjingongai,tôtjingongai,t o t͡ʃ i ŋ ɔ ŋ ai,,oudemans1879,,,^ t ô tj i ng o ng ai $,Mentawai,pink
-Nias-22_littlefinger-1,63,Nias,22_littlefinger,toeroe sideïdei,toeroe sideïdei,t u r u + s i d e <<ï>> d ɛi,,oudemans1879,,,^ t oe r oe + s i d e <ï> d ei $,Nias,pink
+Nias-22_littlefinger-1,63,Nias,22_littlefinger,toeroe sideïdei,toeroe sideïdei,t u r u + s i d e ʔ i d ɛi,,oudemans1879,,,^ t oe r oe + s i d e ï d ei $,Nias,pink
 Enggano-23_thigh-1,64,Enggano,23_thigh,épara,épara,e p a r a,,oudemans1879,,,^ é p a r a $,Enggano,dij
 Mentawai-23_thigh-1,65,Mentawai,23_thigh,pekâpat,pekâpat,p e k a p a t,,oudemans1879,,,^ p e k â p a t $,Mentawai,dij
 Nias-23_thigh-1,66,Nias,23_thigh,gai,gai,g ai,,oudemans1879,,,^ g ai $,Nias,dij
@@ -211,7 +211,7 @@ Mentawai-77_wind-1,209,Mentawai,77_wind,roesa,roesa,r u s a,,oudemans1879,,,^ r 
 Nias-77_wind-1,210,Nias,77_wind,nangi,nangi,n a ŋ i,,oudemans1879,,,^ n a ng i $,Nias,wind
 Enggano-78_current-1,211,Enggano,78_current,kaha kakie,kaha kakie,k a h a + k a k i,,oudemans1879,,,^ k a h a + k a k ie $,Enggano,stroom
 Mentawai-78_current-1,212,Mentawai,78_current,marekdek,marekdek,m a r e k d e k,,oudemans1879,,,^ m a r e k d e k $,Mentawai,stroom
-Nias-78_current-1,213,Nias,78_current,idaneu sabè-è,idaneu sabè-è,i d a n ɛu + s a b ɛ <<->> ɛ,,oudemans1879,,,^ i d a n eu + s a b è <-> è $,Nias,stroom
+Nias-78_current-1,213,Nias,78_current,idaneu sabè-è,idaneu sabè-è,i d a n ɛu + s a b ɛ ʔ ɛ,,oudemans1879,,,^ i d a n eu + s a b è - è $,Nias,stroom
 Enggano-79_hill-1,214,Enggano,79_hill,ekohé,ekohé,e k o e,,oudemans1879,,,^ e k oh é $,Enggano,heuvel
 Mentawai-79_hill-1,215,Mentawai,79_hill,boekoe,boekoe,b u k u,,oudemans1879,,,^ b oe k oe $,Mentawai,heuvel
 Nias-79_hill-1,216,Nias,79_hill,ili sideidei,ili sideidei,i l i + s i d ɛi d ɛi,,oudemans1879,,,^ i l i + s i d ei d ei $,Nias,heuvel
@@ -240,7 +240,7 @@ Mentawai-88_big-1,238,Mentawai,88_big,abéoe,abéoe,a b e u,,oudemans1879,,,^ 
 Nias-88_big-1,239,Nias,88_big,siboea,siboea,s i b u a,,oudemans1879,,,^ s i b oe a $,Nias,groot
 Enggano-89_small-1,240,Enggano,89_small,noekie,noekie,n u k i,,oudemans1879,,,^ n oe k ie $,Enggano,klein
 Mentawai-89_small-1,241,Mentawai,89_small,segôsô,segôsô,s e g o s o,,oudemans1879,,,^ s e g ô s ô $,Mentawai,klein
-Nias-89_small-1,242,Nias,89_small,déï deî,déï deî,d e <<ï>> + d ɛi,,oudemans1879,,,^ d é <ï> + d eî $,Nias,klein
+Nias-89_small-1,242,Nias,89_small,déï deî,déï deî,d e ʔ i + d ɛi,,oudemans1879,,,^ d é ï + d eî $,Nias,klein
 Enggano-90_old-1,243,Enggano,90_old,éā,éā,e aː,,oudemans1879,,,^ é ā $,Enggano,oud
 Mentawai-90_old-1,244,Mentawai,90_old,kêla,kêla,k e l a,,oudemans1879,,,^ k ê l a $,Mentawai,oud
 Nias-90_old-1,245,Nias,90_old,satoewa,satoewa,s a t u w a,,oudemans1879,,,^ s a t oe w a $,Nias,oud
@@ -266,7 +266,7 @@ Mentawai-98_beautiful-1,264,Mentawai,98_beautiful,méroei,méroei,m e r u i,,o
 Nias-98_beautiful-1,265,Nias,98_beautiful,seuchi,seuchi,s ɛu k h i,,oudemans1879,,,^ s eu c h i $,Nias,mooi
 Enggano-99_ugly-1,266,Enggano,99_ugly,kieohé,kieohé,k i o e,,oudemans1879,,,^ k ie oh é $,Enggano,leelijk
 Mentawai-99_ugly-1,267,Mentawai,99_ugly,makàtai,makàtai,m a k a t ai,,oudemans1879,,,^ m a k à t ai $,Mentawai,leelijk
-Nias-99_ugly-1,268,Nias,99_ugly,leu-eu seuchi,leu-eu seuchi,l ɛu <<->> ɛu + s ɛu k h i,,oudemans1879,,,^ l eu <-> eu + s eu c h i $,Nias,leelijk
+Nias-99_ugly-1,268,Nias,99_ugly,leu-eu seuchi,leu-eu seuchi,l ɛu ʔ ɛu + s ɛu k h i,,oudemans1879,,,^ l eu - eu + s eu c h i $,Nias,leelijk
 Enggano-100_high-1,269,Enggano,100_high,ietjébé,ietjébé,i t͡ʃ e b e,,oudemans1879,,,^ ie tj é b é $,Enggano,hoog
 Mentawai-100_high-1,270,Mentawai,100_high,ata,ata,a t a,,oudemans1879,,,^ a t a $,Mentawai,hoog
 Nias-100_high-1,271,Nias,100_high,enaoe,enaoe,e n a ʔ u,,oudemans1879,,,^ e n aoe $,Nias,hoog
@@ -296,12 +296,12 @@ Mentawai-110_he-1,294,Mentawai,110_he,ekéo léo,ekéo léo,e k e ɔ + l e �
 Nias-110_he-1,295,Nias,110_he,ja îja,ja îja,j a + i j a,,oudemans1879,,,^ j a + î j a $,Nias,hij
 Enggano-111_we-1,296,Enggano,111_we,ieka,ieka,i k a,,oudemans1879,,,^ ie k a $,Enggano,wij
 Mentawai-111_we-1,297,Mentawai,111_we,akoe sengabilinga,akoe sengabilinga,a k u + s e ŋ a b i l i ŋ a,,oudemans1879,,,^ a k oe + s e ng a b i l i ng a $,Mentawai,wij
-Nias-111_we-1,298,Nias,111_we,ja-itanda,ja-itanda,j a <<->> i t a n d a,,oudemans1879,,,^ j a <-> i t a n d a $,Nias,wij
+Nias-111_we-1,298,Nias,111_we,ja-itanda,ja-itanda,j a ʔ i t a n d a,,oudemans1879,,,^ j a - i t a n d a $,Nias,wij
 Mentawai-109_you-2,299,Mentawai,109_you,ekéo sengabilinga (?),ekéo sengabilinga,e k e ɔ + s e ŋ a b i l i ŋ a,,oudemans1879,,,^ e k é o + s e ng a b i l i ng a $,Mentawai,gij
 Nias-109_you-3,300,Nias,109_you,iaôgô,iaôgô,i a o g o,,oudemans1879,,,^ i a ô g ô $,Nias,gij
 Enggano-112_they-1,301,Enggano,112_they,kieja,kieja,k i j a,,oudemans1879,,,^ k ie j a $,Enggano,zij
 Mentawai-112_they-1,302,Mentawai,112_they,ekéo léo sengabilinga (?),ekéo léo sengabilinga,e k e ɔ + l e ɔ + s e ŋ a b i l i ŋ a,,oudemans1879,,,^ e k é o + l é o + s e ng a b i l i ng a $,Mentawai,zij
-Nias-112_they-1,303,Nias,112_they,ia-ija,ia-ija,i a <<->> i j a,,oudemans1879,,,^ i a <-> i j a $,Nias,zij
+Nias-112_they-1,303,Nias,112_they,ia-ija,ia-ija,i a ʔ i j a,,oudemans1879,,,^ i a - i j a $,Nias,zij
 Enggano-113_one-1,304,Enggano,113_one,kahaie,kahaie,k a h ai e,,oudemans1879,,,^ k a h ai e $,Enggano,1
 Mentawai-113_one-1,305,Mentawai,113_one,sara,sara,s a r a,,oudemans1879,,,^ s a r a $,Mentawai,1
 Nias-113_one-1,306,Nias,113_one,sara,sara,s a r a,,oudemans1879,,,^ s a r a $,Nias,1
@@ -410,10 +410,10 @@ Mentawai-149_descend-1,408,Mentawai,149_descend,kebâra,kebâra,k e b a r a,,o
 Nias-149_descend-1,409,Nias,149_descend,moi tauoe,moi tauoe,m ɔi + t a u ʔ u,,oudemans1879,,,^ m oi + t a uoe $,Nias,dalen
 Enggano-150_yes-1,410,Enggano,150_yes,o!,o!,ɔ,,oudemans1879,,,^ o ! $,Enggano,ja
 Mentawai-150_yes-1,411,Mentawai,150_yes,hôô,hôô,h o o,,oudemans1879,,,^ h ô ô $,Mentawai,ja
-Nias-150_yes-1,412,Nias,150_yes,ja-ija,ja-ija,j a <<->> i j a,,oudemans1879,,,^ j a <-> i j a $,Nias,ja
+Nias-150_yes-1,412,Nias,150_yes,ja-ija,ja-ija,j a ʔ i j a,,oudemans1879,,,^ j a - i j a $,Nias,ja
 Enggano-151_no-1,413,Enggano,151_no,kèwa,kèwa,k ɛ w a,,oudemans1879,,,^ k è w a $,Enggano,neen
-Mentawai-151_no-1,414,Mentawai,151_no,tâ-oe,tâ-oe,t a <<->> u,,oudemans1879,,,^ t â <-> oe $,Mentawai,neen
-Nias-151_no-1,415,Nias,151_no,leu-eu,leu-eu,l ɛu <<->> ɛu,,oudemans1879,,,^ l eu <-> eu $,Nias,neen
+Mentawai-151_no-1,414,Mentawai,151_no,tâ-oe,tâ-oe,t a ʔ u,,oudemans1879,,,^ t â - oe $,Mentawai,neen
+Nias-151_no-1,415,Nias,151_no,leu-eu,leu-eu,l ɛu ʔ ɛu,,oudemans1879,,,^ l eu - eu $,Nias,neen
 Enggano-152_inside-1,416,Enggano,152_inside,kèfo,kèfo,k ɛ f ɔ,,oudemans1879,,,^ k è f o $,Enggano,binnen
 Mentawai-152_inside-1,417,Mentawai,152_inside,kebâra,kebâra,k e b a r a,,oudemans1879,,,^ k e b â r a $,Mentawai,binnen
 Nias-152_inside-1,418,Nias,152_inside,bâcha,bâcha,b a k h a,,oudemans1879,,,^ b â c h a $,Nias,binnen

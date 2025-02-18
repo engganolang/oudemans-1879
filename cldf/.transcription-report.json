@@ -149,10 +149,8 @@
             }
         },
         "Mentawai": {
-            "bipa_errors": [
-                "<<->>"
-            ],
-            "general_errors": 1,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -263,12 +261,9 @@
                     "\u0299"
                 ]
             },
-            "sclass_errors": [
-                "<<->>"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 36,
-                "<<->>": 1,
                 "a": 154,
                 "ai": 5,
                 "a\u02d0": 1,
@@ -298,15 +293,12 @@
                 "\u025b": 17,
                 "\u025bi": 2,
                 "\u025bu": 1,
-                "\u0294": 2
+                "\u0294": 3
             }
         },
         "Nias": {
-            "bipa_errors": [
-                "<<\u00ef>>",
-                "<<->>"
-            ],
-            "general_errors": 10,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -417,14 +409,9 @@
                     "\u0299"
                 ]
             },
-            "sclass_errors": [
-                "<<\u00ef>>",
-                "<<->>"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 32,
-                "<<->>": 7,
-                "<<\u00ef>>": 3,
                 "a": 149,
                 "ai": 2,
                 "a\u02d0": 3,
@@ -435,7 +422,7 @@
                 "f": 12,
                 "g": 22,
                 "h": 20,
-                "i": 73,
+                "i": 76,
                 "j": 10,
                 "k": 7,
                 "l": 54,
@@ -455,100 +442,19 @@
                 "\u025b": 10,
                 "\u025bi": 4,
                 "\u025bu": 23,
-                "\u0294": 5,
+                "\u0294": 15,
                 "\u0299": 7
             }
         }
     },
     "stats": {
-        "bad_words": [
-            [
-                "Mentawai-151_no-1",
-                "Mentawai",
-                "151_no",
-                "ta\u0302-oe",
-                "t a <s> <<->> </s> u"
-            ],
-            [
-                "Nias-111_we-1",
-                "Nias",
-                "111_we",
-                "ja-itanda",
-                "j a <s> <<->> </s> i t a n d a"
-            ],
-            [
-                "Nias-112_they-1",
-                "Nias",
-                "112_they",
-                "ia-ija",
-                "i a <s> <<->> </s> i j a"
-            ],
-            [
-                "Nias-12_arm-1",
-                "Nias",
-                "12_arm",
-                "pai\u0308o",
-                "p a <s> <<\u00ef>> </s> \u0254"
-            ],
-            [
-                "Nias-150_yes-1",
-                "Nias",
-                "150_yes",
-                "ja-ija",
-                "j a <s> <<->> </s> i j a"
-            ],
-            [
-                "Nias-151_no-1",
-                "Nias",
-                "151_no",
-                "leu-eu",
-                "l \u025bu <s> <<->> </s> \u025bu"
-            ],
-            [
-                "Nias-22_littlefinger-1",
-                "Nias",
-                "22_littlefinger",
-                "toeroe sidei\u0308dei",
-                "t u r u + s i d e <s> <<\u00ef>> </s> d \u025bi"
-            ],
-            [
-                "Nias-78_current-1",
-                "Nias",
-                "78_current",
-                "idaneu sabe\u0300-e\u0300",
-                "i d a n \u025bu + s a b \u025b <s> <<->> </s> \u025b"
-            ],
-            [
-                "Nias-7_headhair-1",
-                "Nias",
-                "7_headhair",
-                "boe-oe",
-                "b u <s> <<->> </s> u"
-            ],
-            [
-                "Nias-89_small-1",
-                "Nias",
-                "89_small",
-                "de\u0301i\u0308 dei\u0302",
-                "d e <s> <<\u00ef>> </s> + d \u025bi"
-            ],
-            [
-                "Nias-99_ugly-1",
-                "Nias",
-                "99_ugly",
-                "leu-eu seuchi",
-                "l \u025bu <s> <<->> </s> \u025bu + s \u025bu k h i"
-            ]
-        ],
-        "bad_words_count": 11,
-        "bipa_errors": [
-            "<<\u00ef>>",
-            "<<->>"
-        ],
-        "general_errors": 11,
+        "bad_words": [],
+        "bad_words_count": 0,
+        "bipa_errors": [],
+        "general_errors": 0,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 32.666666666666664,
+        "inventory_size": 31.666666666666668,
         "replacements": {
             "+": [
                 "+"
@@ -659,14 +565,9 @@
                 "\u0299"
             ]
         },
-        "sclass_errors": [
-            "<<\u00ef>>",
-            "<<->>"
-        ],
+        "sclass_errors": [],
         "segments": {
             "+": 123,
-            "<<->>": 8,
-            "<<\u00ef>>": 3,
             "a": 488,
             "ai": 21,
             "a\u025b": 1,
@@ -679,7 +580,7 @@
             "f": 68,
             "g": 36,
             "h": 63,
-            "i": 161,
+            "i": 164,
             "j": 38,
             "k": 173,
             "l": 138,
@@ -700,7 +601,7 @@
             "\u025b": 32,
             "\u025bi": 10,
             "\u025bu": 24,
-            "\u0294": 24,
+            "\u0294": 35,
             "\u0299": 7
         }
     }
