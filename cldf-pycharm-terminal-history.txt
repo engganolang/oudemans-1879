@@ -1,0 +1,1935 @@
+Microsoft Windows [Version 10.0.19045.5487]
+(c) Microsoft Corporation. All rights reserved.
+Microsoft Windows [Version 10.0.19045.5487]
+(c) Microsoft Corporation. All rights reserved.
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>touch run-makecldf.sh
+'touch' is not recognized as an internal or external command,
+operable program or batch file.
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>pwd
+'pwd' is not recognized as an internal or external command,
+operable program or batch file.
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe "C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/run-makecldf.sh"
+C:/Users/GRajeg/OneDrive : The term 'C:/Users/GRajeg/OneDrive' is not recognized as the name of a cmdlet, function, script file, or operable
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/r ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:/Users/GRajeg/OneDrive:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Us
+ers\GRajeg\OneDrive - Nexus365\Documents\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Scripts\cldfbench.exe\__main__.py", line 7, in <module>
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\__main__.py", line 89, in main
+    return args.main(args) or 0
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\commands\makecldf.py", line 24, in run
+    with_dataset(args, 'makecldf', dataset=dataset)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\cli_util.py", line 161, in with_dataset
+    res = func(*arg, args)
+          ^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\dataset.py", line 218, in _cmd_makecldf
+    super()._cmd_makecldf(args)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\dataset.py", line 210, in _cmd_makecldf
+    self.cmd_makecldf(args)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldfbench_oudemans1879.py", line 52, in cmd_makecldf
+    idx = str(i + 1) + "_" + slug(concept["Gloss"])
+                                  ~~~~~~~^^^^^^^^^
+KeyError: 'Gloss'
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Us
+ers\GRajeg\OneDrive - Nexus365\Documents\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+WARNING forms.csv:2:Source missing source key: VonRosenberg1853
+WARNING forms.csv:3:Source missing source key: VonRosenberg1853
+WARNING forms.csv:4:Source missing source key: VonRosenberg1853
+WARNING forms.csv:5:Source missing source key: VonRosenberg1853
+WARNING forms.csv:6:Source missing source key: VonRosenberg1853
+WARNING forms.csv:7:Source missing source key: VonRosenberg1853
+WARNING forms.csv:8:Source missing source key: VonRosenberg1853
+WARNING forms.csv:9:Source missing source key: VonRosenberg1853
+WARNING forms.csv:10:Source missing source key: VonRosenberg1853
+WARNING forms.csv:11:Source missing source key: VonRosenberg1853
+WARNING forms.csv:12:Source missing source key: VonRosenberg1853
+WARNING forms.csv:13:Source missing source key: VonRosenberg1853
+WARNING forms.csv:14:Source missing source key: VonRosenberg1853
+WARNING forms.csv:15:Source missing source key: VonRosenberg1853
+WARNING forms.csv:16:Source missing source key: VonRosenberg1853
+WARNING forms.csv:17:Source missing source key: VonRosenberg1853
+WARNING forms.csv:18:Source missing source key: VonRosenberg1853
+WARNING forms.csv:19:Source missing source key: VonRosenberg1853
+WARNING forms.csv:20:Source missing source key: VonRosenberg1853
+WARNING forms.csv:21:Source missing source key: VonRosenberg1853
+WARNING forms.csv:22:Source missing source key: VonRosenberg1853
+WARNING forms.csv:23:Source missing source key: VonRosenberg1853
+WARNING forms.csv:24:Source missing source key: VonRosenberg1853
+WARNING forms.csv:25:Source missing source key: VonRosenberg1853
+WARNING forms.csv:26:Source missing source key: VonRosenberg1853
+WARNING forms.csv:27:Source missing source key: VonRosenberg1853
+WARNING forms.csv:28:Source missing source key: VonRosenberg1853
+WARNING forms.csv:29:Source missing source key: VonRosenberg1853
+WARNING forms.csv:30:Source missing source key: VonRosenberg1853
+WARNING forms.csv:31:Source missing source key: VonRosenberg1853
+WARNING forms.csv:32:Source missing source key: VonRosenberg1853
+WARNING forms.csv:33:Source missing source key: VonRosenberg1853
+WARNING forms.csv:34:Source missing source key: VonRosenberg1853
+WARNING forms.csv:35:Source missing source key: VonRosenberg1853
+WARNING forms.csv:36:Source missing source key: VonRosenberg1853
+WARNING forms.csv:37:Source missing source key: VonRosenberg1853
+WARNING forms.csv:38:Source missing source key: VonRosenberg1853
+WARNING forms.csv:39:Source missing source key: VonRosenberg1853
+WARNING forms.csv:40:Source missing source key: VonRosenberg1853
+WARNING forms.csv:41:Source missing source key: VonRosenberg1853
+WARNING forms.csv:42:Source missing source key: VonRosenberg1853
+WARNING forms.csv:43:Source missing source key: VonRosenberg1853
+WARNING forms.csv:44:Source missing source key: VonRosenberg1853
+WARNING forms.csv:45:Source missing source key: VonRosenberg1853
+WARNING forms.csv:46:Source missing source key: VonRosenberg1853
+WARNING forms.csv:47:Source missing source key: VonRosenberg1853
+WARNING forms.csv:48:Source missing source key: VonRosenberg1853
+WARNING forms.csv:49:Source missing source key: VonRosenberg1853
+WARNING forms.csv:50:Source missing source key: VonRosenberg1853
+WARNING forms.csv:51:Source missing source key: VonRosenberg1853
+WARNING forms.csv:52:Source missing source key: VonRosenberg1853
+WARNING forms.csv:53:Source missing source key: VonRosenberg1853
+WARNING forms.csv:54:Source missing source key: VonRosenberg1853
+WARNING forms.csv:55:Source missing source key: VonRosenberg1853
+WARNING forms.csv:56:Source missing source key: VonRosenberg1853
+WARNING forms.csv:57:Source missing source key: VonRosenberg1853
+WARNING forms.csv:58:Source missing source key: VonRosenberg1853
+WARNING forms.csv:59:Source missing source key: VonRosenberg1853
+WARNING forms.csv:60:Source missing source key: VonRosenberg1853
+WARNING forms.csv:61:Source missing source key: VonRosenberg1853
+WARNING forms.csv:62:Source missing source key: VonRosenberg1853
+WARNING forms.csv:63:Source missing source key: VonRosenberg1853
+WARNING forms.csv:64:Source missing source key: VonRosenberg1853
+WARNING forms.csv:65:Source missing source key: VonRosenberg1853
+WARNING forms.csv:66:Source missing source key: VonRosenberg1853
+WARNING forms.csv:67:Source missing source key: VonRosenberg1853
+WARNING forms.csv:68:Source missing source key: VonRosenberg1853
+WARNING forms.csv:69:Source missing source key: VonRosenberg1853
+WARNING forms.csv:70:Source missing source key: VonRosenberg1853
+WARNING forms.csv:71:Source missing source key: VonRosenberg1853
+WARNING forms.csv:72:Source missing source key: VonRosenberg1853
+WARNING forms.csv:73:Source missing source key: VonRosenberg1853
+WARNING forms.csv:74:Source missing source key: VonRosenberg1853
+WARNING forms.csv:75:Source missing source key: VonRosenberg1853
+WARNING forms.csv:76:Source missing source key: VonRosenberg1853
+WARNING forms.csv:77:Source missing source key: VonRosenberg1853
+WARNING forms.csv:78:Source missing source key: VonRosenberg1853
+WARNING forms.csv:79:Source missing source key: VonRosenberg1853
+WARNING forms.csv:80:Source missing source key: VonRosenberg1853
+WARNING forms.csv:81:Source missing source key: VonRosenberg1853
+WARNING forms.csv:82:Source missing source key: VonRosenberg1853
+WARNING forms.csv:83:Source missing source key: VonRosenberg1853
+WARNING forms.csv:84:Source missing source key: VonRosenberg1853
+WARNING forms.csv:85:Source missing source key: VonRosenberg1853
+WARNING forms.csv:86:Source missing source key: VonRosenberg1853
+WARNING forms.csv:87:Source missing source key: VonRosenberg1853
+WARNING forms.csv:88:Source missing source key: VonRosenberg1853
+WARNING forms.csv:89:Source missing source key: VonRosenberg1853
+WARNING forms.csv:90:Source missing source key: VonRosenberg1853
+WARNING forms.csv:91:Source missing source key: VonRosenberg1853
+WARNING forms.csv:92:Source missing source key: VonRosenberg1853
+WARNING forms.csv:93:Source missing source key: VonRosenberg1853
+WARNING forms.csv:94:Source missing source key: VonRosenberg1853
+WARNING forms.csv:95:Source missing source key: VonRosenberg1853
+WARNING forms.csv:96:Source missing source key: VonRosenberg1853
+WARNING forms.csv:97:Source missing source key: VonRosenberg1853
+WARNING forms.csv:98:Source missing source key: VonRosenberg1853
+WARNING forms.csv:99:Source missing source key: VonRosenberg1853
+WARNING forms.csv:100:Source missing source key: VonRosenberg1853
+WARNING forms.csv:101:Source missing source key: VonRosenberg1853
+WARNING forms.csv:102:Source missing source key: VonRosenberg1853
+WARNING forms.csv:103:Source missing source key: VonRosenberg1853
+WARNING forms.csv:104:Source missing source key: VonRosenberg1853
+WARNING forms.csv:105:Source missing source key: VonRosenberg1853
+WARNING forms.csv:106:Source missing source key: VonRosenberg1853
+WARNING forms.csv:107:Source missing source key: VonRosenberg1853
+WARNING forms.csv:108:Source missing source key: VonRosenberg1853
+WARNING forms.csv:109:Source missing source key: VonRosenberg1853
+WARNING forms.csv:110:Source missing source key: VonRosenberg1853
+WARNING forms.csv:111:Source missing source key: VonRosenberg1853
+WARNING forms.csv:112:Source missing source key: VonRosenberg1853
+WARNING forms.csv:113:Source missing source key: VonRosenberg1853
+WARNING forms.csv:114:Source missing source key: VonRosenberg1853
+WARNING forms.csv:115:Source missing source key: VonRosenberg1853
+WARNING forms.csv:116:Source missing source key: VonRosenberg1853
+WARNING forms.csv:117:Source missing source key: VonRosenberg1853
+WARNING forms.csv:118:Source missing source key: VonRosenberg1853
+WARNING forms.csv:119:Source missing source key: VonRosenberg1853
+WARNING forms.csv:120:Source missing source key: VonRosenberg1853
+WARNING forms.csv:121:Source missing source key: VonRosenberg1853
+WARNING forms.csv:122:Source missing source key: VonRosenberg1853
+WARNING forms.csv:123:Source missing source key: VonRosenberg1853
+WARNING forms.csv:124:Source missing source key: VonRosenberg1853
+WARNING forms.csv:125:Source missing source key: VonRosenberg1853
+WARNING forms.csv:126:Source missing source key: VonRosenberg1853
+WARNING forms.csv:127:Source missing source key: VonRosenberg1853
+WARNING forms.csv:128:Source missing source key: VonRosenberg1853
+WARNING forms.csv:129:Source missing source key: VonRosenberg1853
+WARNING forms.csv:130:Source missing source key: VonRosenberg1853
+WARNING forms.csv:131:Source missing source key: VonRosenberg1853
+WARNING forms.csv:132:Source missing source key: VonRosenberg1853
+WARNING forms.csv:133:Source missing source key: VonRosenberg1853
+WARNING forms.csv:134:Source missing source key: VonRosenberg1853
+WARNING forms.csv:135:Source missing source key: VonRosenberg1853
+WARNING forms.csv:136:Source missing source key: VonRosenberg1853
+WARNING forms.csv:137:Source missing source key: VonRosenberg1853
+WARNING forms.csv:138:Source missing source key: VonRosenberg1853
+WARNING forms.csv:139:Source missing source key: VonRosenberg1853
+WARNING forms.csv:140:Source missing source key: VonRosenberg1853
+WARNING forms.csv:141:Source missing source key: VonRosenberg1853
+WARNING forms.csv:142:Source missing source key: VonRosenberg1853
+WARNING forms.csv:143:Source missing source key: VonRosenberg1853
+WARNING forms.csv:144:Source missing source key: VonRosenberg1853
+WARNING forms.csv:145:Source missing source key: VonRosenberg1853
+WARNING forms.csv:146:Source missing source key: VonRosenberg1853
+WARNING forms.csv:147:Source missing source key: VonRosenberg1853
+WARNING forms.csv:148:Source missing source key: VonRosenberg1853
+WARNING forms.csv:149:Source missing source key: VonRosenberg1853
+WARNING forms.csv:150:Source missing source key: VonRosenberg1853
+WARNING forms.csv:151:Source missing source key: VonRosenberg1853
+WARNING forms.csv:152:Source missing source key: VonRosenberg1853
+WARNING forms.csv:153:Source missing source key: VonRosenberg1853
+WARNING forms.csv:154:Source missing source key: VonRosenberg1853
+WARNING forms.csv:155:Source missing source key: VonRosenberg1853
+WARNING forms.csv:156:Source missing source key: VonRosenberg1853
+WARNING forms.csv:157:Source missing source key: VonRosenberg1853
+WARNING forms.csv:158:Source missing source key: VonRosenberg1853
+WARNING forms.csv:159:Source missing source key: VonRosenberg1853
+WARNING forms.csv:160:Source missing source key: VonRosenberg1853
+WARNING forms.csv:161:Source missing source key: VonRosenberg1853
+WARNING forms.csv:162:Source missing source key: VonRosenberg1853
+WARNING forms.csv:163:Source missing source key: VonRosenberg1853
+WARNING forms.csv:164:Source missing source key: VonRosenberg1853
+WARNING forms.csv:165:Source missing source key: VonRosenberg1853
+WARNING forms.csv:166:Source missing source key: VonRosenberg1853
+WARNING forms.csv:167:Source missing source key: VonRosenberg1853
+WARNING forms.csv:168:Source missing source key: VonRosenberg1853
+WARNING forms.csv:169:Source missing source key: VonRosenberg1853
+WARNING forms.csv:170:Source missing source key: VonRosenberg1853
+WARNING forms.csv:171:Source missing source key: VonRosenberg1853
+WARNING forms.csv:172:Source missing source key: VonRosenberg1853
+WARNING forms.csv:173:Source missing source key: VonRosenberg1853
+WARNING forms.csv:174:Source missing source key: VonRosenberg1853
+WARNING forms.csv:175:Source missing source key: VonRosenberg1853
+WARNING forms.csv:176:Source missing source key: VonRosenberg1853
+WARNING forms.csv:177:Source missing source key: VonRosenberg1853
+WARNING forms.csv:178:Source missing source key: VonRosenberg1853
+WARNING forms.csv:179:Source missing source key: VonRosenberg1853
+WARNING forms.csv:180:Source missing source key: VonRosenberg1853
+WARNING forms.csv:181:Source missing source key: VonRosenberg1853
+WARNING forms.csv:182:Source missing source key: VonRosenberg1853
+WARNING forms.csv:183:Source missing source key: VonRosenberg1853
+WARNING forms.csv:184:Source missing source key: VonRosenberg1853
+WARNING forms.csv:185:Source missing source key: VonRosenberg1853
+WARNING forms.csv:186:Source missing source key: VonRosenberg1853
+WARNING forms.csv:187:Source missing source key: VonRosenberg1853
+WARNING forms.csv:188:Source missing source key: VonRosenberg1853
+WARNING forms.csv:189:Source missing source key: VonRosenberg1853
+WARNING forms.csv:190:Source missing source key: VonRosenberg1853
+WARNING forms.csv:191:Source missing source key: VonRosenberg1853
+WARNING forms.csv:192:Source missing source key: VonRosenberg1853
+WARNING forms.csv:193:Source missing source key: VonRosenberg1853
+WARNING forms.csv:194:Source missing source key: VonRosenberg1853
+WARNING forms.csv:195:Source missing source key: VonRosenberg1853
+WARNING forms.csv:196:Source missing source key: VonRosenberg1853
+WARNING forms.csv:197:Source missing source key: VonRosenberg1853
+WARNING forms.csv:198:Source missing source key: VonRosenberg1853
+WARNING forms.csv:199:Source missing source key: VonRosenberg1853
+WARNING forms.csv:200:Source missing source key: VonRosenberg1853
+WARNING forms.csv:201:Source missing source key: VonRosenberg1853
+WARNING forms.csv:202:Source missing source key: VonRosenberg1853
+WARNING forms.csv:203:Source missing source key: VonRosenberg1853
+WARNING forms.csv:204:Source missing source key: VonRosenberg1853
+WARNING forms.csv:205:Source missing source key: VonRosenberg1853
+WARNING forms.csv:206:Source missing source key: VonRosenberg1853
+WARNING forms.csv:207:Source missing source key: VonRosenberg1853
+WARNING forms.csv:208:Source missing source key: VonRosenberg1853
+WARNING forms.csv:209:Source missing source key: VonRosenberg1853
+WARNING forms.csv:210:Source missing source key: VonRosenberg1853
+WARNING forms.csv:211:Source missing source key: VonRosenberg1853
+WARNING forms.csv:212:Source missing source key: VonRosenberg1853
+WARNING forms.csv:213:Source missing source key: VonRosenberg1853
+WARNING forms.csv:214:Source missing source key: VonRosenberg1853
+WARNING forms.csv:215:Source missing source key: VonRosenberg1853
+WARNING forms.csv:216:Source missing source key: VonRosenberg1853
+WARNING forms.csv:217:Source missing source key: VonRosenberg1853
+WARNING forms.csv:218:Source missing source key: VonRosenberg1853
+WARNING forms.csv:219:Source missing source key: VonRosenberg1853
+WARNING forms.csv:220:Source missing source key: VonRosenberg1853
+WARNING forms.csv:221:Source missing source key: VonRosenberg1853
+WARNING forms.csv:222:Source missing source key: VonRosenberg1853
+WARNING forms.csv:223:Source missing source key: VonRosenberg1853
+WARNING forms.csv:224:Source missing source key: VonRosenberg1853
+WARNING forms.csv:225:Source missing source key: VonRosenberg1853
+WARNING forms.csv:226:Source missing source key: VonRosenberg1853
+WARNING forms.csv:227:Source missing source key: VonRosenberg1853
+WARNING forms.csv:228:Source missing source key: VonRosenberg1853
+WARNING forms.csv:229:Source missing source key: VonRosenberg1853
+WARNING forms.csv:230:Source missing source key: VonRosenberg1853
+WARNING forms.csv:231:Source missing source key: VonRosenberg1853
+WARNING forms.csv:232:Source missing source key: VonRosenberg1853
+WARNING forms.csv:233:Source missing source key: VonRosenberg1853
+WARNING forms.csv:234:Source missing source key: VonRosenberg1853
+WARNING forms.csv:235:Source missing source key: VonRosenberg1853
+WARNING forms.csv:236:Source missing source key: VonRosenberg1853
+WARNING forms.csv:237:Source missing source key: VonRosenberg1853
+WARNING forms.csv:238:Source missing source key: VonRosenberg1853
+WARNING forms.csv:239:Source missing source key: VonRosenberg1853
+WARNING forms.csv:240:Source missing source key: VonRosenberg1853
+WARNING forms.csv:241:Source missing source key: VonRosenberg1853
+WARNING forms.csv:242:Source missing source key: VonRosenberg1853
+WARNING forms.csv:243:Source missing source key: VonRosenberg1853
+WARNING forms.csv:244:Source missing source key: VonRosenberg1853
+WARNING forms.csv:245:Source missing source key: VonRosenberg1853
+WARNING forms.csv:246:Source missing source key: VonRosenberg1853
+WARNING forms.csv:247:Source missing source key: VonRosenberg1853
+WARNING forms.csv:248:Source missing source key: VonRosenberg1853
+WARNING forms.csv:249:Source missing source key: VonRosenberg1853
+WARNING forms.csv:250:Source missing source key: VonRosenberg1853
+WARNING forms.csv:251:Source missing source key: VonRosenberg1853
+WARNING forms.csv:252:Source missing source key: VonRosenberg1853
+WARNING forms.csv:253:Source missing source key: VonRosenberg1853
+WARNING forms.csv:254:Source missing source key: VonRosenberg1853
+WARNING forms.csv:255:Source missing source key: VonRosenberg1853
+WARNING forms.csv:256:Source missing source key: VonRosenberg1853
+WARNING forms.csv:257:Source missing source key: VonRosenberg1853
+WARNING forms.csv:258:Source missing source key: VonRosenberg1853
+WARNING forms.csv:259:Source missing source key: VonRosenberg1853
+WARNING forms.csv:260:Source missing source key: VonRosenberg1853
+WARNING forms.csv:261:Source missing source key: VonRosenberg1853
+WARNING forms.csv:262:Source missing source key: VonRosenberg1853
+WARNING forms.csv:263:Source missing source key: VonRosenberg1853
+WARNING forms.csv:264:Source missing source key: VonRosenberg1853
+WARNING forms.csv:265:Source missing source key: VonRosenberg1853
+WARNING forms.csv:266:Source missing source key: VonRosenberg1853
+WARNING forms.csv:267:Source missing source key: VonRosenberg1853
+WARNING forms.csv:268:Source missing source key: VonRosenberg1853
+WARNING forms.csv:269:Source missing source key: VonRosenberg1853
+WARNING forms.csv:270:Source missing source key: VonRosenberg1853
+WARNING forms.csv:271:Source missing source key: VonRosenberg1853
+WARNING forms.csv:272:Source missing source key: VonRosenberg1853
+WARNING forms.csv:273:Source missing source key: VonRosenberg1853
+WARNING forms.csv:274:Source missing source key: VonRosenberg1853
+WARNING forms.csv:275:Source missing source key: VonRosenberg1853
+WARNING forms.csv:276:Source missing source key: VonRosenberg1853
+WARNING forms.csv:277:Source missing source key: VonRosenberg1853
+WARNING forms.csv:278:Source missing source key: VonRosenberg1853
+WARNING forms.csv:279:Source missing source key: VonRosenberg1853
+WARNING forms.csv:280:Source missing source key: VonRosenberg1853
+WARNING forms.csv:281:Source missing source key: VonRosenberg1853
+WARNING forms.csv:282:Source missing source key: VonRosenberg1853
+WARNING forms.csv:283:Source missing source key: VonRosenberg1853
+WARNING forms.csv:284:Source missing source key: VonRosenberg1853
+WARNING forms.csv:285:Source missing source key: VonRosenberg1853
+WARNING forms.csv:286:Source missing source key: VonRosenberg1853
+WARNING forms.csv:287:Source missing source key: VonRosenberg1853
+WARNING forms.csv:288:Source missing source key: VonRosenberg1853
+WARNING forms.csv:289:Source missing source key: VonRosenberg1853
+WARNING forms.csv:290:Source missing source key: VonRosenberg1853
+WARNING forms.csv:291:Source missing source key: VonRosenberg1853
+WARNING forms.csv:292:Source missing source key: VonRosenberg1853
+WARNING forms.csv:293:Source missing source key: VonRosenberg1853
+WARNING forms.csv:294:Source missing source key: VonRosenberg1853
+WARNING forms.csv:295:Source missing source key: VonRosenberg1853
+WARNING forms.csv:296:Source missing source key: VonRosenberg1853
+WARNING forms.csv:297:Source missing source key: VonRosenberg1853
+WARNING forms.csv:298:Source missing source key: VonRosenberg1853
+WARNING forms.csv:299:Source missing source key: VonRosenberg1853
+WARNING forms.csv:300:Source missing source key: VonRosenberg1853
+WARNING forms.csv:301:Source missing source key: VonRosenberg1853
+WARNING forms.csv:302:Source missing source key: VonRosenberg1853
+WARNING forms.csv:303:Source missing source key: VonRosenberg1853
+WARNING forms.csv:304:Source missing source key: VonRosenberg1853
+WARNING forms.csv:305:Source missing source key: VonRosenberg1853
+WARNING forms.csv:306:Source missing source key: VonRosenberg1853
+WARNING forms.csv:307:Source missing source key: VonRosenberg1853
+WARNING forms.csv:308:Source missing source key: VonRosenberg1853
+WARNING forms.csv:309:Source missing source key: VonRosenberg1853
+WARNING forms.csv:310:Source missing source key: VonRosenberg1853
+WARNING forms.csv:311:Source missing source key: VonRosenberg1853
+WARNING forms.csv:312:Source missing source key: VonRosenberg1853
+WARNING forms.csv:313:Source missing source key: VonRosenberg1853
+WARNING forms.csv:314:Source missing source key: VonRosenberg1853
+WARNING forms.csv:315:Source missing source key: VonRosenberg1853
+WARNING forms.csv:316:Source missing source key: VonRosenberg1853
+WARNING forms.csv:317:Source missing source key: VonRosenberg1853
+WARNING forms.csv:318:Source missing source key: VonRosenberg1853
+WARNING forms.csv:319:Source missing source key: VonRosenberg1853
+WARNING forms.csv:320:Source missing source key: VonRosenberg1853
+WARNING forms.csv:321:Source missing source key: VonRosenberg1853
+WARNING forms.csv:322:Source missing source key: VonRosenberg1853
+WARNING forms.csv:323:Source missing source key: VonRosenberg1853
+WARNING forms.csv:324:Source missing source key: VonRosenberg1853
+WARNING forms.csv:325:Source missing source key: VonRosenberg1853
+WARNING forms.csv:326:Source missing source key: VonRosenberg1853
+WARNING forms.csv:327:Source missing source key: VonRosenberg1853
+WARNING forms.csv:328:Source missing source key: VonRosenberg1853
+WARNING forms.csv:329:Source missing source key: VonRosenberg1853
+WARNING forms.csv:330:Source missing source key: VonRosenberg1853
+WARNING forms.csv:331:Source missing source key: VonRosenberg1853
+WARNING forms.csv:332:Source missing source key: VonRosenberg1853
+WARNING forms.csv:333:Source missing source key: VonRosenberg1853
+WARNING forms.csv:334:Source missing source key: VonRosenberg1853
+WARNING forms.csv:335:Source missing source key: VonRosenberg1853
+WARNING forms.csv:336:Source missing source key: VonRosenberg1853
+WARNING forms.csv:337:Source missing source key: VonRosenberg1853
+WARNING forms.csv:338:Source missing source key: VonRosenberg1853
+WARNING forms.csv:339:Source missing source key: VonRosenberg1853
+WARNING forms.csv:340:Source missing source key: VonRosenberg1853
+WARNING forms.csv:341:Source missing source key: VonRosenberg1853
+WARNING forms.csv:342:Source missing source key: VonRosenberg1853
+WARNING forms.csv:343:Source missing source key: VonRosenberg1853
+WARNING forms.csv:344:Source missing source key: VonRosenberg1853
+WARNING forms.csv:345:Source missing source key: VonRosenberg1853
+WARNING forms.csv:346:Source missing source key: VonRosenberg1853
+WARNING forms.csv:347:Source missing source key: VonRosenberg1853
+WARNING forms.csv:348:Source missing source key: VonRosenberg1853
+WARNING forms.csv:349:Source missing source key: VonRosenberg1853
+WARNING forms.csv:350:Source missing source key: VonRosenberg1853
+WARNING forms.csv:351:Source missing source key: VonRosenberg1853
+WARNING forms.csv:352:Source missing source key: VonRosenberg1853
+WARNING forms.csv:353:Source missing source key: VonRosenberg1853
+WARNING forms.csv:354:Source missing source key: VonRosenberg1853
+WARNING forms.csv:355:Source missing source key: VonRosenberg1853
+WARNING forms.csv:356:Source missing source key: VonRosenberg1853
+WARNING forms.csv:357:Source missing source key: VonRosenberg1853
+WARNING forms.csv:358:Source missing source key: VonRosenberg1853
+WARNING forms.csv:359:Source missing source key: VonRosenberg1853
+WARNING forms.csv:360:Source missing source key: VonRosenberg1853
+WARNING forms.csv:361:Source missing source key: VonRosenberg1853
+WARNING forms.csv:362:Source missing source key: VonRosenberg1853
+WARNING forms.csv:363:Source missing source key: VonRosenberg1853
+WARNING forms.csv:364:Source missing source key: VonRosenberg1853
+WARNING forms.csv:365:Source missing source key: VonRosenberg1853
+WARNING forms.csv:366:Source missing source key: VonRosenberg1853
+WARNING forms.csv:367:Source missing source key: VonRosenberg1853
+WARNING forms.csv:368:Source missing source key: VonRosenberg1853
+WARNING forms.csv:369:Source missing source key: VonRosenberg1853
+WARNING forms.csv:370:Source missing source key: VonRosenberg1853
+WARNING forms.csv:371:Source missing source key: VonRosenberg1853
+WARNING forms.csv:372:Source missing source key: VonRosenberg1853
+WARNING forms.csv:373:Source missing source key: VonRosenberg1853
+WARNING forms.csv:374:Source missing source key: VonRosenberg1853
+WARNING forms.csv:375:Source missing source key: VonRosenberg1853
+WARNING forms.csv:376:Source missing source key: VonRosenberg1853
+WARNING forms.csv:377:Source missing source key: VonRosenberg1853
+WARNING forms.csv:378:Source missing source key: VonRosenberg1853
+WARNING forms.csv:379:Source missing source key: VonRosenberg1853
+WARNING forms.csv:380:Source missing source key: VonRosenberg1853
+WARNING forms.csv:381:Source missing source key: VonRosenberg1853
+WARNING forms.csv:382:Source missing source key: VonRosenberg1853
+WARNING forms.csv:383:Source missing source key: VonRosenberg1853
+WARNING forms.csv:384:Source missing source key: VonRosenberg1853
+WARNING forms.csv:385:Source missing source key: VonRosenberg1853
+WARNING forms.csv:386:Source missing source key: VonRosenberg1853
+WARNING forms.csv:387:Source missing source key: VonRosenberg1853
+WARNING forms.csv:388:Source missing source key: VonRosenberg1853
+WARNING forms.csv:389:Source missing source key: VonRosenberg1853
+WARNING forms.csv:390:Source missing source key: VonRosenberg1853
+WARNING forms.csv:391:Source missing source key: VonRosenberg1853
+WARNING forms.csv:392:Source missing source key: VonRosenberg1853
+WARNING forms.csv:393:Source missing source key: VonRosenberg1853
+WARNING forms.csv:394:Source missing source key: VonRosenberg1853
+WARNING forms.csv:395:Source missing source key: VonRosenberg1853
+WARNING forms.csv:396:Source missing source key: VonRosenberg1853
+WARNING forms.csv:397:Source missing source key: VonRosenberg1853
+WARNING forms.csv:398:Source missing source key: VonRosenberg1853
+WARNING forms.csv:399:Source missing source key: VonRosenberg1853
+WARNING forms.csv:400:Source missing source key: VonRosenberg1853
+WARNING forms.csv:401:Source missing source key: VonRosenberg1853
+WARNING forms.csv:402:Source missing source key: VonRosenberg1853
+WARNING forms.csv:403:Source missing source key: VonRosenberg1853
+WARNING forms.csv:404:Source missing source key: VonRosenberg1853
+WARNING forms.csv:405:Source missing source key: VonRosenberg1853
+WARNING forms.csv:406:Source missing source key: VonRosenberg1853
+WARNING forms.csv:407:Source missing source key: VonRosenberg1853
+WARNING forms.csv:408:Source missing source key: VonRosenberg1853
+WARNING forms.csv:409:Source missing source key: VonRosenberg1853
+WARNING forms.csv:410:Source missing source key: VonRosenberg1853
+WARNING forms.csv:411:Source missing source key: VonRosenberg1853
+WARNING forms.csv:412:Source missing source key: VonRosenberg1853
+WARNING forms.csv:413:Source missing source key: VonRosenberg1853
+WARNING forms.csv:414:Source missing source key: VonRosenberg1853
+WARNING forms.csv:415:Source missing source key: VonRosenberg1853
+WARNING forms.csv:416:Source missing source key: VonRosenberg1853
+WARNING forms.csv:417:Source missing source key: VonRosenberg1853
+WARNING forms.csv:418:Source missing source key: VonRosenberg1853
+WARNING forms.csv:419:Source missing source key: VonRosenberg1853
+WARNING forms.csv:420:Source missing source key: VonRosenberg1853
+WARNING forms.csv:421:Source missing source key: VonRosenberg1853
+WARNING forms.csv:422:Source missing source key: VonRosenberg1853
+WARNING forms.csv:423:Source missing source key: VonRosenberg1853
+WARNING forms.csv:424:Source missing source key: VonRosenberg1853
+WARNING forms.csv:425:Source missing source key: VonRosenberg1853
+WARNING forms.csv:426:Source missing source key: VonRosenberg1853
+WARNING forms.csv:427:Source missing source key: VonRosenberg1853
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Scripts\cldfbench.exe\__main__.py", line 7, in <module>
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\__main__.py", line 89, in main
+    return args.main(args) or 0
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\commands\makecldf.py", line 24, in run
+    with_dataset(args, 'makecldf', dataset=dataset)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\cli_util.py", line 161, in with_dataset
+    res = func(*arg, args)
+          ^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\dataset.py", line 231, in _cmd_makecldf
+    assert self.cldf_reader().validate(args.log)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Us
+ers\GRajeg\OneDrive - Nexus365\Documents\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/.transcription-report.json
+INFO    Summary for dataset C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldf\cldf-metadata.json
+- **Varieties:** 3
+- **Concepts:** 155
+- **Lexemes:** 426
+- **Sources:** 1
+- **Synonymy:** 1.02
+- **Invalid lexemes:** 0
+- **Tokens:** 5,355
+- **Segments:** 36 (6 BIPA errors, 5 CLTS sound class errors, 30 CLTS modified)
+- **Inventory size (avg):** 31.00
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/TRANSCRIPTION.md
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/lingpy-rcParams.json
+INFO    ... done oudemans1879 [72.7 secs]
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Scripts\cldfbench.exe\__main__.py", line 7, in <module>
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\__main__.py", line 89, in main
+    return args.main(args) or 0
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\commands\makecldf.py", line 24, in run
+    with_dataset(args, 'makecldf', dataset=dataset)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\cli_util.py", line 161, in with_dataset
+    res = func(*arg, args)
+          ^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\dataset.py", line 218, in _cmd_makecldf
+    super()._cmd_makecldf(args)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\dataset.py", line 208, in _cmd_makecldf
+    with self.cldf_writer(args, cldf_spec=specs[0]) as writer:
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\cldf.py", line 51, in __enter__
+    super().__enter__()
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\cldf.py", line 87, in __enter__
+    self.cldf_spec.make_clean()
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\cldf.py", line 203, in make_clean
+    p.unlink()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2544.0_x64__qbz5n2kfra8p0\Lib\pathlib.py", line 1342, in unlink
+    os.unlink(self)
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\GRajeg\\OneDrive - Nexus365\\Documents\\Research\\oudemans1879\\cldf\\forms.csv'
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Us
+ers\GRajeg\OneDrive - Nexus365\Documents\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Scripts\cldfbench.exe\__main__.py", line 7, in <module>
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\__main__.py", line 89, in main
+    return args.main(args) or 0
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\commands\makecldf.py", line 24, in run
+    with_dataset(args, 'makecldf', dataset=dataset)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\cli_util.py", line 161, in with_dataset
+    res = func(*arg, args)
+          ^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\dataset.py", line 218, in _cmd_makecldf
+    super()._cmd_makecldf(args)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\dataset.py", line 210, in _cmd_makecldf
+    self.cmd_makecldf(args)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldfbench_oudemans1879.py", line 66, in cmd_makecldf
+    args.writer.add_form_with_segments( # this add_form_with_segments() is used when to include the Segments info from the raw data (this function a
+lso requires explicit statement of the addition of the Form variable). But, args.writer.add_forms_from_value is used when we can ignore the Segments variable
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\cldf.py", line 142, in add_form_with_segments
+    raise ValueError('language, concept, value, form, and segments must be supplied')
+ValueError: language, concept, value, form, and segments must be supplied
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Us
+ers\GRajeg\OneDrive - Nexus365\Documents\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Scripts\cldfbench.exe\__main__.py", line 7, in <module>
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\__main__.py", line 89, in main
+    return args.main(args) or 0
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\commands\makecldf.py", line 24, in run
+    with_dataset(args, 'makecldf', dataset=dataset)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\cli_util.py", line 161, in with_dataset
+    res = func(*arg, args)
+          ^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\dataset.py", line 218, in _cmd_makecldf
+    super()._cmd_makecldf(args)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\dataset.py", line 210, in _cmd_makecldf
+    self.cmd_makecldf(args)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldfbench_oudemans1879.py", line 66, in cmd_makecldf
+    args.writer.add_form_with_segments( # this add_form_with_segments() is used when to include the Segments info from the raw data (this function a
+lso requires explicit statement of the addition of the Form variable). But, args.writer.add_forms_from_value is used when we can ignore the Segments variable
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\cldf.py", line 149, in add_form_with_segments
+    lexeme = self._add_object(self.dataset.lexeme_class, **kw)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\cldf.py", line 241, in _add_object
+    d = attr.asdict(cls(**kw))
+                    ^^^^^^^^^
+TypeError: CustomLexeme.__init__() got an unexpected keyword argument 'Dutch'
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Us
+ers\GRajeg\OneDrive - Nexus365\Documents\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/.transcription-report.json
+INFO    Summary for dataset C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldf\cldf-metadata.json
+- **Varieties:** 3
+- **Concepts:** 155
+- **Lexemes:** 426
+- **Sources:** 1
+- **Synonymy:** 1.02
+- **Invalid lexemes:** 0
+- **Tokens:** 5,415
+- **Segments:** 35 (8 BIPA errors, 7 CLTS sound class errors, 27 CLTS modified)
+- **Inventory size (avg):** 29.67
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/TRANSCRIPTION.md
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/lingpy-rcParams.json
+INFO    ... done oudemans1879 [48.1 secs]
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Us
+ers\GRajeg\OneDrive - Nexus365\Documents\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Scripts\cldfbench.exe\__main__.py", line 7, in <module>
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\__main__.py", line 89, in main
+    return args.main(args) or 0
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\commands\makecldf.py", line 24, in run
+    with_dataset(args, 'makecldf', dataset=dataset)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\cli_util.py", line 161, in with_dataset
+    res = func(*arg, args)
+          ^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\dataset.py", line 218, in _cmd_makecldf
+    super()._cmd_makecldf(args)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\dataset.py", line 208, in _cmd_makecldf
+    with self.cldf_writer(args, cldf_spec=specs[0]) as writer:
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\cldf.py", line 51, in __enter__
+    super().__enter__()
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\cldf.py", line 87, in __enter__
+    self.cldf_spec.make_clean()
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\cldf.py", line 203, in make_clean
+    p.unlink()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2544.0_x64__qbz5n2kfra8p0\Lib\pathlib.py", line 1342, in unlink
+    os.unlink(self)
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\GRajeg\\OneDrive - Nexus365\\Documents\\Research\\oudemans1879\\cldf\\forms.csv'
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Us
+ers\GRajeg\OneDrive - Nexus365\Documents\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/.transcription-report.json
+INFO    Summary for dataset C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldf\cldf-metadata.json
+- **Varieties:** 3
+- **Concepts:** 155
+- **Sources:** 1
+- **Synonymy:** 1.02
+- **Invalid lexemes:** 0
+- **Tokens:** 5,355
+- **Segments:** 36 (6 BIPA errors, 5 CLTS sound class errors, 30 CLTS modified)
+- **Inventory size (avg):** 31.00
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/TRANSCRIPTION.md
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/lingpy-rcParams.json
+INFO    ... done oudemans1879 [58.5 secs]
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Users\GRajeg\OneDrive - Nexus365\D
+ocuments\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/.transcription-report.json
+INFO    Summary for dataset C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldf\cldf-metadata.json
+- **Varieties:** 3
+- **Concepts:** 155
+- **Lexemes:** 426
+- **Sources:** 1
+- **Synonymy:** 1.02
+- **Invalid lexemes:** 0
+- **Tokens:** 5,355
+- **Segments:** 36 (6 BIPA errors, 5 CLTS sound class errors, 30 CLTS modified)
+- **Inventory size (avg):** 31.00
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/TRANSCRIPTION.md
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/lingpy-rcParams.json
+INFO    ... done oudemans1879 [77.6 secs]
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Users\GRajeg\OneDrive - Nexus365\D
+ocuments\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/.transcription-report.json
+INFO    Summary for dataset C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldf\cldf-metadata.json
+- **Varieties:** 3
+- **Concepts:** 155
+- **Lexemes:** 426
+- **Sources:** 1
+- **Synonymy:** 1.02
+- **Invalid lexemes:** 0
+- **Tokens:** 5,355
+- **Segments:** 36 (6 BIPA errors, 5 CLTS sound class errors, 30 CLTS modified)
+- **Inventory size (avg):** 31.00
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/TRANSCRIPTION.md
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/lingpy-rcParams.json
+INFO    ... done oudemans1879 [73.3 secs]
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Users\GRajeg\OneDrive - Nexus365\D
+ocuments\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/.transcription-report.json
+INFO    Summary for dataset C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldf\cldf-metadata.json
+- **Varieties:** 3
+- **Concepts:** 155
+- **Lexemes:** 426
+- **Sources:** 1
+- **Synonymy:** 1.02
+- **Invalid lexemes:** 0
+- **Tokens:** 5,355
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/TRANSCRIPTION.md
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/lingpy-rcParams.json
+INFO    ... done oudemans1879 [71.7 secs]
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>pylexibank
+'pylexibank' is not recognized as an internal or external command,
+operable program or batch file.
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldf stats cld
+f/cldf-metadata.json
+<cldf:v1.0:Wordlist at cldf>
+                          value
+------------------------  ----------------------------------------------------------------
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+dc:bibliographicCitation  Oudemans, Jean Abraham Chrétien. 1879. Woordenlijst van de Talen
+ van Enggano, Mentawei en Nias. Tijdschrift voor Indische Taal-, Land- en Volkenkunde XXV(5–6). 484–488.
+dc:conformsTo             http://cldf.clld.org/v1.0/terms.rdf#Wordlist
+dc:description            This is an old comparative word list from the second half of the
+ 19th century (Oudemans 1879) for Enggano, Mentawai, and Nias, the three Barrier Islands o
+ff the western coast of Sumatra, Indonesia. The Enggano list is integrated into [EnoLEX](h
+ttps://enggano.shinyapps.io/enolex/) (Krauße et al. [2024a](https://doi.org/10.25446/oxfor
+d.28282169); Rajeg et al. [2024](https://doi.org/10.25446/oxford.27013864.v1); see also Kr
+auße et al. [2024b](https://doi.org/10.25446/oxford.28295648.v1); Rajeg et al. [2025](http
+s://doi.org/10.25446/oxford.28282946.v1)). EnoLEX is a diachronic lexical database for the Enggano language.
+dc:isVersionOf
+dc:license                CC-BY-NC-SA 4.0
+dc:related
+dc:source                 sources.bib
+dc:title                  CLDF dataset derived from Oudemans' "Woordenlijst van de Talen van Enggano, Mentawei en Nias" from 1879
+dcat:accessURL            git@github.com:engganolang/oudemans-1879
+prov:wasDerivedFrom       [{'rdf:about': 'git@github.com:engganolang/oudemans-1879', 'rdf:
+type': 'prov:Entity', 'dc:created': '278bead', 'dc:title': 'Repository'}, {'rdf:about': 'g
+lottolog-glottolog-2e1fce1', 'rdf:type': 'prov:Entity', 'dc:created': 'glottolog-glottolog
+-2e1fce1', 'dc:title': 'Glottolog'}, {'rdf:about': 'git@github.com:concepticon/concepticon
+-data', 'rdf:type': 'prov:Entity', 'dc:created': 'v3.1.0-146-gf3544781', 'dc:title': 'Conc
+epticon'}, {'rdf:about': 'git@github.com:cldf-clts/clts', 'rdf:type': 'prov:Entity', 'dc:created': 'v2.2.0-16-g4468d3b', 'dc:title': 'CLTS'}]
+prov:wasGeneratedBy       [{'dc:title': 'lingpy-rcParams', 'dc:relation': 'lingpy-rcParams
+.json'}, {'dc:title': 'python', 'dc:description': '3.12.9'}, {'dc:title': 'python-packages', 'dc:relation': 'requirements.txt'}]
+rdf:ID                    oudemans1879
+rdf:type                  http://www.w3.org/ns/dcat#Distribution
+
+                Type              Rows
+--------------  --------------  ------
+forms.csv       FormTable          426
+languages.csv   LanguageTable        3
+parameters.csv  ParameterTable     155
+sources.bib     Sources              1
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench chec
+k
+usage: cldfbench check [-h] [--entry-point ENTRY_POINT] [--glob] [--with-tests]
+                       [--with-validation]
+                       DATASET
+cldfbench check: error: the following arguments are required: DATASET
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench chec
+k -h
+usage: cldfbench check [-h] [--entry-point ENTRY_POINT] [--glob] [--with-tests]
+                       [--with-validation]
+                       DATASET
+
+Run generic CLDF checks
+
+Returns 1 on validation error, else 2 if there are warnings or 0.
+
+positional arguments:
+  DATASET               Dataset spec, either ID of installed dataset or path to python
+                        module or simplified glob pattern (where _ is understood as *)
+                        specifying python modules (requires --glob option!) or just _,
+                        which will match all datasets of the given --entry-point.
+
+options:
+  -h, --help            show this help message and exit
+  --entry-point ENTRY_POINT
+                        Name of entry_points to identify datasets (default:
+                        cldfbench.dataset)
+  --glob                Interpret DATASET as simplified glob pattern relative to cwd.
+                        (default: False)
+  --with-tests
+  --with-validation
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench chec
+k .
+ERROR:
+Invalid dataset spec: <cldfbench.dataset> .
+
+
+usage: cldfbench check [-h] [--entry-point ENTRY_POINT] [--glob] [--with-tests]
+                       [--with-validation]
+                       DATASET
+
+Run generic CLDF checks
+
+Returns 1 on validation error, else 2 if there are warnings or 0.
+
+positional arguments:
+  DATASET               Dataset spec, either ID of installed dataset or path to python
+                        module or simplified glob pattern (where _ is understood as *)
+                        specifying python modules (requires --glob option!) or just _,
+                        which will match all datasets of the given --entry-point.
+
+options:
+  -h, --help            show this help message and exit
+  --entry-point ENTRY_POINT
+                        Name of entry_points to identify datasets (default:
+                        cldfbench.dataset)
+  --glob                Interpret DATASET as simplified glob pattern relative to cwd.
+                        (default: False)
+  --with-tests
+  --with-validation
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench chec
+k oudemans1879
+ERROR:
+Invalid dataset spec: <cldfbench.dataset> oudemans1879
+
+
+usage: cldfbench check [-h] [--entry-point ENTRY_POINT] [--glob] [--with-tests]
+                       [--with-validation]
+                       DATASET
+
+Run generic CLDF checks
+
+Returns 1 on validation error, else 2 if there are warnings or 0.
+
+positional arguments:
+  DATASET               Dataset spec, either ID of installed dataset or path to python
+                        module or simplified glob pattern (where _ is understood as *)
+                        specifying python modules (requires --glob option!) or just _,
+                        which will match all datasets of the given --entry-point.
+
+options:
+  -h, --help            show this help message and exit
+  --entry-point ENTRY_POINT
+                        Name of entry_points to identify datasets (default:
+                        cldfbench.dataset)
+  --glob                Interpret DATASET as simplified glob pattern relative to cwd.
+                        (default: False)
+  --with-tests
+  --with-validation
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench check _
+ERROR:
+Invalid dataset spec: <cldfbench.dataset> *
+
+
+usage: cldfbench check [-h] [--entry-point ENTRY_POINT] [--glob] [--with-tests]
+                       [--with-validation]
+                       DATASET
+
+Run generic CLDF checks
+
+Returns 1 on validation error, else 2 if there are warnings or 0.
+
+positional arguments:
+  DATASET               Dataset spec, either ID of installed dataset or path to python
+                        module or simplified glob pattern (where _ is understood as *)
+                        specifying python modules (requires --glob option!) or just _,
+                        which will match all datasets of the given --entry-point.
+
+options:
+  -h, --help            show this help message and exit
+  --entry-point ENTRY_POINT
+                        Name of entry_points to identify datasets (default:
+                        cldfbench.dataset)
+  --glob                Interpret DATASET as simplified glob pattern relative to cwd.
+                        (default: False)
+  --with-tests
+  --with-validation
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench check "oudemans1879"
+ERROR:
+Invalid dataset spec: <cldfbench.dataset> oudemans1879
+
+
+usage: cldfbench check [-h] [--entry-point ENTRY_POINT] [--glob] [--with-tests]
+                       [--with-validation]
+                       DATASET
+
+Run generic CLDF checks
+
+Returns 1 on validation error, else 2 if there are warnings or 0.
+
+positional arguments:
+  DATASET               Dataset spec, either ID of installed dataset or path to python
+                        module or simplified glob pattern (where _ is understood as *)
+                        specifying python modules (requires --glob option!) or just _,
+                        which will match all datasets of the given --entry-point.
+
+options:
+  -h, --help            show this help message and exit
+  --entry-point ENTRY_POINT
+                        Name of entry_points to identify datasets (default:
+                        cldfbench.dataset)
+  --glob                Interpret DATASET as simplified glob pattern relative to cwd.
+                        (default: False)
+  --with-tests
+  --with-validation
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench check DATASET "oudemans1879"
+usage: cldfbench [-h] [--log-level LOG_LEVEL] [-z FIELD_SIZE_LIMIT]
+                 [--random-seed RANDOM_SEED]
+                 COMMAND ...
+cldfbench: error: unrecognized arguments: oudemans1879
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench check DATASET
+ERROR:
+Invalid dataset spec: <cldfbench.dataset> DATASET
+
+
+usage: cldfbench check [-h] [--entry-point ENTRY_POINT] [--glob] [--with-tests]
+                       [--with-validation]
+                       DATASET
+
+Run generic CLDF checks
+
+Returns 1 on validation error, else 2 if there are warnings or 0.
+
+positional arguments:
+  DATASET               Dataset spec, either ID of installed dataset or path to python
+                        module or simplified glob pattern (where _ is understood as *)
+                        specifying python modules (requires --glob option!) or just _,
+                        which will match all datasets of the given --entry-point.
+
+options:
+  -h, --help            show this help message and exit
+  --entry-point ENTRY_POINT
+                        Name of entry_points to identify datasets (default:
+                        cldfbench.dataset)
+  --glob                Interpret DATASET as simplified glob pattern relative to cwd.
+                        (default: False)
+  --with-tests
+  --with-validation
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Users\GRajeg\OneDrive -
+ Nexus365\Documents\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/.transcription-report.json
+INFO    Summary for dataset C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldf\cldf-metadata.json
+- **Varieties:** 3
+- **Concepts:** 155
+- **Lexemes:** 426
+- **Sources:** 1
+- **Synonymy:** 1.02
+- **Invalid lexemes:** 0
+- **Tokens:** 5,355
+- **Segments:** 36 (6 BIPA errors, 5 CLTS sound class errors, 30 CLTS modified)
+- **Inventory size (avg):** 31.00
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/TRANSCRIPTION.md
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/lingpy-rcParams.json
+INFO    ... done oudemans1879 [70.6 secs]
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench -h
+usage: cldfbench [-h] [--log-level LOG_LEVEL] [-z FIELD_SIZE_LIMIT] [--random-seed RANDOM_SEED] COMMAND ...
+
+options:
+  -h, --help            show this help message and exit
+  --log-level LOG_LEVEL
+                        log level [ERROR|WARN|INFO|DEBUG] (default: 20)
+  -z FIELD_SIZE_LIMIT, --maxfieldsize FIELD_SIZE_LIMIT
+                        Maximum length of a single field in any input CSV file. (default: 131072)
+  --random-seed RANDOM_SEED
+
+available commands:
+  Run "COMAMND -h" to get help for a specific command.
+
+  COMMAND
+    catconfig           Write a config file containing the local paths of clones of Catalogs.
+    catinfo             Display information about catalogs in the system
+    catupdate           Update local clones of catalog repositories.
+    check               Run generic CLDF checks
+    ci                  Setup CLDF validation as CI service via GitHub actions.
+    cldfreadme          Write markdown versions of the CLDF datasets to cldf/README.md
+    diff                Compute "essential" changes of the data in the cldf directory of a dataset's git repository.
+    download            Run download command of a dataset
+    geojson             Write a geoJSON file, mapping the languages in the dataset, to the Dataset's directory.
+    info                Display basic info about a dataset
+    ls                  List installed datasets.
+    makecldf            Run makecldf command of a dataset
+    media               Download {and pack} (filtered) media files {and prepare release on Zenodo}
+    new                 Create a skeleton for a new dataset
+    readme              Write dataset metadata to a README.md in the dataset's directory.
+    run                 Run a custom dataset command
+    stub                Stub command for experimentation
+    zenodo              Write metadata for Zenodo to .zenodo.json
+    zenodo.download     Download a CLDF dataset from Zenodo
+    dictionaria.release
+                        Create CLDF release version of a submission in its own repository
+    dictionaria.upload_media
+                        Updload media files of a submission to CDSTAR.
+    lexibank.check      Run all checks
+    lexibank.check_languages
+                        Check language specifications of lexibank datasets
+    lexibank.check_lexibank
+                        Check lexibank plumbing for lexibank datasets
+    lexibank.check_phonotactics
+                        Check forms against a dataset's orthography profile.
+    lexibank.check_profile
+                        Check forms against a dataset's orthography profile.
+    lexibank.db         Connect to the database with sqlite3.
+    lexibank.format_profile
+                        Format (and lint) the orthography profiles of a dataset.
+    lexibank.init_profile
+                        Create an initial orthography profile, seeded from the forms created by a first run
+    lexibank.language_profiles
+                        Create a profile for individual languages from an already prepared general profile.
+    lexibank.load       Load dataset(s) into the lexibank SQLite database.
+    lexibank.ls         List lexibank datasets - installed or loaded into the db.
+    lexibank.makecldf   Run makecldf command of a dataset
+    lexibank.readme     Write dataset metadata to a README.md in the dataset's directory.
+    lexibank.unload     Load dataset(s) into the lexibank SQLite database.
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench ci
+usage: cldfbench ci [-h] [--entry-point ENTRY_POINT] [--glob] DATASET
+cldfbench ci: error: the following arguments are required: DATASET
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench ci -h
+usage: cldfbench ci [-h] [--entry-point ENTRY_POINT] [--glob] DATASET
+
+Setup CLDF validation as CI service via GitHub actions.
+
+positional arguments:
+  DATASET               Dataset spec, either ID of installed dataset or path to python module or simplified glob pattern (where _ is understood as *) specifying python
+                        modules (requires --glob option!) or just _, which will match all datasets of the given --entry-point.
+
+options:
+  -h, --help            show this help message and exit
+  --entry-point ENTRY_POINT
+                        Name of entry_points to identify datasets (default: cldfbench.dataset)
+  --glob                Interpret DATASET as simplified glob pattern relative to cwd. (default: False)
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench ci oudemans1879
+ERROR:
+Invalid dataset spec: <cldfbench.dataset> oudemans1879
+
+
+usage: cldfbench ci [-h] [--entry-point ENTRY_POINT] [--glob] DATASET
+
+Setup CLDF validation as CI service via GitHub actions.
+
+positional arguments:
+  DATASET               Dataset spec, either ID of installed dataset or path to python module or simplified glob pattern (where _ is understood as *) specifying python
+                        modules (requires --glob option!) or just _, which will match all datasets of the given --entry-point.
+
+options:
+  -h, --help            show this help message and exit
+  --entry-point ENTRY_POINT
+                        Name of entry_points to identify datasets (default: cldfbench.dataset)
+  --glob                Interpret DATASET as simplified glob pattern relative to cwd. (default: False)
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench ci _ --glob True
+usage: cldfbench [-h] [--log-level LOG_LEVEL] [-z FIELD_SIZE_LIMIT] [--random-seed RANDOM_SEED] COMMAND ...
+cldfbench: error: unrecognized arguments: True
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench ci --glob True _
+usage: cldfbench [-h] [--log-level LOG_LEVEL] [-z FIELD_SIZE_LIMIT] [--random-seed RANDOM_SEED] COMMAND ...
+cldfbench: error: unrecognized arguments: _
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench ci --glob True oudemans1879
+usage: cldfbench [-h] [--log-level LOG_LEVEL] [-z FIELD_SIZE_LIMIT] [--random-seed RANDOM_SEED] COMMAND ...
+cldfbench: error: unrecognized arguments: oudemans1879
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench ci --glob True
+ERROR:
+Invalid dataset spec: <cldfbench.dataset> True
+
+
+usage: cldfbench ci [-h] [--entry-point ENTRY_POINT] [--glob] DATASET
+
+Setup CLDF validation as CI service via GitHub actions.
+
+positional arguments:
+  DATASET               Dataset spec, either ID of installed dataset or path to python module or simplified glob pattern (where _ is understood as *) specifying python
+                        modules (requires --glob option!) or just _, which will match all datasets of the given --entry-point.
+
+options:
+  -h, --help            show this help message and exit
+  --entry-point ENTRY_POINT
+                        Name of entry_points to identify datasets (default: cldfbench.dataset)
+  --glob                Interpret DATASET as simplified glob pattern relative to cwd. (default: False)
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench ci --glob *
+ERROR:
+Invalid dataset spec: <cldfbench.dataset> *
+
+
+usage: cldfbench ci [-h] [--entry-point ENTRY_POINT] [--glob] DATASET
+
+Setup CLDF validation as CI service via GitHub actions.
+
+positional arguments:
+  DATASET               Dataset spec, either ID of installed dataset or path to python module or simplified glob pattern (where _ is understood as *) specifying python
+                        modules (requires --glob option!) or just _, which will match all datasets of the given --entry-point.
+
+options:
+  -h, --help            show this help message and exit
+  --entry-point ENTRY_POINT
+                        Name of entry_points to identify datasets (default: cldfbench.dataset)
+  --glob                Interpret DATASET as simplified glob pattern relative to cwd. (default: False)
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench ci --entry-point --glob _
+usage: cldfbench ci [-h] [--entry-point ENTRY_POINT] [--glob] DATASET
+cldfbench ci: error: argument --entry-point: expected one argument
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench ci -h
+usage: cldfbench ci [-h] [--entry-point ENTRY_POINT] [--glob] DATASET
+
+Setup CLDF validation as CI service via GitHub actions.
+
+positional arguments:
+  DATASET               Dataset spec, either ID of installed dataset or path to python module or simplified glob pattern (where _ is understood as *) specifying python
+                        modules (requires --glob option!) or just _, which will match all datasets of the given --entry-point.
+
+options:
+  -h, --help            show this help message and exit
+  --entry-point ENTRY_POINT
+                        Name of entry_points to identify datasets (default: cldfbench.dataset)
+  --glob                Interpret DATASET as simplified glob pattern relative to cwd. (default: False)
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench ci _
+ERROR:
+Invalid dataset spec: <cldfbench.dataset> _
+
+
+usage: cldfbench ci [-h] [--entry-point ENTRY_POINT] [--glob] DATASET
+
+Setup CLDF validation as CI service via GitHub actions.
+
+positional arguments:
+  DATASET               Dataset spec, either ID of installed dataset or path to python module or simplified glob pattern (where _ is understood as *) specifying python
+                        modules (requires --glob option!) or just _, which will match all datasets of the given --entry-point.
+
+options:
+  -h, --help            show this help message and exit
+  --entry-point ENTRY_POINT
+                        Name of entry_points to identify datasets (default: cldfbench.dataset)
+  --glob                Interpret DATASET as simplified glob pattern relative to cwd. (default: False)
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench ci
+usage: cldfbench ci [-h] [--entry-point ENTRY_POINT] [--glob] DATASET
+cldfbench ci: error: the following arguments are required: DATASET
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench ci "oudemans1879"
+ERROR:
+Invalid dataset spec: <cldfbench.dataset> oudemans1879
+
+
+usage: cldfbench ci [-h] [--entry-point ENTRY_POINT] [--glob] DATASET
+
+Setup CLDF validation as CI service via GitHub actions.
+
+positional arguments:
+  DATASET               Dataset spec, either ID of installed dataset or path to python module or simplified glob pattern (where _ is understood as *) specifying python
+                        modules (requires --glob option!) or just _, which will match all datasets of the given --entry-point.
+
+options:
+  -h, --help            show this help message and exit
+  --entry-point ENTRY_POINT
+                        Name of entry_points to identify datasets (default: cldfbench.dataset)
+  --glob                Interpret DATASET as simplified glob pattern relative to cwd. (default: False)
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench ls
+usage: cldfbench ls [-h] [--entry-point ENTRY_POINT] [--glob] [--modules] DATASET
+cldfbench ls: error: the following arguments are required: DATASET
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>pwd
+'pwd' is not recognized as an internal or external command,
+operable program or batch file.
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench ls -h
+usage: cldfbench ls [-h] [--entry-point ENTRY_POINT] [--glob] [--modules] DATASET
+
+List installed datasets.
+
+positional arguments:
+  DATASET               Dataset spec, either ID of installed dataset or path to python module or simplified glob pattern (where _ is understood as *) specifying python
+                        modules (requires --glob option!) or just _, which will match all datasets of the given --entry-point.
+
+options:
+  -h, --help            show this help message and exit
+  --entry-point ENTRY_POINT
+                        Name of entry_points to identify datasets (default: cldfbench.dataset)
+  --glob                Interpret DATASET as simplified glob pattern relative to cwd. (default: False)
+  --modules             List only python modules, suitable as DATASET arguments for other commands. (default: False)
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench ci .
+ERROR:
+Invalid dataset spec: <cldfbench.dataset> .
+
+
+usage: cldfbench ci [-h] [--entry-point ENTRY_POINT] [--glob] DATASET
+
+Setup CLDF validation as CI service via GitHub actions.
+
+positional arguments:
+  DATASET               Dataset spec, either ID of installed dataset or path to python module or simplified glob pattern (where _ is understood as *) specifying python
+                        modules (requires --glob option!) or just _, which will match all datasets of the given --entry-point.
+
+options:
+  -h, --help            show this help message and exit
+  --entry-point ENTRY_POINT
+                        Name of entry_points to identify datasets (default: cldfbench.dataset)
+  --glob                Interpret DATASET as simplified glob pattern relative to cwd. (default: False)
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench ci cldfbench.dataset Dataset.id
+usage: cldfbench [-h] [--log-level LOG_LEVEL] [-z FIELD_SIZE_LIMIT] [--random-seed RANDOM_SEED] COMMAND ...
+cldfbench: error: unrecognized arguments: Dataset.id
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench ci cldfbench.dataset "oudemans1879"
+usage: cldfbench [-h] [--log-level LOG_LEVEL] [-z FIELD_SIZE_LIMIT] [--random-seed RANDOM_SEED] COMMAND ...
+cldfbench: error: unrecognized arguments: oudemans1879
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench ci cldfbench.dataset _oudemans1879
+usage: cldfbench [-h] [--log-level LOG_LEVEL] [-z FIELD_SIZE_LIMIT] [--random-seed RANDOM_SEED] COMMAND ...
+cldfbench: error: unrecognized arguments: _oudemans1879
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cd ..
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research>cldfbench ci oudemans1879
+ERROR:
+Invalid dataset spec: <cldfbench.dataset> oudemans1879
+
+
+usage: cldfbench ci [-h] [--entry-point ENTRY_POINT] [--glob] DATASET
+
+Setup CLDF validation as CI service via GitHub actions.
+
+positional arguments:
+  DATASET               Dataset spec, either ID of installed dataset or path to python module or simplified glob pattern (where _ is understood as *) specifying python
+                        modules (requires --glob option!) or just _, which will match all datasets of the given --entry-point.
+
+options:
+  -h, --help            show this help message and exit
+  --entry-point ENTRY_POINT
+                        Name of entry_points to identify datasets (default: cldfbench.dataset)
+  --glob                Interpret DATASET as simplified glob pattern relative to cwd. (default: False)
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research>cd oudemans1879
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/.transcription-report.json
+INFO    Summary for dataset C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldf\cldf-metadata.json
+- **Varieties:** 3
+- **Concepts:** 155
+- **Lexemes:** 426
+- **Sources:** 1
+- **Synonymy:** 1.02
+- **Invalid lexemes:** 0
+- **Tokens:** 5,355
+- **Segments:** 36 (6 BIPA errors, 5 CLTS sound class errors, 30 CLTS modified)
+- **Inventory size (avg):** 31.00
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/TRANSCRIPTION.md
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/lingpy-rcParams.json
+INFO    ... done oudemans1879 [67.5 secs]
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Users\GRajeg\OneDrive -
+ Nexus365\Documents\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/.transcription-report.json
+INFO    Summary for dataset C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldf\cldf-metadata.json
+- **Varieties:** 3
+- **Concepts:** 155
+- **Lexemes:** 426
+- **Sources:** 1
+- **Synonymy:** 1.02
+- **Invalid lexemes:** 0
+- **Tokens:** 5,355
+- **Segments:** 36 (6 BIPA errors, 5 CLTS sound class errors, 30 CLTS modified)
+- **Inventory size (avg):** 31.00
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/TRANSCRIPTION.md
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/lingpy-rcParams.json
+INFO    ... done oudemans1879 [59.2 secs]
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+Traceback (most recent call last):
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\csvw\metadata.py", line 1377, in iterdicts
+    res[col.header] = col.read(v, strict=strict)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\csvw\metadata.py", line 773, in read
+    raise ValueError('required column value is missing')
+ValueError: required column value is missing
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Scripts\cldfbench.exe\__main__.py", line 7, in <module>
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\__main__.py", line 89, in main
+    return args.main(args) or 0
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\commands\makecldf.py", line 24, in run
+    with_dataset(args, 'makecldf', dataset=dataset)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\cli_util.py", line 161, in with_dataset
+    res = func(*arg, args)
+          ^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\dataset.py", line 218, in _cmd_makecldf
+    super()._cmd_makecldf(args)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\dataset.py", line 210, in _cmd_makecldf
+    self.cmd_makecldf(args)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldfbench_oudemans1879.py", line 68, in cmd_makecldf
+    args.writer.add_forms_from_value(
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\cldf.py", line 227, in add_forms_from_value
+    kw_ = self.add_form(with_morphemes=with_morphemes, **kw_)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\cldf.py", line 197, in add_form
+    self.tokenize(kw, form, **(dict(profile=profile) if profile else {})) or [])
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\cldf.py", line 127, in tokenize
+    if self.dataset.tokenizer:
+       ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\clldutils\misc.py", line 241, in __get__
+    result = instance.__dict__[self.__name__] = self.fget(instance)
+                                                ^^^^^^^^^^^^^^^^^^^
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Scripts\cldfbench.exe\__main__.py", line 7, in <module>
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\__main__.py", line 89, in main
+    return args.main(args) or 0
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\commands\makecldf.py", line 24, in run
+    with_dataset(args, 'makecldf', dataset=dataset)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\cli_util.py", line 161, in with_dataset
+    res = func(*arg, args)
+          ^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\dataset.py", line 218, in _cmd_makecldf
+    super()._cmd_makecldf(args)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\dataset.py", line 210, in _cmd_makecldf
+    self.cmd_makecldf(args)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldfbench_oudemans1879.py", line 67, in cmd_makecldf
+    args.writer.add_form_with_segments( # this add_form_with_segments() is used when to include the Segments info from the raw data (this function also requires explicit statement of the addition of the Form variable). But, args.writer.add_forms_from_value is used when we can ignore the Segments variable
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\cldf.py", line 149, in add_form_with_segments
+    lexeme = self._add_object(self.dataset.lexeme_class, **kw)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\cldf.py", line 241, in _add_object
+    d = attr.asdict(cls(**kw))
+                    ^^^^^^^^^
+TypeError: CustomLexeme.__init__() got an unexpected keyword argument 'Grapheme'
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Users\GRajeg\OneDrive - Nexus365\D
+ocuments\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/.transcription-report.json
+INFO    Summary for dataset C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldf\cldf-metadata.json
+- **Varieties:** 3
+- **Concepts:** 155
+- **Lexemes:** 426
+- **Sources:** 1
+- **Synonymy:** 1.02
+- **Invalid lexemes:** 0
+- **Tokens:** 5,355
+- **Segments:** 36 (6 BIPA errors, 5 CLTS sound class errors, 30 CLTS modified)
+- **Inventory size (avg):** 31.00
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/TRANSCRIPTION.md
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/lingpy-rcParams.json
+INFO    ... done oudemans1879 [74.3 secs]
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench
+lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Users\GRajeg\OneDrive - Ne
+xus365\Documents\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Us
+ers\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/.transcription-report.json
+INFO    Summary for dataset C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldf\cldf-metadata.json
+- **Varieties:** 3
+- **Concepts:** 155
+- **Lexemes:** 426
+- **Sources:** 1
+- **Synonymy:** 1.02
+- **Invalid lexemes:** 0
+- **Tokens:** 5,355
+- **Segments:** 36 (6 BIPA errors, 5 CLTS sound class errors, 30 CLTS modified)
+INFO    ... done oudemans1879 [62.9 secs]
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>lingpy profile --clts --cldf --column=value --context -i cldf.cldf-metadata.json -o etc/orthography.tsv
+2025-02-18 16:39:33,501 [INFO] Successfully changed parameters.
+2025-02-18 16:39:33,501 [INFO] Successfully changed parameters.
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Scripts\lingpy.exe\__main__.py", line 7, in <module>
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\cli.py", line 677, in main
+    return _cmd_by_name(args.subcommand)(args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\cli.py", line 308, in __call__
+    wl = lingpy.basic.wordlist.Wordlist.from_cldf(args.input_file)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\basic\wordlist.py", line 1133, in from_cldf
+    raise FileNotFoundError('{:} does not exist'.format(fname))
+FileNotFoundError: cldf.cldf-metadata.json does not exist
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>lingpy profile --clts --cldf --column=value --context -i cldf/cldf-metadata.json -o etc/orthography.tsv
+2025-02-18 16:40:10,509 [INFO] Successfully changed parameters.
+2025-02-18 16:40:10,509 [INFO] Successfully changed parameters.
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Scripts\lingpy.exe\__main__.py", line 7, in <module>
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\cli.py", line 677, in main
+    return _cmd_by_name(args.subcommand)(args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\cli.py", line 308, in __call__
+    wl = lingpy.basic.wordlist.Wordlist.from_cldf(args.input_file)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\basic\wordlist.py", line 1204, in from_cldf
+    D[idx] = [datatypes.get(
+              ^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\basictypes.py", line 58, in __init__
+    self.n = [strings(x) for x in (' '.join(iterable).split(sep) if not
+                                   ^^^^^^^^^^^^^^^^^^
+TypeError: sequence item 1: expected str instance, NoneType found
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>lingpy profile --clts --cldf --column=form --context -i cldf/cldf-metadata.json -o etc/orthography.tsv
+2025-02-18 16:40:29,104 [INFO] Successfully changed parameters.
+2025-02-18 16:40:29,104 [INFO] Successfully changed parameters.
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Scripts\lingpy.exe\__main__.py", line 7, in <module>
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\cli.py", line 677, in main
+    return _cmd_by_name(args.subcommand)(args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\cli.py", line 308, in __call__
+    wl = lingpy.basic.wordlist.Wordlist.from_cldf(args.input_file)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\basic\wordlist.py", line 1204, in from_cldf
+    D[idx] = [datatypes.get(
+              ^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\basictypes.py", line 58, in __init__
+    self.n = [strings(x) for x in (' '.join(iterable).split(sep) if not
+                                   ^^^^^^^^^^^^^^^^^^
+TypeError: sequence item 1: expected str instance, NoneType found
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>lingpy profile --clts --cldf --column=form --context -i cldf/cldf-metadata.json -o etc/orthography.tsv
+2025-02-18 16:41:58,707 [INFO] Successfully changed parameters.
+2025-02-18 16:41:58,708 [INFO] Successfully changed parameters.
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Scripts\lingpy.exe\__main__.py", line 7, in <module>
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\cli.py", line 677, in main
+    return _cmd_by_name(args.subcommand)(args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\cli.py", line 308, in __call__
+    wl = lingpy.basic.wordlist.Wordlist.from_cldf(args.input_file)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\basic\wordlist.py", line 1204, in from_cldf
+    D[idx] = [datatypes.get(
+              ^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\basictypes.py", line 58, in __init__
+    self.n = [strings(x) for x in (' '.join(iterable).split(sep) if not
+                                   ^^^^^^^^^^^^^^^^^^
+TypeError: sequence item 1: expected str instance, NoneType found
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>lingpy profile --clts --cldf --column=value --context -i cldf/cldf-metadata.json -o etc/orthography.tsv
+2025-02-18 16:42:33,119 [INFO] Successfully changed parameters.
+2025-02-18 16:42:33,120 [INFO] Successfully changed parameters.
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Scripts\lingpy.exe\__main__.py", line 7, in <module>
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\cli.py", line 677, in main
+    return _cmd_by_name(args.subcommand)(args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\cli.py", line 308, in __call__
+    wl = lingpy.basic.wordlist.Wordlist.from_cldf(args.input_file)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\basic\wordlist.py", line 1204, in from_cldf
+    D[idx] = [datatypes.get(
+              ^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\basictypes.py", line 58, in __init__
+    self.n = [strings(x) for x in (' '.join(iterable).split(sep) if not
+                                   ^^^^^^^^^^^^^^^^^^
+TypeError: sequence item 1: expected str instance, NoneType found
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>lingpy profile --clts --cldf --column=form --context -i cldf/cldf-metadata.json -o etc/orthography.tsv
+2025-02-18 16:44:03,217 [INFO] Successfully changed parameters.
+2025-02-18 16:44:03,217 [INFO] Successfully changed parameters.
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Scripts\lingpy.exe\__main__.py", line 7, in <module>
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\cli.py", line 677, in main
+    return _cmd_by_name(args.subcommand)(args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\cli.py", line 308, in __call__
+    wl = lingpy.basic.wordlist.Wordlist.from_cldf(args.input_file)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\basic\wordlist.py", line 1204, in from_cldf
+    D[idx] = [datatypes.get(
+              ^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\lingpy\basictypes.py", line 58, in __init__
+    self.n = [strings(x) for x in (' '.join(iterable).split(sep) if not
+                                   ^^^^^^^^^^^^^^^^^^
+TypeError: sequence item 1: expected str instance, NoneType found
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+Traceback (most recent call last):
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\csvw\metadata.py", line 1377, in iterdicts
+    res[col.header] = col.read(v, strict=strict)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\csvw\metadata.py", line 773, in read
+    raise ValueError('required column value is missing')
+ValueError: required column value is missing
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Scripts\cldfbench.exe\__main__.py", line 7, in <module>
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\__main__.py", line 89, in main
+    return args.main(args) or 0
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\commands\makecldf.py", line 24, in run
+    with_dataset(args, 'makecldf', dataset=dataset)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\cli_util.py", line 161, in with_dataset
+    res = func(*arg, args)
+          ^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\dataset.py", line 218, in _cmd_makecldf
+    super()._cmd_makecldf(args)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\dataset.py", line 210, in _cmd_makecldf
+    self.cmd_makecldf(args)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldfbench_oudemans1879.py", line 68, in cmd_makecldf
+    args.writer.add_forms_from_value(
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\cldf.py", line 227, in add_forms_from_value
+    kw_ = self.add_form(with_morphemes=with_morphemes, **kw_)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\cldf.py", line 197, in add_form
+    self.tokenize(kw, form, **(dict(profile=profile) if profile else {})) or [])
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\cldf.py", line 127, in tokenize
+    if self.dataset.tokenizer:
+       ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\clldutils\misc.py", line 241, in __get__
+    result = instance.__dict__[self.__name__] = self.fget(instance)
+                                                ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\dataset.py", line 175, in tokenizer
+    for k, p in self.orthography_profile_dict.items()}
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\clldutils\misc.py", line 241, in __get__
+    result = instance.__dict__[self.__name__] = self.fget(instance)
+                                                ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\dataset.py", line 148, in orthography_profile_dict
+    return {k: Profile.from_file(str(p), form='NFC') for k, p in res.items()}
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\segments\profile.py", line 123, in from_file
+    *[{k: None if (k != cls.GRAPHEME_COL and v == cls.NULL) else v
+     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\csvw\metadata.py", line 1384, in iterdicts
+e
+    raise exception_cls(msg)
+ValueError: C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\etc\orthography\Enggano.tsv:23:1 Grapheme: required column value is missing
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+Traceback (most recent call last):
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\csvw\metadata.py", line 1377, in iterdicts
+    res[col.header] = col.read(v, strict=strict)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\csvw\metadata.py", line 773, in read
+    raise ValueError('required column value is missing')
+ValueError: required column value is missing
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Scripts\cldfbench.exe\__main__.py", line 7, in <module>
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\__main__.py", line 89, in main
+    return args.main(args) or 0
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\commands\makecldf.py", line 24, in run
+    with_dataset(args, 'makecldf', dataset=dataset)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\cli_util.py", line 161, in with_dataset
+    res = func(*arg, args)
+          ^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\dataset.py", line 218, in _cmd_makecldf
+    super()._cmd_makecldf(args)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\dataset.py", line 210, in _cmd_makecldf
+    self.cmd_makecldf(args)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldfbench_oudemans1879.py", line 68, in cmd_makecldf
+    args.writer.add_forms_from_value(
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\cldf.py", line 227, in add_forms_from_value
+    kw_ = self.add_form(with_morphemes=with_morphemes, **kw_)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\cldf.py", line 197, in add_form
+    self.tokenize(kw, form, **(dict(profile=profile) if profile else {})) or [])
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\cldf.py", line 127, in tokenize
+    if self.dataset.tokenizer:
+       ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\clldutils\misc.py", line 241, in __get__
+    result = instance.__dict__[self.__name__] = self.fget(instance)
+                                                ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\dataset.py", line 175, in tokenizer
+    for k, p in self.orthography_profile_dict.items()}
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\clldutils\misc.py", line 241, in __get__
+    result = instance.__dict__[self.__name__] = self.fget(instance)
+                                                ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\dataset.py", line 148, in orthography_profile_dict
+    return {k: Profile.from_file(str(p), form='NFC') for k, p in res.items()}
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\segments\profile.py", line 123, in from_file
+    *[{k: None if (k != cls.GRAPHEME_COL and v == cls.NULL) else v
+     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\csvw\metadata.py", line 1384, in iterdicts
+    log_or_raise(
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\csvw\metadata.py", line 192, in log_or_raise
+    raise exception_cls(msg)
+ValueError: C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\etc\orthography\Enggano.tsv:23:1 Grapheme: required column value is missing
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Users\GRajeg\OneDrive - Nexus365\D
+ocuments\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Scripts\cldfbench.exe\__main__.py", line 7, in <module>
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\__main__.py", line 89, in main
+    return args.main(args) or 0
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\commands\makecldf.py", line 24, in run
+    with_dataset(args, 'makecldf', dataset=dataset)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\cli_util.py", line 161, in with_dataset
+    res = func(*arg, args)
+          ^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\dataset.py", line 218, in _cmd_makecldf
+    super()._cmd_makecldf(args)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\dataset.py", line 210, in _cmd_makecldf
+    self.cmd_makecldf(args)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldfbench_oudemans1879.py", line 78, in cmd_makecldf
+    Value=row["Language_ID"], # this column takes the original transcription
+          ~~~^^^^^^^^^^^^^^^
+KeyError: 'Language_ID'
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Users\GRajeg\OneDrive - Nexus365\D
+ocuments\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Scripts\cldfbench.exe\__main__.py", line 7, in <module>
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\__main__.py", line 89, in main
+    return args.main(args) or 0
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\commands\makecldf.py", line 24, in run
+    with_dataset(args, 'makecldf', dataset=dataset)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\cli_util.py", line 161, in with_dataset
+    res = func(*arg, args)
+          ^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\dataset.py", line 218, in _cmd_makecldf
+    super()._cmd_makecldf(args)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\dataset.py", line 210, in _cmd_makecldf
+    self.cmd_makecldf(args)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldfbench_oudemans1879.py", line 79, in cmd_makecldf
+    Profile=row["Language_ID"],
+            ~~~^^^^^^^^^^^^^^^
+KeyError: 'Language_ID'
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Users\GRajeg\OneDrive - Nexus365\D
+ocuments\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+Traceback (most recent call last):
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\csvw\metadata.py", line 1377, in iterdicts
+    res[col.header] = col.read(v, strict=strict)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\csvw\metadata.py", line 773, in read
+    raise ValueError('required column value is missing')
+ValueError: required column value is missing
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Scripts\cldfbench.exe\__main__.py", line 7, in <module>
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\__main__.py", line 89, in main
+    return args.main(args) or 0
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\commands\makecldf.py", line 24, in run
+    with_dataset(args, 'makecldf', dataset=dataset)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\cli_util.py", line 161, in with_dataset
+    res = func(*arg, args)
+          ^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\dataset.py", line 218, in _cmd_makecldf
+    super()._cmd_makecldf(args)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\cldfbench\dataset.py", line 210, in _cmd_makecldf
+    self.cmd_makecldf(args)
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldfbench_oudemans1879.py", line 68, in cmd_makecldf
+    args.writer.add_forms_from_value(
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\cldf.py", line 227, in add_forms_from_value
+    kw_ = self.add_form(with_morphemes=with_morphemes, **kw_)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\cldf.py", line 197, in add_form
+    self.tokenize(kw, form, **(dict(profile=profile) if profile else {})) or [])
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\cldf.py", line 127, in tokenize
+    if self.dataset.tokenizer:
+       ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\clldutils\misc.py", line 241, in __get__
+    result = instance.__dict__[self.__name__] = self.fget(instance)
+                                                ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\dataset.py", line 175, in tokenizer
+    for k, p in self.orthography_profile_dict.items()}
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\clldutils\misc.py", line 241, in __get__
+    result = instance.__dict__[self.__name__] = self.fget(instance)
+                                                ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\pylexibank\dataset.py", line 148, in orthography_profile_dict
+    return {k: Profile.from_file(str(p), form='NFC') for k, p in res.items()}
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\segments\profile.py", line 123, in from_file
+    *[{k: None if (k != cls.GRAPHEME_COL and v == cls.NULL) else v
+     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\csvw\metadata.py", line 1384, in iterdicts
+    log_or_raise(
+  File "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\.venv\Lib\site-packages\csvw\metadata.py", line 192, in log_or_raise
+    raise exception_cls(msg)
+ValueError: C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\etc\orthography\Enggano.tsv:23:1 Grapheme: required column value is missing
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Users\GRajeg\OneDrive - Nexus365\D
+ocuments\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/.transcription-report.json
+INFO    Summary for dataset C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldf\cldf-metadata.json
+- **Varieties:** 3
+- **Concepts:** 155
+- **Lexemes:** 426
+- **Sources:** 1
+- **Synonymy:** 1.02
+- **Invalid lexemes:** 0
+- **Tokens:** 2,818
+- **Segments:** 39 (3 BIPA errors, 3 CLTS sound class errors, 36 CLTS modified)
+- **Inventory size (avg):** 33.33
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/TRANSCRIPTION.md
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/lingpy-rcParams.json
+INFO    ... done oudemans1879 [65.9 secs]
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Users\GRajeg\OneDrive - Nexus365\D
+ocuments\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/.transcription-report.json
+INFO    Summary for dataset C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldf\cldf-metadata.json
+- **Varieties:** 3
+- **Concepts:** 155
+- **Lexemes:** 426
+- **Sources:** 1
+- **Synonymy:** 1.02
+- **Invalid lexemes:** 0
+- **Tokens:** 2,818
+- **Segments:** 39 (3 BIPA errors, 3 CLTS sound class errors, 36 CLTS modified)
+- **Inventory size (avg):** 33.33
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/TRANSCRIPTION.md
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/lingpy-rcParams.json
+INFO    ... done oudemans1879 [58.3 secs]
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Users\GRajeg\OneDrive - Nexus365\D
+ocuments\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/.transcription-report.json
+INFO    Summary for dataset C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldf\cldf-metadata.json
+- **Varieties:** 3
+- **Concepts:** 155
+- **Lexemes:** 426
+- **Sources:** 1
+- **Synonymy:** 1.02
+- **Invalid lexemes:** 0
+- **Tokens:** 2,817
+- **Segments:** 38 (2 BIPA errors, 2 CLTS sound class errors, 36 CLTS modified)
+- **Inventory size (avg):** 32.67
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/TRANSCRIPTION.md
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/lingpy-rcParams.json
+INFO    ... done oudemans1879 [61.4 secs]
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Us
+ers\GRajeg\OneDrive - Nexus365\Documents\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/.transcription-report.json
+INFO    Summary for dataset C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldf\cldf-metadata.json
+- **Varieties:** 3
+- **Concepts:** 155
+- **Lexemes:** 426
+- **Sources:** 1
+- **Synonymy:** 1.02
+- **Invalid lexemes:** 0
+- **Tokens:** 2,817
+- **Segments:** 38 (2 BIPA errors, 2 CLTS sound class errors, 36 CLTS modified)
+- **Inventory size (avg):** 32.67
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/TRANSCRIPTION.md
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/lingpy-rcParams.json
+INFO    ... done oudemans1879 [113.8 secs]
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Us
+ers\GRajeg\OneDrive - Nexus365\Documents\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/.transcription-report.json
+INFO    Summary for dataset C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldf\cldf-metadata.json
+- **Varieties:** 3
+- **Concepts:** 155
+- **Lexemes:** 426
+- **Sources:** 1
+- **Synonymy:** 1.02
+- **Invalid lexemes:** 0
+- **Tokens:** 2,817
+- **Segments:** 37 (1 BIPA errors, 1 CLTS sound class errors, 36 CLTS modified)
+- **Inventory size (avg):** 32.00
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/TRANSCRIPTION.md
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/lingpy-rcParams.json
+INFO    ... done oudemans1879 [119.1 secs]
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Us
+ers\GRajeg\OneDrive - Nexus365\Documents\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/.transcription-report.json
+INFO    Summary for dataset C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldf\cldf-metadata.json
+- **Varieties:** 3
+- **Concepts:** 155
+- **Lexemes:** 426
+- **Sources:** 1
+- **Synonymy:** 1.02
+- **Invalid lexemes:** 0
+- **Tokens:** 2,817
+- **Segments:** 37 (1 BIPA errors, 1 CLTS sound class errors, 36 CLTS modified)
+- **Inventory size (avg):** 32.00
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/TRANSCRIPTION.md
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/lingpy-rcParams.json
+INFO    ... done oudemans1879 [128.4 secs]
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>cldfbench lexibank.makecldf cldfbench_oudemans1879.py --glottolog "C:\Us
+ers\GRajeg\OneDrive - Nexus365\Documents\cldf\glottolog-v5.1\glottolog-glottolog-2e1fce1" --concepticon "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\concepticon-data" --clts "C:\Users\GRajeg\OneDrive - Nexus365\Documents\cldf\clts"
+INFO    running _cmd_makecldf on oudemans1879 ...
+INFO    added sources
+INFO    added concepts
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/.transcription-report.json
+INFO    Summary for dataset C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879\cldf\cldf-metadata.json
+- **Varieties:** 3
+- **Concepts:** 155
+- **Lexemes:** 426
+- **Sources:** 1
+- **Synonymy:** 1.02
+- **Invalid lexemes:** 0
+- **Tokens:** 2,820
+- **Segments:** 36 (0 BIPA errors, 0 CLTS sound class errors, 36 CLTS modified)
+- **Inventory size (avg):** 31.67
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/TRANSCRIPTION.md
+INFO    file written: C:/Users/GRajeg/OneDrive - Nexus365/Documents/Research/oudemans1879/cldf/lingpy-rcParams.json
+INFO    ... done oudemans1879 [108.3 secs]
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>history > cldf-pycharm-terminal-history.txt
+'history' is not recognized as an internal or external command,
+operable program or batch file.
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>history -a cldf-pycharm-terminal-history
+'history' is not recognized as an internal or external command,
+operable program or batch file.
+
+(.venv) C:\Users\GRajeg\OneDrive - Nexus365\Documents\Research\oudemans1879>
+
