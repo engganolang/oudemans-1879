@@ -1,5 +1,10 @@
 # CLDF dataset derived from Oudemans' "Woordenlijst van de Talen van Enggano, Mentawei en Nias" from 1879
 
+*This work is part of the [AHRC-funded research](https://gtr.ukri.org/projects?ref=AH%2FW007290%2F1) to build [lexical resources for Enggano](https://portal.sds.ox.ac.uk/Lexical_resources_for_Enggano), led by the Faculty of Linguistics, Philology and Phonetics at the University of Oxford, UK. Visit the [central webpage of the Enggano research](https://enggano.ling-phil.ox.ac.uk/) and the [main research repository for Enggano](https://portal.sds.ox.ac.uk/Enggano) at the University of Oxford's [Sustainable Digital Scholarship](https://www.sds.ox.ac.uk/) (SDS) platform*.
+
+[![CLDF validation](https://github.com/engganolang/oudemans-1879/workflows/CLDF-validation/badge.svg)](https://github.com/engganolang/oudemans-1879/actions?query=workflow%3ACLDF-validation)
+
+
 ## How to cite
 
 If you use these data please cite
