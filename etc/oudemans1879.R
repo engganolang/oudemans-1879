@@ -110,7 +110,7 @@ orth_eno <- qlcData::tokenize(strings = eno_str,
                                method = "global",
                                ordering = NULL,
                                regex = TRUE,
-                               sep.replace = "#",
+                               sep.replace = "_",
                                normalize = "NFC")
 orth_eno$errors
 orth_eno$missing
@@ -122,7 +122,7 @@ orth_eno_ipa <- qlcData::tokenize(strings = eno_str,
                                   method = "global",
                                   ordering = NULL,
                                   regex = TRUE,
-                                  sep.replace = "#",
+                                  sep.replace = "_",
                                   normalize = "NFC")
 orth_eno_ipa$strings <- orth_eno_ipa$strings |> 
   rename(ipa = transliterated)
@@ -146,7 +146,7 @@ orth_nias <- qlcData::tokenize(strings = nias_str,
                                method = "global",
                                ordering = NULL,
                                regex = TRUE,
-                               sep.replace = "#",
+                               sep.replace = "_",
                                normalize = "NFC")
 orth_nias$errors
 orth_nias$missing
@@ -157,7 +157,7 @@ orth_nias_ipa <- qlcData::tokenize(strings = nias_str,
                                   method = "global",
                                   ordering = NULL,
                                   regex = TRUE,
-                                  sep.replace = "#",
+                                  sep.replace = "_",
                                   normalize = "NFC")
 orth_nias_ipa$strings <- orth_nias_ipa$strings |> 
   rename(ipa = transliterated)
@@ -181,7 +181,7 @@ orth_mtw <- qlcData::tokenize(strings = mtw_str,
                                method = "global",
                                ordering = NULL,
                                regex = TRUE,
-                               sep.replace = "#",
+                               sep.replace = "_",
                                normalize = "NFC")
 
 orth_mtw$errors
@@ -193,7 +193,7 @@ orth_mtw_ipa <- qlcData::tokenize(strings = mtw_str,
                                    method = "global",
                                    ordering = NULL,
                                    regex = TRUE,
-                                   sep.replace = "#",
+                                   sep.replace = "_",
                                    normalize = "NFC")
 orth_mtw_ipa$strings <- orth_mtw_ipa$strings |> 
   rename(ipa = transliterated)
@@ -225,4 +225,6 @@ odm1879_long2 <- odm1879_long1 |>
 # Save the main table into `raw` directory ======
 odm1879_long2 |> 
   mutate(across(where(is.character), ~replace_na(., ""))) |> 
+  mutate(transliterated_unsegmented = str_replace_all(transliterated, " ", "")) |> 
+  relocate(transliterated_unsegmented, .after = transliterated) |> 
   write_tsv("raw/oudemans1879.tsv")
