@@ -1,0 +1,58 @@
+Grapheme	IPA	Frequency
+aoe	a ʔ u	2
+ei	ɛi	4
+oi	ɔi	1
+oe	u	74
+oé	u	0
+iie	i	1
+ie	i	51
+ië	i ʔ e	0
+aè	aɛ	1
+aé	aɛ	0
+ai	ai	7
+tj	t͡ʃ	2
+dj	d͡ʒ	2
+th	t͡ʃ	1
+oh	o	8
+oö	o ʔ o	2
+aä	a ʔ a	1
+(ie)h	ç	1
+(ai)h	ç	0
+(?<!a)ih	ç	1
+-	ʔ	12
+ 	 	56
+\(	(	0
+\)	)	0
+\/	/	0
+\;	;	0
+\[	[	0
+\]	]	0
+!	NULL	1
+a	a	186
+à	a	2
+ä		0
+ā	aː	6
+b	b	23
+c	k	0
+d	d	20
+e	e	57
+é	e	55
+è	ɛ	5
+ë		0
+ē	eː	1
+f	f	56
+h	h	35
+i	i	7
+j	j	21
+k	k	115
+l	l	27
+m	m	17
+n	n	28
+o	ɔ	75
+ô	o	1
+ö		0
+p	p	4
+r	r	10
+s	ç	1
+t	t	17
+w	w	15

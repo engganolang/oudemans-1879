@@ -106,11 +106,6 @@ languages_tsv <- read_tsv("etc/languages.tsv")
 eno_str <- pull(filter(odm1879_long, Doculect == "Enggano"), Forms)
 eno_id <- pull(filter(odm1879_long, Doculect == "Enggano"), ID)
 
-orth_eno_profile <- read_tsv("ortho/_07-oudemans1879_ipa_profile_eno.tsv", col_types = c("ccccccic")) |> 
-  mutate(across(where(is.character), ~replace_na(., ""))) |> 
-  mutate(grp = str_c(Left, Grapheme, Right, sep = "")) |> 
-  select(Grapheme = grp, IPA = Phoneme, CommonTranscription = Replacement)
-
 orth_eno <- qlcData::tokenize(strings = eno_str,
                                profile = "ortho/_07-oudemans1879_ipa_profile_eno.tsv",
                                transliterate = "Replacement",
@@ -140,17 +135,18 @@ orth_eno$strings <- orth_eno$strings |>
   mutate(ID = eno_id) |> 
   as_tibble()
 
+# orth_eno$profile |> 
+#   mutate(grp = str_c(Left, Grapheme, Right, sep = "")) |> 
+#   select(Grapheme = grp, IPA = Phoneme, Frequency) |> 
+#   write_tsv("etc/orthography/Enggano.tsv") # run once and edit directly for the purpose of CLDF creation
+
+
 orth_eno$strings |> 
   write_tsv("ortho/_07-oudemans1879_strings_eno.tsv")
 
 ## Nias ====
 nias_str <- pull(filter(odm1879_long, Doculect == "Nias"), Forms)
 nias_id <- pull(filter(odm1879_long, Doculect == "Nias"), ID)
-
-orth_nias_profile <- read_tsv("ortho/_07-oudemans1879_ipa_profile_nias.tsv", col_types = c("ccccccic")) |> 
-  mutate(across(where(is.character), ~replace_na(., ""))) |> 
-  mutate(grp = str_c(Left, Grapheme, Right, sep = "")) |> 
-  select(Grapheme = grp, IPA = Phoneme, CommonTranscription = Replacement)
 
 orth_nias <- qlcData::tokenize(strings = nias_str,
                                profile = "ortho/_07-oudemans1879_ipa_profile_nias.tsv",
@@ -180,17 +176,18 @@ orth_nias$strings <- orth_nias$strings |>
   mutate(ID = nias_id) |> 
   as_tibble()
 
+# orth_nias$profile |> 
+#   mutate(grp = str_c(Left, Grapheme, Right, sep = "")) |> 
+#   select(Grapheme = grp, IPA = Phoneme, Frequency) |> 
+#   write_tsv("etc/orthography/Nias.tsv") # run once and edit directly for the purpose of CLDF creation
+
+
 orth_nias$strings |> 
   write_tsv("ortho/_07-oudemans1879_strings_nias.tsv")
 
 ## Mentawai =====
 mtw_str <- pull(filter(odm1879_long, Doculect == "Mentawai"), Forms)
 mtw_id <- pull(filter(odm1879_long, Doculect == "Mentawai"), ID)
-
-orth_mtw_profile <- read_tsv("ortho/_07-oudemans1879_ipa_profile_mtw.tsv", col_types = c("ccccccic")) |> 
-  mutate(across(where(is.character), ~replace_na(., ""))) |> 
-  mutate(grp = str_c(Left, Grapheme, Right, sep = "")) |> 
-  select(Grapheme = grp, IPA = Phoneme, CommonTranscription = Replacement)
 
 orth_mtw <- qlcData::tokenize(strings = mtw_str,
                                profile = "ortho/_07-oudemans1879_ipa_profile_mtw.tsv",
@@ -220,6 +217,11 @@ orth_mtw$strings <- orth_mtw$strings |>
               select(ipa)) |> 
   mutate(ID = mtw_id) |> 
   as_tibble()
+
+# orth_mtw$profile |> 
+#   mutate(grp = str_c(Left, Grapheme, Right, sep = "")) |> 
+#   select(Grapheme = grp, IPA = Phoneme, Frequency) |> 
+#   write_tsv("etc/orthography/Mentawai.tsv") # run once and edit directly for the purpose of CLDF creation
 
 orth_mtw$strings |> 
   write_tsv("ortho/_07-oudemans1879_strings_mtw.tsv")

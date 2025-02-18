@@ -11,9 +11,9 @@ class CustomLanguage(Language):
 
 @attr.s
 class CustomLexeme(Lexeme): # to add custom column into forms.csv (looking at Barlow, Russell & Don Killian. 2023. CLDF dataset derived from Barlow and Killian’s "Tomoip Wordlist" from 2023. Zenodo. https://doi.org/10.5281/zenodo.8437515.)
-    IPA = attr.ib(default=None)
+    #IPA = attr.ib(default=None)
     Dutch = attr.ib(default=None)
-    CommonTranscription = attr.ib(default=None)
+    #CommonTranscription = attr.ib(default=None)
 
 @attr.s
 class CustomConcept(Concept):
@@ -64,8 +64,8 @@ class Dataset(BaseDataset):
 
         for idx, row in enumerate(self.raw_dir.read_csv(
             "oudemans1879.tsv", delimiter="\t", dicts=True)):
-            args.writer.add_form_with_segments( # this add_form_with_segments() is used when to include the Segments info from the raw data (this function also requires explicit statement of the addition of the Form variable). But, args.writer.add_forms_from_value is used when we can ignore the Segments variable
-            #args.writer.add_forms_from_value(
+            #args.writer.add_form_with_segments( # this add_form_with_segments() is used when to include the Segments info from the raw data (this function also requires explicit statement of the addition of the Form variable). But, args.writer.add_forms_from_value is used when we can ignore the Segments variable
+            args.writer.add_forms_from_value(
                 Local_ID=row["ID"],
                 Language_ID=row["Doculect"],
                 Dutch=row["Dutch"],
@@ -76,7 +76,8 @@ class Dataset(BaseDataset):
                 Parameter_ID=concepts[row["English"], row["Concepticon_ID"]],
                 # CommonTranscription=row["transliterated_unsegmented"], # this column takes the non-tokenised common transcription
                 Value=row["Forms"], # this column takes the original transcription
+                Profile=row["Doculect"], # <- this code works in the following condition: (i) we have a directory "etc/orthography" containing .tsv file named after the Doculect label for orthography profile for each language, and (ii) using the "args.writer.add_forms_from_value()" method
                 #Value=row["Mentawai"], # specify this line for the Value col. explicitly when args.writer.add_form_with_segments() is used
-                Form=row["transliterated_unsegmented"], # specify this line for the Segments col. explicitly when args.writer.add_form_with_segments() is used
-                Segments=list(row["ipa"]), # specify this line for the Segments col. explicitly when args.writer.add_form_with_segments() is used; the Segments column needs a list (not string), that is why we use the list() function
+                #Form=row["transliterated_unsegmented"], # specify this line for the Segments col. explicitly when args.writer.add_form_with_segments() is used
+                #Segments=list(row["ipa"]), # specify this line for the Segments col. explicitly when args.writer.add_form_with_segments() is used; the Segments column needs a list (not string), that is why we use the list() function
                 Source="oudemans1879")

@@ -14,7 +14,7 @@
         {
             "rdf:about": "git@github.com:engganolang/oudemans-1879",
             "rdf:type": "prov:Entity",
-            "dc:created": "8c2aa55",
+            "dc:created": "d5cf1c0",
             "dc:title": "Repository"
         },
         {
@@ -127,15 +127,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "IPA"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "Dutch"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "CommonTranscription"
                     }
                 ],
                 "foreignKeys": [
