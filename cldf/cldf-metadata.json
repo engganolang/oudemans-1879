@@ -5,7 +5,7 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": "This is an old comparative word list from the second half of the 19th century (Oudemans 1879) for Enggano, Mentawai, and Nias, the three Barrier Islands off the western coast of Sumatra, Indonesia. The Enggano list is integrated into [EnoLEX](https://enggano.shinyapps.io/enolex/) (Krau\u00dfe et al. [2024a](https://doi.org/10.25446/oxford.28282169); Rajeg et al. [2024](https://doi.org/10.25446/oxford.27013864.v1); see also Krau\u00dfe et al. [2024b](https://doi.org/10.25446/oxford.28295648.v1); Rajeg et al. [2025](https://doi.org/10.25446/oxford.28282946.v1)). EnoLEX is a diachronic lexical database for the Enggano language.",
     "dc:isVersionOf": null,
-    "dc:license": "CC-BY-NC-SA 4.0",
+    "dc:license": "CC-BY-NC-SA 4.0 International",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Oudemans' \"Woordenlijst van de Talen van Enggano, Mentawei en Nias\" from 1879",
@@ -14,7 +14,7 @@
         {
             "rdf:about": "git@github.com:engganolang/oudemans-1879",
             "rdf:type": "prov:Entity",
-            "dc:created": "278bead",
+            "dc:created": "8c2aa55",
             "dc:title": "Repository"
         },
         {
@@ -132,6 +132,10 @@
                     {
                         "datatype": "string",
                         "name": "Dutch"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "CommonTranscription"
                     }
                 ],
                 "foreignKeys": [
@@ -226,10 +230,6 @@
                     {
                         "datatype": "string",
                         "name": "Sources"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Doculect_Dutch"
                     }
                 ],
                 "primaryKey": [

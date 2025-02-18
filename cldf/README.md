@@ -12,9 +12,9 @@ property | value
  --- | ---
 [dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Oudemans, Jean Abraham Chrétien. 1879. Woordenlijst van de Talen van Enggano, Mentawei en Nias. Tijdschrift voor Indische Taal-, Land- en Volkenkunde XXV(5–6). 484–488.
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
-[dc:license](http://purl.org/dc/terms/license) | CC-BY-NC-SA 4.0
+[dc:license](http://purl.org/dc/terms/license) | CC-BY-NC-SA 4.0 International
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | git@github.com:engganolang/oudemans-1879
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:engganolang/oudemans-1879/tree/278bead">git@github.com:engganolang/oudemans-1879 278bead</a></li><li><a href="glottolog-glottolog-2e1fce1">Glottolog glottolog-glottolog-2e1fce1</a></li><li><a href="git@github.com:concepticon/concepticon-data/tree/f3544781">Concepticon v3.1.0-146-gf3544781</a></li><li><a href="git@github.com:cldf-clts/clts/tree/4468d3b">CLTS v2.2.0-16-g4468d3b</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:engganolang/oudemans-1879/tree/8c2aa55">git@github.com:engganolang/oudemans-1879 8c2aa55</a></li><li><a href="glottolog-glottolog-2e1fce1">Glottolog glottolog-glottolog-2e1fce1</a></li><li><a href="git@github.com:concepticon/concepticon-data/tree/f3544781">Concepticon v3.1.0-146-gf3544781</a></li><li><a href="git@github.com:cldf-clts/clts/tree/4468d3b">CLTS v2.2.0-16-g4468d3b</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.12.9</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | oudemans1879
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -47,6 +47,7 @@ Name/Property | Datatype | Description
 `Profile` | `string` | 
 `IPA` | `string` | 
 `Dutch` | `string` | 
+`CommonTranscription` | `string` | 
 
 ## <a name="table-languagescsv"></a>Table [languages.csv](./languages.csv)
 
@@ -70,7 +71,6 @@ Name/Property | Datatype | Description
 [Longitude](http://cldf.clld.org/v1.0/terms.rdf#longitude) | `decimal`<br>&ge; -180<br>&le; 180 | 
 `Family` | `string` | 
 `Sources` | `string` | 
-`Doculect_Dutch` | `string` | 
 
 ## <a name="table-parameterscsv"></a>Table [parameters.csv](./parameters.csv)
 

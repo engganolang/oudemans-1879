@@ -12,7 +12,7 @@ If you use these data please cite
 
 This is an old comparative word list from the second half of the 19th century (Oudemans 1879) for Enggano, Mentawai, and Nias, the three Barrier Islands off the western coast of Sumatra, Indonesia. The Enggano list is integrated into [EnoLEX](https://enggano.shinyapps.io/enolex/) (Krauße et al. [2024a](https://doi.org/10.25446/oxford.28282169); Rajeg et al. [2024](https://doi.org/10.25446/oxford.27013864.v1); see also Krauße et al. [2024b](https://doi.org/10.25446/oxford.28295648.v1); Rajeg et al. [2025](https://doi.org/10.25446/oxford.28282946.v1)). EnoLEX is a diachronic lexical database for the Enggano language.
 
-This dataset is licensed under a CC-BY-NC-SA 4.0 license
+This dataset is licensed under a CC-BY-NC-SA 4.0 International license
 
 ## Statistics
 
@@ -35,12 +35,12 @@ This dataset is licensed under a CC-BY-NC-SA 4.0 license
 
 # Contributors
 
-Name               | GitHub user | Description                                  | Role
----                |-------------|----------------------------------------------| ---
-Gede Primahadi Wijaya Rajeg | @gederajeg  | digitisation, code, profile, CLDF conversion | Author, Editor
-Daniel Krauße | | profile | other |
-I Wayan Arka | | | other |
-Mary Dalrymple | | | other |
+Name               | GitHub user | Description                                  | Role           
+---                |-------------|----------------------------------------------|----------------
+Gede Primahadi Wijaya Rajeg | @gederajeg  | digitisation, code, profile, CLDF conversion | Author, Editor 
+Daniel Krauße | | profile | Author, Editor |
+I Wayan Arka | | | Author, other  |
+Mary Dalrymple | | | Author, other  |
 
 
 

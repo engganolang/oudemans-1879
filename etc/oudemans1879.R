@@ -79,6 +79,8 @@ odm1879_long |>
   select(ID, Name, Glottocode, Glottolog_Name = Glottolog_name, Sources) |> 
   write_tsv("etc/languages.tsv")
 
+languages_tsv <- read_tsv("etc/languages.tsv")
+
 # save English translation for concepticon mapping ====
 # concepts_eng <- odm1879_long |> 
 #   select(GLOSS = English) |> 
@@ -103,6 +105,11 @@ odm1879_long |>
 ## Enggano ====
 eno_str <- pull(filter(odm1879_long, Doculect == "Enggano"), Forms)
 eno_id <- pull(filter(odm1879_long, Doculect == "Enggano"), ID)
+
+orth_eno_profile <- read_tsv("ortho/_07-oudemans1879_ipa_profile_eno.tsv", col_types = c("ccccccic")) |> 
+  mutate(across(where(is.character), ~replace_na(., ""))) |> 
+  mutate(grp = str_c(Left, Grapheme, Right, sep = "")) |> 
+  select(Grapheme = grp, IPA = Phoneme, CommonTranscription = Replacement)
 
 orth_eno <- qlcData::tokenize(strings = eno_str,
                                profile = "ortho/_07-oudemans1879_ipa_profile_eno.tsv",
@@ -140,6 +147,11 @@ orth_eno$strings |>
 nias_str <- pull(filter(odm1879_long, Doculect == "Nias"), Forms)
 nias_id <- pull(filter(odm1879_long, Doculect == "Nias"), ID)
 
+orth_nias_profile <- read_tsv("ortho/_07-oudemans1879_ipa_profile_nias.tsv", col_types = c("ccccccic")) |> 
+  mutate(across(where(is.character), ~replace_na(., ""))) |> 
+  mutate(grp = str_c(Left, Grapheme, Right, sep = "")) |> 
+  select(Grapheme = grp, IPA = Phoneme, CommonTranscription = Replacement)
+
 orth_nias <- qlcData::tokenize(strings = nias_str,
                                profile = "ortho/_07-oudemans1879_ipa_profile_nias.tsv",
                                transliterate = "Replacement",
@@ -174,6 +186,11 @@ orth_nias$strings |>
 ## Mentawai =====
 mtw_str <- pull(filter(odm1879_long, Doculect == "Mentawai"), Forms)
 mtw_id <- pull(filter(odm1879_long, Doculect == "Mentawai"), ID)
+
+orth_mtw_profile <- read_tsv("ortho/_07-oudemans1879_ipa_profile_mtw.tsv", col_types = c("ccccccic")) |> 
+  mutate(across(where(is.character), ~replace_na(., ""))) |> 
+  mutate(grp = str_c(Left, Grapheme, Right, sep = "")) |> 
+  select(Grapheme = grp, IPA = Phoneme, CommonTranscription = Replacement)
 
 orth_mtw <- qlcData::tokenize(strings = mtw_str,
                                profile = "ortho/_07-oudemans1879_ipa_profile_mtw.tsv",

@@ -8,12 +8,12 @@ from pylexibank.dataset import Dataset as BaseDataset
 @attr.s
 class CustomLanguage(Language):
     Sources = attr.ib(default=None)
-    Doculect_Dutch = attr.ib(default=None)
 
 @attr.s
 class CustomLexeme(Lexeme): # to add custom column into forms.csv (looking at Barlow, Russell & Don Killian. 2023. CLDF dataset derived from Barlow and Killian’s "Tomoip Wordlist" from 2023. Zenodo. https://doi.org/10.5281/zenodo.8437515.)
     IPA = attr.ib(default=None)
     Dutch = attr.ib(default=None)
+    CommonTranscription = attr.ib(default=None)
 
 @attr.s
 class CustomConcept(Concept):
@@ -74,10 +74,9 @@ class Dataset(BaseDataset):
                 #   That is, we cannot have CONCEPTICON_ID of NA (in raw/main data) but empty in Concepts.tsv data.
                 #   If that is the case, it will throw KeyError such as `KeyError: ('this and that', 'NA')` (in this case, the function found this key: 'this and that', 'NA' in the raw/main data but in the concepts dictionary, it is 'this and that', '', which is different!)
                 Parameter_ID=concepts[row["English"], row["Concepticon_ID"]],
-                # CommonTranscription=row["transliterated"], # this column takes the non-tokenised common transcription
+                # CommonTranscription=row["transliterated_unsegmented"], # this column takes the non-tokenised common transcription
                 Value=row["Forms"], # this column takes the original transcription
                 #Value=row["Mentawai"], # specify this line for the Value col. explicitly when args.writer.add_form_with_segments() is used
-                Form=row["transliterated"], # specify this line for the Segments col. explicitly when args.writer.add_form_with_segments() is used
+                Form=row["transliterated_unsegmented"], # specify this line for the Segments col. explicitly when args.writer.add_form_with_segments() is used
                 Segments=list(row["ipa"]), # specify this line for the Segments col. explicitly when args.writer.add_form_with_segments() is used; the Segments column needs a list (not string), that is why we use the list() function
-                Graphemes=row["tokenized"],
                 Source="oudemans1879")
