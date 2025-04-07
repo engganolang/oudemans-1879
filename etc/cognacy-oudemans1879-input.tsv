@@ -1,0 +1,427 @@
+ID	DOCULECT	CONCEPT	TOKENS	GLOSS_ID	IPA
+1	Enggano	head	e + u l u	1	e+ulu
+2	Mentawai	head	ɔ t e	1	ɔte
+3	Nias	head	h ɛu g e n	1	hɛugen
+4	Enggano	ear	k a l i h a	2	kaliha
+5	Mentawai	ear	t a l i ŋ a	2	taliŋa
+6	Nias	ear	t a l i ŋ a	2	taliŋa
+7	Enggano	nose	e f a n ɔ	3	efanɔ
+8	Mentawai	nose	a s a k	3	asak
+9	Nias	nose	i d ɔ ŋ	3	idɔŋ
+10	Enggano	mouth	e k aː	4	ekaː
+11	Mentawai	mouth	b i b ɔ	4	bibɔ
+12	Nias	mouth	b a b a	4	baba
+13	Enggano	eye	e b aː k a	5	ebaːka
+14	Mentawai	eye	m a t a	5	mata
+15	Nias	eye	m a t a	5	mata
+16	Enggano	chin	e k i	6	eki
+17	Mentawai	chin	b a k e l a	6	bakela
+18	Nias	chin	b ɛ ʙ ɛ	6	bɛʙɛ
+19	Enggano	headhair	f u d u d u ʔ u l u	7	fududuʔulu
+20	Mentawai	headhair	a l ai	7	alai
+21	Nias	headhair	b u ʔ u	7	buʔu
+22	Enggano	beard	f ɔ r ɔ r ɔi f e	8	fɔrɔrɔife
+23	Mentawai	beard	b u l u	8	bulu
+24	Nias	beard	g a ʙ i	8	gaʙi
+25	Enggano	neck	h u n u	9	hunu
+26	Mentawai	neck	l ɔ l ɔ k a t	9	lɔlɔkat
+27	Nias	neck	b a g i	9	bagi
+28	Enggano	breast	e m aː h a	10	emaːha
+29	Mentawai	breast	k a r u k a t	10	karukat
+30	Nias	breast	b a l u d͡ʒ u s ɔ	10	balud͡ʒusɔ
+31	Enggano	belly	k i d aː i	11	kidaːi
+32	Mentawai	belly	b aː k h a	11	baːkha
+33	Nias	belly	d a l u	11	dalu
+34	Enggano	arm	e + a f ɔ	12	e+afɔ
+35	Mentawai	arm	p a r a	12	para
+36	Nias	arm	p a ʔ i ɔ	12	paʔiɔ
+37	Enggano	hand	m i n ɔ + a f ɔ	13	minɔ+afɔ
+38	Enggano	righthand	m i n ɔ + a f ɔ	14	minɔ+afɔ
+39	Mentawai	righthand	t a k i p + k e t͡ʃ ɔ	14	takip+ket͡ʃɔ
+40	Nias	righthand	t a ŋ a n + g a ʙ ɔ l ɔ	14	taŋan+gaʙɔlɔ
+41	Enggano	lefthand	m i n ɔ + a f ɔ	15	minɔ+afɔ
+42	Mentawai	lefthand	t a k i p + t ɔ k	15	takip+tɔk
+43	Nias	lefthand	t a ŋ a n + g a ʙ e r a	15	taŋan+gaʙera
+44	Enggano	finger	m i n ɔ	16	minɔ
+45	Mentawai	finger	s i ŋ ɔ ŋ ai	16	siŋɔŋai
+46	Nias	finger	t u r u	16	turu
+47	Enggano	nail	e k a ç ɔ ʔ a f ɔ	17	ekaçɔʔafɔ
+48	Mentawai	nail	s u l e t	17	sulet
+49	Nias	nail	t ɛ s a a	17	tɛsaa
+50	Enggano	thumb	n ai ʔ a f ɔ	18	naiʔafɔ
+51	Mentawai	thumb	s i k e b u	18	sikebu
+52	Nias	thumb	t u r u + s i a	18	turu+sia
+53	Enggano	indexfinger	e j a r a ʔ a f ɔ	19	ejaraʔafɔ
+54	Mentawai	indexfinger	b e n a ŋ + s e u	19	benaŋ+seu
+55	Enggano	middlefinger	e u ʔ a f ɔ	20	euʔafɔ
+56	Mentawai	middlefinger	k a t e ŋ a	20	kateŋa
+57	Nias	middlefinger	t u r u + w a d a l u	20	turu+wadalu
+58	Enggano	ringfinger	k i f a + e j u + e j u	21	kifa+eju+eju
+59	Mentawai	ringfinger	b a g i t + k a t e ŋ a	21	bagit+kateŋa
+60	Nias	ringfinger	t u r u + t a l u	21	turu+talu
+61	Enggano	littlefinger	m i ɔ ʔ a f ɔ + n u k i	22	miɔʔafɔ+nuki
+62	Mentawai	littlefinger	t o t͡ʃ i ŋ ɔ ŋ ai	22	tot͡ʃiŋɔŋai
+63	Nias	littlefinger	t u r u + s i d e ʔ i d ɛi	22	turu+sideʔidɛi
+64	Enggano	thigh	e p a r a	23	epara
+65	Mentawai	thigh	p e k a p a t	23	pekapat
+66	Nias	thigh	g ai	23	gai
+67	Enggano	knee	e f u	24	efu
+68	Mentawai	knee	b o k e l o	24	bokelo
+69	Nias	knee	b a l u d u h ɔ	24	baluduhɔ
+70	Enggano	womansbreast	e + k ɔ k ɔ	25	e+kɔkɔ
+71	Mentawai	womansbreast	t o t o t	25	totot
+72	Nias	womansbreast	d u s u	25	dusu
+73	Enggano	body	k a r a h a	26	karaha
+74	Mentawai	body	t u b u	26	tubu
+75	Nias	body	b o t o	26	boto
+76	Enggano	person	e t a k k a	27	etakka
+77	Mentawai	person	s e k a l e l ɛ g a t	27	sekalelɛgat
+78	Nias	person	n i h a	27	niha
+79	Enggano	man	e m a n e	28	emane
+80	Nias	man	n i h a + s i m a t u a	28	niha+simatua
+81	Enggano	woman	e h ɔ d a	29	ehɔda
+82	Mentawai	woman	n e n a l e p	29	nenalep
+83	Nias	woman	n i h a + s i h a l aː w e	29	niha+sihalaːwe
+84	Enggano	child	f a m ɔ a	30	famɔa
+85	Mentawai	child	t o g a	30	toga
+86	Nias	child	i r a o n o	30	iraono
+87	Enggano	virgin	e f ai n a m a	31	efainama
+88	Mentawai	virgin	s j o k o	31	sjoko
+89	Nias	virgin	i r a + l a b ɛ	31	ira+labɛ
+90	Enggano	oldpersonm	e k a f u	32	ekafu
+91	Mentawai	oldpersonm	b a d͡ʒ a	32	bad͡ʒa
+92	Nias	oldpersonm	n i h a + s a t u w a	32	niha+satuwa
+93	Enggano	oldpersonf	k a n i j a h e	33	kanijahe
+94	Mentawai	oldpersonf	b a d͡ʒ a	33	bad͡ʒa
+95	Nias	oldpersonf	n i h a + s a t u w a	33	niha+satuwa
+96	Enggano	youngperson	f a n a n a m i	34	fananami
+97	Mentawai	youngperson	s u l ɛ	34	sulɛ
+98	Nias	youngperson	n i h a + s a k a b u j u	34	niha+sakabuju
+99	Enggano	father	a m a m a	35	amama
+100	Mentawai	father	u k u i	35	ukui
+101	Nias	father	a m a	35	ama
+102	Enggano	mother	n ai n a	36	naina
+103	Mentawai	mother	m a n d a + i n a	36	manda+ina
+104	Nias	mother	i n a	36	ina
+105	Enggano	son	e j a r a + e m a n e	37	ejara+emane
+106	Mentawai	son	t o g a + s e m a n t e u	37	toga+semanteu
+107	Nias	son	i r a ɛu m ɛu + s i m a t u w a	37	iraɛumɛu+simatuwa
+108	Enggano	daughter	e j a r a + e h ɔ d a	38	ejara+ehɔda
+109	Mentawai	daughter	s i n a n a l e p	38	sinanalep
+110	Nias	daughter	i r a ɛu m ɛu + s i h a l aː w ɛ	38	iraɛumɛu+sihalaːwɛ
+111	Enggano	uncle	k a h u	39	kahu
+112	Mentawai	uncle	p a m a m a n	39	pamaman
+113	Nias	uncle	a n a s i a k i	39	anasiaki
+114	Enggano	cousinfemale	a ʔ a	40	aʔa
+115	Mentawai	cousinfemale	b u a	40	bua
+116	Nias	cousinfemale	t a l i f u s ɔ	40	talifusɔ
+117	Nias	cousinmale	ɔ n ɔ w i n i ɔ	41	ɔnɔwiniɔ
+118	Enggano	grandfather	u f u n ai	42	ufunai
+119	Enggano	grandmother	u f u n ai	43	ufunai
+120	Enggano	grandson	k o ʔ o f i j u	44	koʔofiju
+121	Enggano	granddaughter	k o ʔ o f i j u	45	koʔofiju
+122	Enggano	loincloth	e a f i	46	eafi
+123	Enggano	dog	e a f i eː	47	eafieː
+124	Mentawai	dog	d͡ʒ o h d͡ʒ o h	47	d͡ʒohd͡ʒoh
+125	Nias	dog	a s u	47	asu
+126	Enggano	pig	k ɔ j ɔ	48	kɔjɔ
+127	Mentawai	pig	s i k o k ɔ	48	sikokɔ
+128	Nias	pig	b a b i	48	babi
+129	Mentawai	deer	s e m a s u r a	49	semasura
+130	Nias	deer	b ɛu h ɛu	49	bɛuhɛu
+131	Enggano	cat	e b e ɔ	50	ebeɔ
+132	Mentawai	cat	m a ʔ u	50	maʔu
+133	Nias	cat	m a ʔ u	50	maʔu
+134	Enggano	rooster	e ɔ k ɛi k ɔ + e m a n e	51	eɔkɛikɔ+emane
+135	Mentawai	rooster	g o g o + ɛi l a l u k	51	gogo+ɛilaluk
+136	Nias	rooster	m a n u + t͡ʃ i l a t a ɔ	51	manu+t͡ʃilataɔ
+137	Enggano	hen	e ɔ k ɛi k ɔ + e h u d a	52	eɔkɛikɔ+ehuda
+138	Mentawai	hen	g o g o + s e m a n ɔ s a	52	gogo+semanɔsa
+139	Nias	hen	m a n u + s i p a g ɛ l ɔ	52	manu+sipagɛlɔ
+140	Enggano	bird	e k e ʔ ɛ f e	53	ekeʔɛfe
+141	Mentawai	bird	u w a	53	uwa
+142	Nias	bird	p ɔ p ɔ	53	pɔpɔ
+143	Mentawai	horse	k u r o	54	kuro
+144	Nias	horse	g u r o	54	guro
+145	Mentawai	cow	d͡ʒ a w i	55	d͡ʒawi
+146	Nias	cow	d͡ʒ a w i	55	d͡ʒawi
+147	Enggano	fish	e + a j ɔ	56	e+ajɔ
+148	Mentawai	fish	k a	56	ka
+149	Nias	fish	g i a	56	gia
+150	Enggano	coconut	e f f o	57	effo
+151	Mentawai	coconut	t ɔi t e t	57	tɔitet
+152	Nias	coconut	b a n i ɔ	57	baniɔ
+153	Enggano	banana	i d͡ʒ ɔ	58	id͡ʒɔ
+154	Mentawai	banana	b a g o	58	bago
+155	Nias	banana	g a h e	58	gahe
+156	Mentawai	sago	s a g ai	59	sagai
+157	Nias	sago	s a g u	59	sagu
+158	Enggano	water	e b b ɔ	60	ebbɔ
+159	Mentawai	water	j o j a	60	joja
+160	Nias	water	i d a n ɛu	60	idanɛu
+161	Enggano	house	u b a	61	uba
+162	Mentawai	house	ɔ e m a	61	ɔema
+163	Nias	house	n o m o	61	nomo
+164	Enggano	tree	k a h a r a + k u w ɔ	62	kahara+kuwɔ
+165	Mentawai	tree	b a k a t	62	bakat
+166	Nias	tree	e ʙ o r o	62	eʙoro
+167	Enggano	wood	e k u w ɔ	63	ekuwɔ
+168	Nias	wood	g e u	63	geu
+169	Enggano	river	i b ɔ	64	ibɔ
+170	Mentawai	river	t u b u + d͡ʒ ɔ d͡ʒ a	64	tubu+d͡ʒɔd͡ʒa
+171	Nias	river	l u a h a	64	luaha
+172	Enggano	sea	e u w e	65	euwe
+173	Mentawai	sea	h o a t	65	hoat
+174	Nias	sea	n a s i	65	nasi
+175	Enggano	ship	e u b a ʔ k i m ɔ	66	eubaʔkimɔ
+176	Mentawai	ship	k i n a p a t	66	kinapat
+177	Nias	ship	n o w o	66	nowo
+178	Enggano	sampankoboat	e l o ɔ a	67	eloɔa
+179	Mentawai	sampankoboat	a b a k	67	abak
+180	Nias	sampankoboat	t u n d a h a	67	tundaha
+181	Enggano	paddle	e ɔ d͡ʒ i	68	eɔd͡ʒi
+182	Mentawai	paddle	l u g a	68	luga
+183	Nias	paddle	g a l u g a	68	galuga
+184	Enggano	fire	e j ɔ b i	69	ejɔbi
+185	Mentawai	fire	u b e ŋ a n	69	ubeŋan
+186	Nias	fire	g a l i t a h	69	galitah
+187	Enggano	roof	u k u ʔ u b a	70	ukuʔuba
+188	Mentawai	roof	t o b a t	70	tobat
+189	Nias	roof	p u l u d͡ʒ a k u	70	pulud͡ʒaku
+190	Enggano	door	k a r u b e	71	karube
+191	Mentawai	door	p e ŋ i l o	71	peŋilo
+192	Nias	door	b a b a n d u w ɔ	71	babanduwɔ
+193	Enggano	sun	k a h a	72	kaha
+194	Mentawai	sun	s u l u	72	sulu
+195	Nias	sun	m a t a l u o	72	mataluo
+196	Enggano	day	l a k i h ɔ	73	lakihɔ
+197	Mentawai	day	m e p a t o	73	mepato
+198	Nias	day	l u o	73	luo
+199	Enggano	moon	e k a n ɔ a	74	ekanɔa
+200	Mentawai	moon	l a k o	74	lako
+201	Nias	moon	b a w a	74	bawa
+202	Enggano	star	e f e + ɔ d aː	75	efe+ɔdaː
+203	Mentawai	star	p e n j a n j a t	75	penjanjat
+204	Nias	star	d o f i	75	dofi
+205	Enggano	midday	p a r o ɛi j e	76	paroɛije
+206	Mentawai	midday	m e t u g e t + t͡ʃ u l u	76	metuget+t͡ʃulu
+207	Nias	midday	t e ŋ a l u o	76	teŋaluo
+208	Enggano	wind	e k i j u	77	ekiju
+209	Mentawai	wind	r u s a	77	rusa
+210	Nias	wind	n a ŋ i	77	naŋi
+211	Enggano	current	k a h a + k a k i	78	kaha+kaki
+212	Mentawai	current	m a r e k d e k	78	marekdek
+213	Nias	current	i d a n ɛu + s a b ɛ ʔ ɛ	78	idanɛu+sabɛʔɛ
+214	Enggano	hill	e k o e	79	ekoe
+215	Mentawai	hill	b u k u	79	buku
+216	Nias	hill	i l i + s i d ɛi d ɛi	79	ili+sidɛidɛi
+217	Enggano	mountain	e k o e	80	ekoe
+218	Mentawai	mountain	b u l a k	80	bulak
+219	Nias	mountain	i l i + s i b u a	80	ili+sibua
+220	Enggano	flood	k a ʔ u d u + d u w e	81	kaʔudu+duwe
+221	Mentawai	flood	m a d͡ʒ u d͡ʒ u t	81	mad͡ʒud͡ʒut
+222	Nias	flood	m o l u + s i b u a	81	molu+sibua
+223	Enggano	shield	e k i a h e	82	ekiahe
+224	Mentawai	shield	k u r a b i	82	kurabi
+225	Nias	shield	d a ŋ e	82	daŋe
+226	Enggano	shield	e k i a h e	82	ekiahe
+227	Mentawai	shield	k u r a b i	82	kurabi
+228	Nias	shield	t u l ɔ + t u l u	82	tulɔ+tulu
+229	Enggano	knifeko	e f i k ɔ f i k ɔ	83	efikɔfikɔ
+230	Mentawai	knifeko	p a l i t ɛi	83	palitɛi
+231	Nias	knifeko	b u l u s ɛ w a	83	bulusɛwa
+232	Enggano	bow	e p i e k ɔ	84	epiekɔ
+233	Enggano	arrow	e p i e k ɔ	85	epiekɔ
+234	Enggano	cutlassko	f ɛi t͡ʃ i	86	fɛit͡ʃi
+235	Nias	cutlassko	t o ɔ + t e l ɛ g u	86	toɔ+telɛgu
+236	Enggano	javelin	e k a j ɔ	87	ekajɔ
+237	Enggano	big	a ʔ i j e	88	aʔije
+238	Mentawai	big	a b e u	88	abeu
+239	Nias	big	s i b u a	88	sibua
+240	Enggano	small	n u k i	89	nuki
+241	Mentawai	small	s e g o s o	89	segoso
+242	Nias	small	d e ʔ i + d ɛi	89	deʔi+dɛi
+243	Enggano	old	e aː	90	eaː
+244	Mentawai	old	k e l a	90	kela
+245	Nias	old	s a t u w a	90	satuwa
+246	Enggano	young	e a h a n i j e	91	eahanije
+247	Mentawai	young	l o	91	lo
+248	Nias	young	s i k a b u j u	91	sikabuju
+249	Enggano	male	e m a n e	92	emane
+250	Nias	male	s i m a t u w a	92	simatuwa
+251	Enggano	female	e h u d a	93	ehuda
+252	Nias	female	s i h a l aː w e	93	sihalaːwe
+253	Enggano	long	ai e j e ʔ n u	94	aiejeʔnu
+254	Mentawai	long	a t a	94	ata
+255	Nias	long	e n a ʔ u	94	enaʔu
+256	Enggano	short	k a k u w ɔ	95	kakuwɔ
+257	Mentawai	short	m e t ɛ t ɛ	95	metɛtɛ
+258	Nias	short	d ɔ g ɔ + d ɔ g ɔ	95	dɔgɔ+dɔgɔ
+259	Enggano	wide	ai e j a + f o ɔ	96	aieja+foɔ
+260	Mentawai	wide	a l i ɔ	96	aliɔ
+261	Nias	wide	e b ɛu l ɔ	96	ebɛulɔ
+262	Enggano	narrow	n u k i + f o ɔ	97	nuki+foɔ
+263	Enggano	beautiful	k a ʔ u w e	98	kaʔuwe
+264	Mentawai	beautiful	m e r u i	98	merui
+265	Nias	beautiful	s ɛu k h i	98	sɛukhi
+266	Enggano	ugly	k i o e	99	kioe
+267	Mentawai	ugly	m a k a t ai	99	makatai
+268	Nias	ugly	l ɛu ʔ ɛu + s ɛu k h i	99	lɛuʔɛu+sɛukhi
+269	Enggano	high	i t͡ʃ e b e	100	it͡ʃebe
+270	Mentawai	high	a t a	100	ata
+271	Nias	high	e n a ʔ u	100	enaʔu
+272	Enggano	low	i t ɔ f ɔ	101	itɔfɔ
+273	Mentawai	low	m e t ɛ t ɛ	101	metɛtɛ
+274	Nias	low	d ɔ g ɔ + d ɔ g ɔ	101	dɔgɔ+dɔgɔ
+275	Mentawai	north	s i k a l a ʔ u t	102	sikalaʔut
+276	Mentawai	west	b e r t a p a t + s u n j i	103	bertapat+sunji
+277	Mentawai	south	k a j a m a n	104	kajaman
+278	Mentawai	east	m a t a t͡ʃ u d u	105	matat͡ʃudu
+279	Enggano	hungry	e a b a	106	eaba
+280	Mentawai	hungry	m e l a d͡ʒ ɛ	106	melad͡ʒɛ
+281	Nias	hungry	a l o f o + d a l u	106	alofo+dalu
+282	Enggano	full	h ɔ b e l e l e	107	hɔbelele
+283	Mentawai	full	m ɛ t ɛ ŋ	107	mɛtɛŋ
+284	Nias	full	a b u s u + d a l u	107	abusu+dalu
+285	Enggano	i	u w a	108	uwa
+286	Mentawai	i	a k u	108	aku
+287	Nias	i	j a o d o	108	jaodo
+288	Mentawai	i	m a ŋ a u	108	maŋau
+289	Enggano	you	o	109	o
+290	Mentawai	you	e k e ɔ	109	ekeɔ
+291	Nias	you	ɛu	109	ɛu
+292	Nias	you	j a o g o	109	jaogo
+293	Enggano	he	k i j a	110	kija
+294	Mentawai	he	e k e ɔ + l e ɔ	110	ekeɔ+leɔ
+295	Nias	he	j a + i j a	110	ja+ija
+296	Enggano	we	i k a	111	ika
+297	Mentawai	we	a k u + s e ŋ a b i l i ŋ a	111	aku+seŋabiliŋa
+298	Nias	we	j a ʔ i t a n d a	111	jaʔitanda
+299	Mentawai	you	e k e ɔ + s e ŋ a b i l i ŋ a	109	ekeɔ+seŋabiliŋa
+300	Nias	you	i a o g o	109	iaogo
+301	Enggano	they	k i j a	112	kija
+302	Mentawai	they	e k e ɔ + l e ɔ + s e ŋ a b i l i ŋ a	112	ekeɔ+leɔ+seŋabiliŋa
+303	Nias	they	i a ʔ i j a	112	iaʔija
+304	Enggano	one	k a h ai e	113	kahaie
+305	Mentawai	one	s a r a	113	sara
+306	Nias	one	s a r a	113	sara
+307	Enggano	two	a d u w a	114	aduwa
+308	Mentawai	two	d u w a	114	duwa
+309	Nias	two	d u w a	114	duwa
+310	Enggano	three	a k ɔ l u	115	akɔlu
+311	Mentawai	three	t ɛ l u	115	tɛlu
+312	Nias	three	t ɛu l u	115	tɛulu
+313	Enggano	four	a f a	116	afa
+314	Mentawai	four	e p a t	116	epat
+315	Nias	four	o f a	116	ofa
+316	Enggano	five	a l i b a	117	aliba
+317	Mentawai	five	l i m a	117	lima
+318	Nias	five	l i m a	117	lima
+319	Enggano	six	k ai k i n e	118	kaikine
+320	Mentawai	six	ɛ n ɛ m	118	ɛnɛm
+321	Nias	six	e o n ɛu	118	eonɛu
+322	Enggano	seven	a l i b e + e + a d u w a	119	alibe+e+aduwa
+323	Mentawai	seven	p i t u	119	pitu
+324	Nias	seven	f i t u	119	fitu
+325	Enggano	eight	a f a + e + a f a	120	afa+e+afa
+326	Mentawai	eight	w a l u	120	walu
+327	Nias	eight	w a l u	120	walu
+328	Enggano	nine	a l i b e + e + a f a	121	alibe+e+afa
+329	Mentawai	nine	s i w a	121	siwa
+330	Nias	nine	s i w a	121	siwa
+331	Enggano	ten	k a h a f u l u	122	kahafulu
+332	Mentawai	ten	p u l u	122	pulu
+333	Nias	ten	f u l u	122	fulu
+334	Enggano	eleven	k a h a f u l u + e + k e h ai e	123	kahafulu+e+kehaie
+335	Mentawai	eleven	p u l u + s a r a + t e r a	123	pulu+sara+tera
+336	Nias	eleven	f i l i s a r a	123	filisara
+337	Enggano	twelve	k a h a f u l u + e + a d u w a	124	kahafulu+e+aduwa
+338	Mentawai	twelve	p u l u + d u w a + t e r a	124	pulu+duwa+tera
+339	Nias	twelve	f i l i d u w a	124	filiduwa
+340	Enggano	thirteen	k a h a f u l u + e + a k ɔ l u	125	kahafulu+e+akɔlu
+341	Mentawai	thirteen	p u l u + t e l u + t e r a	125	pulu+telu+tera
+342	Nias	thirteen	f i l i + d ɛu l u	125	fili+dɛulu
+343	Enggano	twenty	k a h ai e + t a k k a	126	kahaie+takka
+344	Mentawai	twenty	d u a ŋ + a + p u l u	126	duaŋ+a+pulu
+345	Nias	twenty	d u w a p u l u	126	duwapulu
+346	Enggano	thirty	k a h ai e + t a k k a + e + k a h a f u l u	127	kahaie+takka+e+kahafulu
+347	Mentawai	thirty	t e l ɔ ŋ a + a + p u l u	127	telɔŋa+a+pulu
+348	Nias	thirty	t ɛu l u p u l u	127	tɛulupulu
+349	Enggano	forty	a d u w a + t a k k a	128	aduwa+takka
+350	Mentawai	forty	e p a t u g a + a + p u l u	128	epatuga+a+pulu
+351	Nias	forty	ɔ f a p u l u	128	ɔfapulu
+352	Enggano	fifty	a d u w a + t a k k a + e + k a h a f u l u	129	aduwa+takka+e+kahafulu
+353	Mentawai	fifty	l i m a ŋ a + a + p u l u	129	limaŋa+a+pulu
+354	Nias	fifty	l i m a p u l u	129	limapulu
+355	Enggano	sixty	a k ɔ l u + t a k k a	130	akɔlu+takka
+356	Mentawai	sixty	ɛ n ɛ ŋ a p u l u	130	ɛnɛŋapulu
+357	Nias	sixty	e o n e u p u l u	130	eoneupulu
+358	Enggano	seventy	a k ɔ l u + t a k k a + e + k a h a f u l u	131	akɔlu+takka+e+kahafulu
+359	Mentawai	seventy	p i t u ŋ a + a + p u l u	131	pituŋa+a+pulu
+360	Nias	seventy	f i t u p u l u	131	fitupulu
+361	Enggano	eighty	a f a + t a k k a	132	afa+takka
+362	Mentawai	eighty	w a l u ŋ a + a + p u l u	132	waluŋa+a+pulu
+363	Nias	eighty	w a l u p u l u	132	walupulu
+364	Enggano	ninety	a f a + t a k k a + e + k a h a f u l u	133	afa+takka+e+kahafulu
+365	Mentawai	ninety	s i w a ŋ a + a + p u l u	133	siwaŋa+a+pulu
+366	Nias	ninety	s i w a p u l u	133	siwapulu
+367	Enggano	onehundred	a l i b a + t a k k a	134	aliba+takka
+368	Mentawai	onehundred	s e ŋ o t u	134	seŋotu
+369	Nias	onehundred	o t u	134	otu
+370	Enggano	twohundred	k a h a f u l u + t a k k a	135	kahafulu+takka
+371	Mentawai	twohundred	d u a ŋ o t u	135	duaŋotu
+372	Enggano	threehundred	k a h a f u l u + e + a l i b a + t a k k a	136	kahafulu+e+aliba+takka
+373	Mentawai	threehundred	t ɛu l ɔ ŋ o t u	136	tɛulɔŋotu
+374	Enggano	fourhundred	k a h ai e + k a d ɔ d ɔ k a	137	kahaie+kadɔdɔka
+375	Enggano	onethousand	a d u w a + k a d ɔ d ɔ k a	138	aduwa+kadɔdɔka
+376	Mentawai	onethousand	p u l ɔ ŋ o t u	138	pulɔŋotu
+377	Nias	onethousand	n a h o n o	138	nahono
+378	Enggano	eat	m e n ɔ	139	menɔ
+379	Mentawai	eat	m e s u b u	139	mesubu
+380	Nias	eat	m a ŋ a	139	maŋa
+381	Enggano	drink	i t͡ʃ ɔ	140	it͡ʃɔ
+382	Mentawai	drink	m e l o h	140	meloh
+383	Nias	drink	m e ʙ a d u	140	meʙadu
+384	Enggano	sleep	a b a w u h e	141	abawuhe
+385	Mentawai	sleep	m ɛ r ɛ p	141	mɛrɛp
+386	Nias	sleep	m ɛu r ɛu	141	mɛurɛu
+387	Enggano	sit	h ɛ k u	142	hɛku
+388	Mentawai	sit	k u d u	142	kudu
+389	Nias	sit	d e d a ɔ	142	dedaɔ
+390	Enggano	walk	k e k ɔ k ɔ j e	143	kekɔkɔje
+391	Mentawai	walk	m u i n ɔ	143	muinɔ
+392	Nias	walk	m u f a n ɔ	143	mufanɔ
+393	Enggano	stand	k aɛ n ɔ	144	kaɛnɔ
+394	Mentawai	stand	m ɔ r i o	144	mɔrio
+395	Nias	stand	m a d͡ʒ i d͡ʒ i ɔ	144	mad͡ʒid͡ʒiɔ
+396	Enggano	wash	k a b ai k e	145	kabaike
+397	Mentawai	wash	b e r a u	145	berau
+398	Enggano	swim	k a ʔ a k e	146	kaʔake
+399	Mentawai	swim	m u l a l a k	146	mulalak
+400	Nias	swim	m e l a ŋ i	146	melaŋi
+401	Enggano	cook	f a b u h e	147	fabuhe
+402	Mentawai	cook	m e n ɛ ɔ	147	menɛɔ
+403	Nias	cook	m e ʙ o i	147	meʙoi
+404	Enggano	climb	b a h ɛ l e	148	bahɛle
+405	Mentawai	climb	k e p a t a	148	kepata
+406	Nias	climb	m ɔi + d͡ʒ a w a	148	mɔi+d͡ʒawa
+407	Enggano	descend	k a t ɔ f ɔ	149	katɔfɔ
+408	Mentawai	descend	k e b a r a	149	kebara
+409	Nias	descend	m ɔi + t a u ʔ u	149	mɔi+tauʔu
+410	Enggano	yes	ɔ	150	ɔ
+411	Mentawai	yes	h o o	150	hoo
+412	Nias	yes	j a ʔ i j a	150	jaʔija
+413	Enggano	no	k ɛ w a	151	kɛwa
+414	Mentawai	no	t a ʔ u	151	taʔu
+415	Nias	no	l ɛu ʔ ɛu	151	lɛuʔɛu
+416	Enggano	inside	k ɛ f ɔ	152	kɛfɔ
+417	Mentawai	inside	k e b a r a	152	kebara
+418	Nias	inside	b a k h a	152	bakha
+419	Enggano	outside	i t ɔ f ɔ	153	itɔfɔ
+420	Nias	outside	b ai r o	153	bairo
+421	Enggano	above	i t e b e	154	itebe
+422	Mentawai	above	k e p a t a	154	kepata
+423	Nias	above	d͡ʒ a w a	154	d͡ʒawa
+424	Enggano	beneath	i t ɔ f ɔ	155	itɔfɔ
+425	Mentawai	beneath	k e p ɔ l a k	155	kepɔlak
+426	Nias	beneath	t a u ʔ u	155	tauʔu
